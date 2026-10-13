@@ -15,7 +15,7 @@
 |KIST|Seongyeop Lim|임성엽|사용자 확인 대학원생; 세부 학위과정 미확정|
 |KIST|Sewon Jeong|정세원|사용자 확인 대학원생; 세부 학위과정 미확정|
 
-읽기 전용으로 확인한 발표자료는 `POSTECH_QIT_Lab_Introduction_v49_QFT_Definition.pptx`의 2쪽 ‘Our Lab’입니다. SHA-256은 `2cb2e7af82b2ff2be46f0b7bc02bcdc760d021014d46b398293e1d0775cf7091`입니다. 원본 파일은 변경하거나 배포 패키지에 포함하지 않았습니다. POSTECH 학생의 한글 이름 최광준·서우원·조준희는 2026-10-13 사용자가 직접 확인했습니다. 영문 이름과 박사과정 역할은 PPT를 근거로 하며, 한글 이름을 PPT에 기재된 정보로 설명하지 않습니다. 학생 6명의 `approvedForPublic: false` 설정은 이번 이전 구성원 추가에서 변경하지 않았습니다.
+읽기 전용으로 확인한 발표자료는 `POSTECH_QIT_Lab_Introduction_v49_QFT_Definition.pptx`의 2쪽 ‘Our Lab’입니다. SHA-256은 `2cb2e7af82b2ff2be46f0b7bc02bcdc760d021014d46b398293e1d0775cf7091`입니다. 원본 파일은 변경하거나 배포 패키지에 포함하지 않았습니다. POSTECH 학생의 한글 이름 최광준·서우원·조준희는 2026-10-13 사용자가 직접 확인했습니다. 영문 이름과 박사과정 역할은 PPT를 근거로 하며, 한글 이름을 PPT에 기재된 정보로 설명하지 않습니다. 이후 사용자의 공개·배포 요청에 따라 학생 6명의 `approvedForPublic`을 `true`로 전환하고 `publicationApproval`에 근거를 기록했습니다. 기존 사용자 자료·확인 수준은 유지하며 기관 공식 검증으로 승격하지 않습니다.
 
 ## 이전 구성원 7명
 
@@ -35,7 +35,7 @@ Sangjin Lee와 Shrobona Bagchi는 [KIAS QUC 구성원](https://www.kias.re.kr/ki
 
 Hatice Mesakkat, Wooyeong Song, Jaehak Lee, Shrobona Bagchi의 과거 역할·기간은 [기존 사이트 Alumni](https://sites.google.com/view/qitkist/group-members)에서 직접 읽었습니다. 과거 이동처만 있는 Wooyeong Song·Jaehak Lee를 현재 소속이 재검증된 것으로 표시하지 않습니다.
 
-이전 구성원 7명은 사용자가 공개 직업 정보의 추가를 요청했으므로 `approvedForPublic: true`로 반영했습니다. 현재 학생의 설정과 구분하며, 외부 사이트 배포는 수행하지 않았습니다. ‘이전 구성원’은 졸업 또는 학위 취득을 뜻하지 않습니다. KIST 시절의 Kwangjun Choi 표기만으로 현재 POSTECH 학생 Kwang-Jun Choi를 이전 구성원에 중복 추가하지 않습니다.
+이전 구성원 7명은 사용자가 공개 직업 정보의 추가를 요청했으므로 `approvedForPublic: true`로 반영했습니다. 현재 학생 6명도 이후 공개 요청을 반영해 게재 대상으로 포함했습니다. 배포를 준비 중이며 게시 성공은 아직 확인하지 않았습니다. ‘이전 구성원’은 졸업 또는 학위 취득을 뜻하지 않습니다. KIST 시절의 Kwangjun Choi 표기만으로 현재 POSTECH 학생 Kwang-Jun Choi를 이전 구성원에 중복 추가하지 않습니다.
 
 구조화 근거 파일:
 

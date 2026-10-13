@@ -35,7 +35,7 @@
       "en": "PhD student",
       "ko": "박사과정"
     },
-    "approvedForPublic": false,
+    "approvedForPublic": true,
     "verification": "user-presentation",
     "sourceLabel": "Lab introduction PPT v49 · slide 2",
     "checked": "2026-10-13",
@@ -43,6 +43,10 @@
       "status": "user-confirmed",
       "checked": "2026-10-13",
       "scope": "Korean spelling supplied by the user"
+    },
+    "publicationApproval": {
+      "date": "2026-10-13",
+      "basis": "User requested publication of the reviewed website. Institutional verification status is unchanged."
     }
   },
   {
@@ -58,7 +62,7 @@
       "en": "PhD student",
       "ko": "박사과정"
     },
-    "approvedForPublic": false,
+    "approvedForPublic": true,
     "verification": "user-presentation",
     "sourceLabel": "Lab introduction PPT v49 · slide 2",
     "checked": "2026-10-13",
@@ -66,6 +70,10 @@
       "status": "user-confirmed",
       "checked": "2026-10-13",
       "scope": "Korean spelling supplied by the user"
+    },
+    "publicationApproval": {
+      "date": "2026-10-13",
+      "basis": "User requested publication of the reviewed website. Institutional verification status is unchanged."
     }
   },
   {
@@ -81,7 +89,7 @@
       "en": "PhD student",
       "ko": "박사과정"
     },
-    "approvedForPublic": false,
+    "approvedForPublic": true,
     "verification": "user-presentation",
     "sourceLabel": "Lab introduction PPT v49 · slide 2",
     "checked": "2026-10-13",
@@ -89,6 +97,10 @@
       "status": "user-confirmed",
       "checked": "2026-10-13",
       "scope": "Korean spelling supplied by the user"
+    },
+    "publicationApproval": {
+      "date": "2026-10-13",
+      "basis": "User requested publication of the reviewed website. Institutional verification status is unchanged."
     }
   },
   {
@@ -104,11 +116,15 @@
       "en": "Graduate student",
       "ko": "대학원생"
     },
-    "approvedForPublic": false,
+    "approvedForPublic": true,
     "verification": "user-confirmed",
     "sourceUrl": "https://sites.google.com/view/qitkist/group-members",
     "sourceLabel": "User update · 2026-10-13; English spelling from legacy site",
-    "checked": "2026-10-13"
+    "checked": "2026-10-13",
+    "publicationApproval": {
+      "date": "2026-10-13",
+      "basis": "User requested publication of the reviewed website. Institutional verification status is unchanged."
+    }
   },
   {
     "id": "kist-student-2",
@@ -123,11 +139,15 @@
       "en": "Graduate student",
       "ko": "대학원생"
     },
-    "approvedForPublic": false,
+    "approvedForPublic": true,
     "verification": "user-confirmed",
     "sourceUrl": "https://sites.google.com/view/qitkist/group-members",
     "sourceLabel": "User update · 2026-10-13; English spelling from legacy site",
-    "checked": "2026-10-13"
+    "checked": "2026-10-13",
+    "publicationApproval": {
+      "date": "2026-10-13",
+      "basis": "User requested publication of the reviewed website. Institutional verification status is unchanged."
+    }
   },
   {
     "id": "kist-student-3",
@@ -142,11 +162,15 @@
       "en": "Graduate student",
       "ko": "대학원생"
     },
-    "approvedForPublic": false,
+    "approvedForPublic": true,
     "verification": "user-confirmed",
     "sourceUrl": "https://sites.google.com/view/qitkist/group-members",
     "sourceLabel": "User update · 2026-10-13; English spelling from legacy site",
-    "checked": "2026-10-13"
+    "checked": "2026-10-13",
+    "publicationApproval": {
+      "date": "2026-10-13",
+      "basis": "User requested publication of the reviewed website. Institutional verification status is unchanged."
+    }
   },
   {
     "id": "alumni-sangjin-lee",

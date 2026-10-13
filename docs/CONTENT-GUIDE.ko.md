@@ -1,6 +1,6 @@
 # 콘텐츠 수정 안내
 
-별도 서버나 데이터베이스 없이 `src/data/`의 JSON 파일을 수정합니다. GitHub 웹 편집 화면에서도 바꿀 수 있습니다. 수정 후 미리보기에서 확인하고 검토 요청(Pull request)을 거쳐 반영하세요. 학생 명단 등 검토 자료는 공개 GitHub 저장소에 올리기 전에 공개 범위를 확인해야 합니다. `approvedForPublic: false`는 사이트 출력만 제한하며 저장소 원문을 숨기지 않습니다.
+별도 서버나 데이터베이스 없이 `src/data/`의 JSON 파일을 수정합니다. GitHub 웹 편집 화면에서도 바꿀 수 있습니다. 수정 후 미리보기에서 확인하고 검토 요청(Pull request)을 거쳐 반영하세요. `main`에 반영하면 공개 모드의 배포 워크플로가 실행됩니다. 로컬 기본 모드는 계속 `review`입니다. 학생 명단 등 검토 자료는 공개 GitHub 저장소에 올리기 전에 공개 범위를 확인해야 합니다. `approvedForPublic: false`는 사이트 출력만 제한하며 저장소 원문을 숨기지 않습니다.
 
 ## 어디를 수정하나요?
 
@@ -18,7 +18,7 @@ JSON은 항목을 쉼표로 구분합니다. 마지막 항목 뒤에는 쉼표�
 
 기존 항목 하나를 복사하고 고유 `id`를 정합니다. `group`은 `current` 또는 `alumni`, `kind`는 `faculty`, `student`, `alumni`입니다. 학생의 `institution`은 현재 구현에서 `POSTECH` 또는 `KIST`입니다. 기관 추가 시 People 화면의 그룹 목록도 확장해야 합니다.
 
-PPT에 나온 POSTECH 학생 3명은 `verification: "user-presentation"`, 사용자가 현재 상태를 확인한 KIST 학생 3명은 `"user-confirmed"`입니다. 이 현재 학생 6명의 `approvedForPublic: false` 설정은 이번 이전 구성원 추가에서 변경하지 않았습니다. 현재 학생의 공개 범위를 갱신할 때 해당 필드를 바꿉니다. 검토 모드에서는 미승인 항목도 근거와 함께 보이고, 공개 모드에서는 제외됩니다. 사진·개인 이메일·개인 전화는 이번 버전에 포함하지 않았습니다.
+PPT에 나온 POSTECH 학생 3명은 `verification: "user-presentation"`, 사용자가 현재 상태를 확인한 KIST 학생 3명은 `"user-confirmed"`입니다. 현재 학생 6명은 사용자의 공개·배포 요청에 따라 `approvedForPublic: true`로 전환했으며 `publicationApproval`에 승인 근거를 기록했습니다. 이 게재 결정은 기존 `verification`을 기관 공식 검증으로 바꾸지 않습니다. 향후 공개 범위를 갱신할 때 승인 근거와 해당 필드를 함께 수정합니다. 검토 모드에서는 미승인 항목도 근거와 함께 보이고, 공개 모드에서는 제외됩니다. 사진·개인 이메일·개인 전화는 이번 버전에 포함하지 않았습니다.
 
 현재 데이터는 연구책임자 1명, 현재 학생 6명, 이전 구성원 7명으로 총 14명입니다. 이전 구성원 7명은 사용자가 공개 직업 정보의 추가를 명시적으로 요청해 `approvedForPublic: true`로 반영했습니다. 사진·개인 이메일을 추가한다는 의미는 아닙니다.
 

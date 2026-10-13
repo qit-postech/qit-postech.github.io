@@ -1,7 +1,9 @@
 name: Build, verify, and deploy Pages
 
-# Manual only: pushing a commit never publishes this site.
+# Publish authorized changes on main; external pull requests do not deploy.
 on:
+  push:
+    branches: [main]
   workflow_dispatch:
 
 permissions:
@@ -12,10 +14,10 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  SITE_URL: ${{ vars.SITE_URL }}
+  SITE_URL: ${{ vars.SITE_URL || 'https://qit-postech.github.io' }}
   BASE_PATH: ${{ vars.BASE_PATH || '/' }}
   CUSTOM_DOMAIN: ${{ vars.CUSTOM_DOMAIN }}
-  PUBLICATION_MODE: ${{ vars.PUBLICATION_MODE || 'review' }}
+  PUBLICATION_MODE: ${{ vars.PUBLICATION_MODE || 'public' }}
 
 jobs:
   build:

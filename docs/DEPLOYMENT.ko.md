@@ -1,17 +1,17 @@
 # GitHub Pages 배포 안내
 
-이 프로젝트는 Astro 정적 사이트이며 배포 산출물은 `dist/`입니다. GitHub 조직 `qit-postech`의 [qit-postech.github.io 저장소](https://github.com/qit-postech/qit-postech.github.io)가 비공개로 생성되었고 관리자·쓰기 접근을 확인했습니다. 기본 브랜치는 `main`입니다. GitHub Pages는 미게시 상태이며 학교 도메인 사용 승인과 DNS 변경은 진행하지 않았습니다. 공개 준비가 끝난 뒤 Pages를 설정합니다.
+이 프로젝트는 Astro 정적 사이트이며 배포 산출물은 `dist/`입니다. GitHub 조직 `qit-postech`의 [qit-postech.github.io 저장소](https://github.com/qit-postech/qit-postech.github.io)가 사용자 승인으로 공개 전환되었고 관리자·쓰기 접근을 확인했습니다. 기본 브랜치는 `main`입니다. GitHub Pages 배포를 준비 중이며 게시 성공은 아직 확인하지 않았습니다. 학교 도메인 사용 승인과 DNS 변경은 진행하지 않았습니다.
 
 ## 모드와 주소
 
-| 변수 | 기본값 | 설정 기준 |
+| 변수 | 로컬 기본값 | 설정 기준 |
 | --- | --- | --- |
 | `PUBLICATION_MODE` | `review` | 검토용은 `review`, 내용과 주소 승인 후 `public` |
 | `SITE_URL` | 없음 | 경로 없는 HTTPS origin. 이 저장소의 Pages 주소: `https://qit-postech.github.io`. `public`에서 필수 |
 | `BASE_PATH` | `/` | 현재 `qit-postech.github.io` 조직 루트 저장소는 `/`. 다른 프로젝트 저장소는 `/qit-lab/`처럼 실제 저장소명. 사용자 도메인은 `/` |
 | `CUSTOM_DOMAIN` | 없음 | 승인된 정식 공개 때만 호스트명 지정. `SITE_URL` 호스트와 일치해야 함 |
 
-현재 저장소를 Pages에 게시할 때는 `SITE_URL=https://qit-postech.github.io`, `BASE_PATH=/`를 사용하며 `CUSTOM_DOMAIN`은 비워 둡니다. 이 주소 설정은 학교 도메인 사용 승인을 뜻하지 않습니다. `SITE_URL`에 저장소 경로를 붙이지 마세요. `BASE_PATH`에서 지정합니다. 환경변수는 빌드와 검증에 동일하게 적용합니다. 예시는 쉘 환경변수이며 `.env` 파일을 자동으로 읽는다는 의미가 아닙니다.
+GitHub 워크플로의 기본값은 `PUBLICATION_MODE=public`, `SITE_URL=https://qit-postech.github.io`이며 로컬 기본값과 구분합니다. 현재 저장소를 Pages에 게시할 때는 `SITE_URL=https://qit-postech.github.io`, `BASE_PATH=/`를 사용하며 `CUSTOM_DOMAIN`은 비워 둡니다. 이 주소 설정은 학교 도메인 사용 승인을 뜻하지 않습니다. `SITE_URL`에 저장소 경로를 붙이지 마세요. `BASE_PATH`에서 지정합니다. 환경변수는 빌드와 검증에 동일하게 적용합니다. 예시는 쉘 환경변수이며 `.env` 파일을 자동으로 읽는다는 의미가 아닙니다.
 
 검토 모드는 검색 제외용 `noindex`를 사용합니다. 이는 접근 통제나 비공개 호스팅이 아닙니다. Pages에 배포하면 URL을 아는 사람이 접근할 수 있으므로 개인정보나 비공개 연구자료는 포함하지 않습니다. 정식 공개 모드에서도 사실 확인·공개 승인을 마친 자료만 사용합니다.
 
@@ -46,7 +46,7 @@ npm run preview
 2. 저장소 Settings → Pages → Build and deployment → Source를 **GitHub Actions**로 설정합니다.
 3. Settings → Secrets and variables → Actions → Variables에 위 변수를 입력합니다. 현재 `qit-postech.github.io` 저장소는 `SITE_URL=https://qit-postech.github.io`, `BASE_PATH=/`입니다. 다른 프로젝트 저장소 이름이 `qit-lab`이면 `BASE_PATH=/qit-lab/`를 사용합니다.
 4. `github-pages` environment에 필요한 배포 검토자·허용 브랜치를 설정합니다.
-5. Actions에서 **Build, verify, and deploy Pages**를 수동 실행합니다. 이 실행 자체가 배포를 요청합니다. 푸시만으로는 배포하지 않습니다.
+5. `main` 브랜치에 푸시하면 **Build, verify, and deploy Pages**가 실행됩니다. Actions에서 수동 실행할 수도 있습니다. 두 방식 모두 빌드·검증 후 배포를 요청합니다.
 6. 빌드와 검증에 성공해야 배포가 진행됩니다. 게시 주소에서 언어 전환, 직접 하위 URL 접근, 이미지, 404 페이지를 확인합니다.
 
 배포 작업만 `pages: write`와 `id-token: write` 권한을 사용합니다. 현재 워크플로는 GitHub 공식 액션의 버전 태그를 사용합니다. 조직 정책상 커밋 SHA 고정이 필요하면 해당 공식 릴리스의 SHA를 확인한 후 바꿉니다.
