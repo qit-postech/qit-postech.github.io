@@ -2,7 +2,7 @@
 
 기준일: 2026-10-13 · 대상: POSTECH 물리학과 Quantum Information Theory Group
 
-이 결과물은 KIST 시절 사이트를 근거별로 분리해 정리한 **한·영 연구실 홈페이지 검토본**입니다. 현재 GitHub 조직·저장소는 `qit-postech/qit-postech.github.io`로 확정되었고 사용자 승인으로 공개 전환했습니다. `https://qit-postech.github.io` 배포를 준비 중이며 게시 성공은 아직 확인하지 않았습니다. 학교 도메인 변경과 기존 사이트 수정은 수행하지 않았습니다. 아래 과거 조사 결과는 당시 근거 기록으로 유지하며, 사용자 확인과 기관 공식 검증을 구분합니다.
+이 결과물은 KIST 시절 사이트를 근거별로 분리해 정리한 **한·영 연구실 홈페이지 검토본**입니다. 현재 GitHub 조직·저장소는 `qit-postech/qit-postech.github.io`로 확정되었고 사용자 승인으로 공개 전환했습니다. `https://qit-postech.github.io` 배포를 준비 중이며 2026-10-13 GitHub Pages 게시 및 실제 화면 검증을 완료했습니다. 학교 도메인 변경과 기존 사이트 수정은 수행하지 않았습니다. 아래 과거 조사 결과는 당시 근거 기록으로 유지하며, 사용자 확인과 기관 공식 검증을 구분합니다.
 
 ## 1. 조사 결과와 출처의 구분
 
@@ -50,7 +50,7 @@
 - 이전 구성원은 사용자가 지정한 Sangjin Lee, Hyukgun Kwon(권혁건), Nuri Kang과 기존 Google 사이트 Alumni의 Hatice Mesakkat, Wooyeong Song, Jaehak Lee, Shrobona Bagchi입니다. 과거 역할과 현재 또는 당시 이동처는 별도 필드로 표시합니다.
 - Sangjin Lee와 Shrobona Bagchi의 KIAS QUC Research Fellow, Hyukgun Kwon의 세종대학교 조교수, Nuri Kang의 Yale 응용물리학 박사과정은 공식 자료로 확인했습니다. Wooyeong Song의 KISTI 선임연구원과 Jaehak Lee의 KIST 선임연구원은 과거 사이트 기록으로만 표시합니다. Hatice Mesakkat의 현재 소속은 미확인입니다.
 
-이전 구성원 7명은 공개 직업 정보의 추가를 명시한 사용자 요청에 따라 `approvedForPublic: true`로 반영했습니다. 현재 학생 6명도 이후 사용자의 공개·배포 요청에 따라 `approvedForPublic: true`로 전환하고 `publicationApproval`에 근거를 기록했습니다. 공개 모드에는 연구책임자·현재 학생 6명·이전 구성원 7명을 표시합니다. 학생 정보의 사용자 제공·확인 수준은 그대로이며 기관 공식 검증을 뜻하지 않습니다. 게시 성공은 아직 확인하지 않았습니다.
+이전 구성원 7명은 공개 직업 정보의 추가를 명시한 사용자 요청에 따라 `approvedForPublic: true`로 반영했습니다. 현재 학생 6명도 이후 사용자의 공개·배포 요청에 따라 `approvedForPublic: true`로 전환하고 `publicationApproval`에 근거를 기록했습니다. 공개 모드에는 연구책임자·현재 학생 6명·이전 구성원 7명을 표시합니다. 학생 정보의 사용자 제공·확인 수준은 그대로이며 기관 공식 검증을 뜻하지 않습니다. 2026-10-13 GitHub Pages 게시 및 실제 화면 검증을 완료했습니다.
 
 ‘이전 구성원’은 졸업·학위 취득을 뜻하지 않습니다. 과거 KIST 표기만으로 현재 POSTECH의 Kwang-Jun Choi를 이전 구성원에 중복 등록하지 않았습니다. 이름·기간·소속별 출처와 확인 수준은 [구성원 근거](PEOPLE-EVIDENCE.ko.md)에 기록했습니다.
 
@@ -84,7 +84,7 @@
 
 ## 7. 구현과 공개까지의 단계
 
-현재 결과물은 Astro 기반 정적 사이트와 분리된 콘텐츠 데이터, 검토·공개 모드, GitHub Pages 배포 안내를 갖춘 배포 준비본입니다. 로컬 기본 모드는 `review`이며 GitHub 배포 기본은 `public`입니다. 검사 방법과 환경변수는 [배포 안내](DEPLOYMENT.ko.md)에 정리했습니다. 실제 검사 결과는 최종 검수 기록과 함께 확인하며, 배포 성공을 의미하지 않습니다.
+현재 결과물은 Astro 기반 정적 사이트와 분리된 콘텐츠 데이터, 검토·공개 모드, GitHub Pages 배포 안내를 갖춘 게시된 사이트의 소스입니다. 로컬 기본 모드는 `review`이며 GitHub 배포 기본은 `public`입니다. 검사 방법과 환경변수는 [배포 안내](DEPLOYMENT.ko.md)에 정리했습니다. 첫 공개 배포는 [Actions 실행 38357330397](https://github.com/qit-postech/qit-postech.github.io/actions/runs/38357330397)에서 성공했으며, [실제 사이트 HTTP 검증](verification/github-pages-live.json)과 함께 확인할 수 있습니다.
 
 1. 교수·운영자가 현재 구성원, 최신 논문, 연구 소개, 모집 여부, 공개 권한을 확인합니다.
 2. 공개 저장소 [qit-postech/qit-postech.github.io](https://github.com/qit-postech/qit-postech.github.io)를 사용합니다. 교수·운영자 계정의 역할 부여는 별도로 확인합니다.

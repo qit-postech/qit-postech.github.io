@@ -1,6 +1,6 @@
 # GitHub Pages 배포 안내
 
-이 프로젝트는 Astro 정적 사이트이며 배포 산출물은 `dist/`입니다. GitHub 조직 `qit-postech`의 [qit-postech.github.io 저장소](https://github.com/qit-postech/qit-postech.github.io)가 사용자 승인으로 공개 전환되었고 관리자·쓰기 접근을 확인했습니다. 기본 브랜치는 `main`입니다. GitHub Pages 배포를 준비 중이며 게시 성공은 아직 확인하지 않았습니다. 학교 도메인 사용 승인과 DNS 변경은 진행하지 않았습니다.
+이 프로젝트는 Astro 정적 사이트이며 배포 산출물은 `dist/`입니다. GitHub 조직 `qit-postech`의 [qit-postech.github.io 저장소](https://github.com/qit-postech/qit-postech.github.io)가 사용자 승인으로 공개 전환되었고 관리자·쓰기 접근을 확인했습니다. 기본 브랜치는 `main`입니다. 2026-10-13 GitHub Pages 빌드·배포 성공과 실제 페이지 접속을 확인했습니다. 학교 도메인 사용 승인과 DNS 변경은 진행하지 않았습니다.
 
 ## 모드와 주소
 

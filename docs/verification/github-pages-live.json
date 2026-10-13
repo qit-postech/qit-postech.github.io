@@ -1,0 +1,345 @@
+{
+  "checkedAt": "2026-10-13T06:35:15.111576+00:00",
+  "site": "https://qit-postech.github.io",
+  "reportedDeploymentRun": 38357330397,
+  "reportedCodeCommit": "bb7b25d6119ffa4821c1a5ce4f4bfa3492405b39",
+  "method": "Read-only HTTPS GET; no browser UI or source edits.",
+  "pages": [
+    {
+      "url": "https://qit-postech.github.io/",
+      "status": 200,
+      "finalUrl": "https://qit-postech.github.io/",
+      "contentType": "text/html; charset=utf-8",
+      "localPathLeak": false,
+      "canonical": [
+        "https://qit-postech.github.io/en/"
+      ],
+      "robots": [
+        "index, follow"
+      ],
+      "reviewBannerPresent": false
+    },
+    {
+      "url": "https://qit-postech.github.io/en/",
+      "status": 200,
+      "finalUrl": "https://qit-postech.github.io/en/",
+      "contentType": "text/html; charset=utf-8",
+      "localPathLeak": false,
+      "canonical": [
+        "https://qit-postech.github.io/en/"
+      ],
+      "robots": [
+        "index, follow"
+      ],
+      "reviewBannerPresent": false
+    },
+    {
+      "url": "https://qit-postech.github.io/en/research/",
+      "status": 200,
+      "finalUrl": "https://qit-postech.github.io/en/research/",
+      "contentType": "text/html; charset=utf-8",
+      "localPathLeak": false,
+      "canonical": [
+        "https://qit-postech.github.io/en/research/"
+      ],
+      "robots": [
+        "index, follow"
+      ],
+      "reviewBannerPresent": false
+    },
+    {
+      "url": "https://qit-postech.github.io/en/people/",
+      "status": 200,
+      "finalUrl": "https://qit-postech.github.io/en/people/",
+      "contentType": "text/html; charset=utf-8",
+      "localPathLeak": false,
+      "canonical": [
+        "https://qit-postech.github.io/en/people/"
+      ],
+      "robots": [
+        "index, follow"
+      ],
+      "reviewBannerPresent": false,
+      "studentsPresent": [
+        "Kwang-Jun Choi",
+        "Woo-Won Seo",
+        "Jun-Hee Cho",
+        "Jeonghyeon Shin",
+        "Seongyeop Lim",
+        "Sewon Jeong"
+      ],
+      "alumniPresent": [
+        "Sangjin Lee",
+        "Hyukgun Kwon",
+        "Nuri Kang",
+        "Hatice Mesakkat",
+        "Wooyeong Song",
+        "Jaehak Lee",
+        "Shrobona Bagchi"
+      ]
+    },
+    {
+      "url": "https://qit-postech.github.io/en/publications/",
+      "status": 200,
+      "finalUrl": "https://qit-postech.github.io/en/publications/",
+      "contentType": "text/html; charset=utf-8",
+      "localPathLeak": false,
+      "canonical": [
+        "https://qit-postech.github.io/en/publications/"
+      ],
+      "robots": [
+        "index, follow"
+      ],
+      "reviewBannerPresent": false,
+      "publicationCount": 61
+    },
+    {
+      "url": "https://qit-postech.github.io/en/news/",
+      "status": 200,
+      "finalUrl": "https://qit-postech.github.io/en/news/",
+      "contentType": "text/html; charset=utf-8",
+      "localPathLeak": false,
+      "canonical": [
+        "https://qit-postech.github.io/en/news/"
+      ],
+      "robots": [
+        "index, follow"
+      ],
+      "reviewBannerPresent": false
+    },
+    {
+      "url": "https://qit-postech.github.io/en/join/",
+      "status": 200,
+      "finalUrl": "https://qit-postech.github.io/en/join/",
+      "contentType": "text/html; charset=utf-8",
+      "localPathLeak": false,
+      "canonical": [
+        "https://qit-postech.github.io/en/join/"
+      ],
+      "robots": [
+        "index, follow"
+      ],
+      "reviewBannerPresent": false
+    },
+    {
+      "url": "https://qit-postech.github.io/en/contact/",
+      "status": 200,
+      "finalUrl": "https://qit-postech.github.io/en/contact/",
+      "contentType": "text/html; charset=utf-8",
+      "localPathLeak": false,
+      "canonical": [
+        "https://qit-postech.github.io/en/contact/"
+      ],
+      "robots": [
+        "index, follow"
+      ],
+      "reviewBannerPresent": false
+    },
+    {
+      "url": "https://qit-postech.github.io/ko/",
+      "status": 200,
+      "finalUrl": "https://qit-postech.github.io/ko/",
+      "contentType": "text/html; charset=utf-8",
+      "localPathLeak": false,
+      "canonical": [
+        "https://qit-postech.github.io/ko/"
+      ],
+      "robots": [
+        "index, follow"
+      ],
+      "reviewBannerPresent": false
+    },
+    {
+      "url": "https://qit-postech.github.io/ko/research/",
+      "status": 200,
+      "finalUrl": "https://qit-postech.github.io/ko/research/",
+      "contentType": "text/html; charset=utf-8",
+      "localPathLeak": false,
+      "canonical": [
+        "https://qit-postech.github.io/ko/research/"
+      ],
+      "robots": [
+        "index, follow"
+      ],
+      "reviewBannerPresent": false
+    },
+    {
+      "url": "https://qit-postech.github.io/ko/people/",
+      "status": 200,
+      "finalUrl": "https://qit-postech.github.io/ko/people/",
+      "contentType": "text/html; charset=utf-8",
+      "localPathLeak": false,
+      "canonical": [
+        "https://qit-postech.github.io/ko/people/"
+      ],
+      "robots": [
+        "index, follow"
+      ],
+      "reviewBannerPresent": false,
+      "studentsPresent": [
+        "최광준",
+        "서우원",
+        "조준희",
+        "신정현",
+        "임성엽",
+        "정세원"
+      ],
+      "alumniPresent": [
+        "Sangjin Lee",
+        "권혁건",
+        "Nuri Kang",
+        "Hatice Mesakkat",
+        "Wooyeong Song",
+        "Jaehak Lee",
+        "Shrobona Bagchi"
+      ]
+    },
+    {
+      "url": "https://qit-postech.github.io/ko/publications/",
+      "status": 200,
+      "finalUrl": "https://qit-postech.github.io/ko/publications/",
+      "contentType": "text/html; charset=utf-8",
+      "localPathLeak": false,
+      "canonical": [
+        "https://qit-postech.github.io/ko/publications/"
+      ],
+      "robots": [
+        "index, follow"
+      ],
+      "reviewBannerPresent": false,
+      "publicationCount": 61
+    },
+    {
+      "url": "https://qit-postech.github.io/ko/news/",
+      "status": 200,
+      "finalUrl": "https://qit-postech.github.io/ko/news/",
+      "contentType": "text/html; charset=utf-8",
+      "localPathLeak": false,
+      "canonical": [
+        "https://qit-postech.github.io/ko/news/"
+      ],
+      "robots": [
+        "index, follow"
+      ],
+      "reviewBannerPresent": false
+    },
+    {
+      "url": "https://qit-postech.github.io/ko/join/",
+      "status": 200,
+      "finalUrl": "https://qit-postech.github.io/ko/join/",
+      "contentType": "text/html; charset=utf-8",
+      "localPathLeak": false,
+      "canonical": [
+        "https://qit-postech.github.io/ko/join/"
+      ],
+      "robots": [
+        "index, follow"
+      ],
+      "reviewBannerPresent": false
+    },
+    {
+      "url": "https://qit-postech.github.io/ko/contact/",
+      "status": 200,
+      "finalUrl": "https://qit-postech.github.io/ko/contact/",
+      "contentType": "text/html; charset=utf-8",
+      "localPathLeak": false,
+      "canonical": [
+        "https://qit-postech.github.io/ko/contact/"
+      ],
+      "robots": [
+        "index, follow"
+      ],
+      "reviewBannerPresent": false
+    },
+    {
+      "url": "https://qit-postech.github.io/robots.txt",
+      "status": 200,
+      "finalUrl": "https://qit-postech.github.io/robots.txt",
+      "contentType": "text/plain; charset=utf-8",
+      "text": "User-agent: *\nAllow: /\nSitemap: https://qit-postech.github.io/sitemap.xml\n"
+    },
+    {
+      "url": "https://qit-postech.github.io/sitemap.xml",
+      "status": 200,
+      "finalUrl": "https://qit-postech.github.io/sitemap.xml",
+      "contentType": "application/xml",
+      "routeCount": 14
+    },
+    {
+      "url": "https://qit-postech.github.io/404.html",
+      "status": 200,
+      "finalUrl": "https://qit-postech.github.io/404.html",
+      "contentType": "text/html; charset=utf-8",
+      "localPathLeak": false,
+      "canonical": [],
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "reviewBannerPresent": false
+    },
+    {
+      "url": "https://qit-postech.github.io/__qit_live_not_found_check__/",
+      "status": 404,
+      "finalUrl": "https://qit-postech.github.io/__qit_live_not_found_check__/",
+      "contentType": "text/html; charset=utf-8",
+      "localPathLeak": false,
+      "canonical": [],
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "reviewBannerPresent": false
+    }
+  ],
+  "assets": [
+    {
+      "url": "https://qit-postech.github.io/_astro/Layout.DnRud65s.css",
+      "status": 200,
+      "finalUrl": "https://qit-postech.github.io/_astro/Layout.DnRud65s.css",
+      "contentType": "text/css; charset=utf-8"
+    },
+    {
+      "url": "https://qit-postech.github.io/brand/postech-wordmark.png",
+      "status": 200,
+      "finalUrl": "https://qit-postech.github.io/brand/postech-wordmark.png",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://qit-postech.github.io/favicon.svg",
+      "status": 200,
+      "finalUrl": "https://qit-postech.github.io/favicon.svg",
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://qit-postech.github.io/research/foundations-sensing.svg",
+      "status": 200,
+      "finalUrl": "https://qit-postech.github.io/research/foundations-sensing.svg",
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://qit-postech.github.io/research/quantum-communication.svg",
+      "status": 200,
+      "finalUrl": "https://qit-postech.github.io/research/quantum-communication.svg",
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://qit-postech.github.io/research/quantum-computing.svg",
+      "status": 200,
+      "finalUrl": "https://qit-postech.github.io/research/quantum-computing.svg",
+      "contentType": "image/svg+xml"
+    }
+  ],
+  "issues": [],
+  "passed": true,
+  "browserChecks": {
+    "englishToKoreanNavigation": "passed",
+    "searchHeisenbergResults": 1,
+    "year2026Results": 5
+  },
+  "accessVerified": {
+    "baseRole": "Read",
+    "directCollaborators": 0,
+    "organizationMembers": 1,
+    "writers": "Organization owners only",
+    "autoMerge": false
+  }
+}
