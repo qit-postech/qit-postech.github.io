@@ -35,3 +35,7 @@ footer{background:#eeeae6;border-top:1px solid var(--line);padding-top:55px}.foo
 @media(max-width:860px){.alumni-person{gap:30px}.alumni-footnote{flex-direction:column;gap:20px}}
 @media(max-width:600px){.alumni-person{grid-template-columns:1fr;gap:22px;padding-block:28px}.alumni-person h3{font-size:27px}.alumni-affiliation{padding-left:17px;border-left:2px solid var(--line)}}
 }
+
+.figure-references{display:flex;flex-wrap:wrap;gap:6px 14px;margin-top:9px}.figure-references a{text-decoration:underline;text-underline-offset:3px}
+
+.figure-full-size{display:block;width:fit-content;margin-bottom:8px;text-decoration:underline;text-underline-offset:3px}

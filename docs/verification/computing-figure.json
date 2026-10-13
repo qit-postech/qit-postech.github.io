@@ -1,0 +1,132 @@
+{
+  "checkedAt": "2026-10-13",
+  "figure": "public/research/quantum-computing.svg",
+  "figma": {
+    "fileKey": "08TK5X1UWkxcvjrSKRiW1e",
+    "nodeId": "2:5",
+    "size": [
+      800,
+      480
+    ],
+    "editableTextAndVectors": true
+  },
+  "sha256": "e5bf95fd78b1222382073ac7a8e1dc181a35e954e2e7826957301948e7226fa7",
+  "scope": "Linear-optical encoded fusion and DV–CV hybrid H-cat quantum error correction",
+  "sources": [
+    "https://doi.org/10.1103/PhysRevLett.133.050605",
+    "https://doi.org/10.1103/PRXQuantum.5.030322",
+    "https://arxiv.org/html/2408.01041v1",
+    "https://arxiv.org/html/2401.00450v2"
+  ],
+  "checks": {
+    "contentValidation": "pass",
+    "reviewBuild": "pass",
+    "publicBuild": "pass",
+    "internalReferences": "pass",
+    "responsive": [
+      {
+        "path": "/en/",
+        "viewportWidth": 1440,
+        "overflow": false,
+        "imageLoaded": true,
+        "imageWidth": 374.6640625,
+        "referenceCount": 0
+      },
+      {
+        "path": "/ko/",
+        "viewportWidth": 1440,
+        "overflow": false,
+        "imageLoaded": true,
+        "imageWidth": 374.6640625,
+        "referenceCount": 0
+      },
+      {
+        "path": "/en/research/",
+        "viewportWidth": 1440,
+        "overflow": false,
+        "imageLoaded": true,
+        "imageWidth": 502.1015625,
+        "referenceCount": 2
+      },
+      {
+        "path": "/ko/research/",
+        "viewportWidth": 1440,
+        "overflow": false,
+        "imageLoaded": true,
+        "imageWidth": 502.1015625,
+        "referenceCount": 2
+      },
+      {
+        "path": "/en/",
+        "viewportWidth": 768,
+        "overflow": false,
+        "imageLoaded": true,
+        "imageWidth": 339.5,
+        "referenceCount": 0
+      },
+      {
+        "path": "/ko/",
+        "viewportWidth": 768,
+        "overflow": false,
+        "imageLoaded": true,
+        "imageWidth": 339.5,
+        "referenceCount": 0
+      },
+      {
+        "path": "/en/research/",
+        "viewportWidth": 768,
+        "overflow": false,
+        "imageLoaded": true,
+        "imageWidth": 600,
+        "referenceCount": 2
+      },
+      {
+        "path": "/ko/research/",
+        "viewportWidth": 768,
+        "overflow": false,
+        "imageLoaded": true,
+        "imageWidth": 600,
+        "referenceCount": 2
+      },
+      {
+        "path": "/en/",
+        "viewportWidth": 390,
+        "overflow": false,
+        "imageLoaded": true,
+        "imageWidth": 350,
+        "referenceCount": 0
+      },
+      {
+        "path": "/ko/",
+        "viewportWidth": 390,
+        "overflow": false,
+        "imageLoaded": true,
+        "imageWidth": 350,
+        "referenceCount": 0
+      },
+      {
+        "path": "/en/research/",
+        "viewportWidth": 390,
+        "overflow": false,
+        "imageLoaded": true,
+        "imageWidth": 350,
+        "referenceCount": 2
+      },
+      {
+        "path": "/ko/research/",
+        "viewportWidth": 390,
+        "overflow": false,
+        "imageLoaded": true,
+        "imageWidth": 350,
+        "referenceCount": 2
+      }
+    ],
+    "visualInspection": [
+      "Figma final composition",
+      "390px Korean research section",
+      "1440px English research section"
+    ],
+    "fullSizeLink": "Verified bilingual accessible links point to SVG and open in a new tab"
+  },
+  "scientificScope": "Original conceptual schematic; fusion is a Bell measurement; two even-cat logical basis states are shown separately; single-photon loss changes parity; outer DV QEC handles residual errors. No numerical performance claims or reproduction of published figures."
+}

@@ -7,23 +7,23 @@
       "ko": "양자컴퓨팅"
     },
     "subtitle": {
-      "en": "Making quantum information work",
-      "ko": "양자정보를 계산으로"
+      "en": "Fusion with light, protection with hybrid codes",
+      "ko": "빛의 융합과 하이브리드 오류 정정"
     },
     "description": {
-      "en": "Quantum computing and quantum algorithms are central topics in the group’s research. The earlier KIST research archive includes approaches to optical quantum computing and quantum error correction.",
-      "ko": "양자컴퓨팅과 양자알고리즘을 연구합니다. KIST 시절 연구 기록에는 광학 기반 양자컴퓨팅과 양자 오류 정정에 관한 연구가 포함되어 있습니다."
+      "en": "We study linear-optical fusion-based quantum computing and hybrid quantum error correction that combines discrete-variable (DV) single-photon qubits with continuous-variable (CV) bosonic cat codes. Our work explores encoded Bell fusion and fusion networks, alongside hybrid encodings and measurements that address photon loss.",
+      "ko": "선형광학 융합 기반 양자컴퓨팅과 이산변수(DV) 단일광자 큐비트·연속변수(CV) 보손 고양이 부호를 결합한 하이브리드 양자 오류 정정을 연구합니다. 부호화된 벨 융합과 융합 네트워크, 광자 손실에 대응하는 하이브리드 부호화와 측정을 탐구합니다."
     },
     "tags": {
       "en": [
-        "Quantum algorithms",
-        "Error correction",
-        "Optical quantum computing"
+        "Linear-optical fusion",
+        "Encoded Bell measurements",
+        "DV–CV hybrid QEC"
       ],
       "ko": [
-        "양자알고리즘",
-        "오류 정정",
-        "광학 양자컴퓨팅"
+        "선형광학 융합",
+        "부호화된 벨 측정",
+        "DV–CV 하이브리드 오류 정정"
       ]
     },
     "sourceUrl": "https://ph.postech.ac.kr/physics/member/professor.do?articleNo=36802&mode=view",
@@ -32,13 +32,23 @@
     "figure": {
       "src": "research/quantum-computing.svg",
       "alt": {
-        "en": "A Hadamard gate and two controlled-NOT gates beside a schematic grid for quantum error correction.",
-        "ko": "하다마드 게이트와 두 CNOT 게이트로 구성된 회로, 양자 오류 정정을 나타내는 개념 격자."
+        "en": "Top: encoded resources connect through linear-optical Bell fusion measuring XX and ZZ to form a fusion network. Bottom: H-cat basis states pair single-photon polarization |+⟩ with an even cat at ±α, and |−⟩ with an even cat at ±iα; hybrid fusion and loss-parity measurements connect to outer DV error correction.",
+        "ko": "위: 부호화된 자원 상태가 XX·ZZ를 측정하는 선형광학 벨 융합을 거쳐 융합 네트워크로 연결됩니다. 아래: H-cat 기저는 단일광자 편광 |+⟩와 ±α의 짝수 고양이 상태, |−⟩와 ±iα의 짝수 고양이 상태를 각각 결합하며, 하이브리드 융합·손실 패리티 측정에서 외부 DV 오류 정정으로 이어집니다."
       },
       "caption": {
-        "en": "Quantum gates and the protection of encoded information. Conceptual illustration.",
-        "ko": "양자 게이트와 부호화된 정보의 보호를 표현한 개념도입니다."
-      }
+        "en": "Encoded fusion and DV–CV hybrid error correction. Original conceptual schematics based on the linked studies; not complete optical circuits or Wigner-function data.",
+        "ko": "부호화된 융합과 DV–CV 하이브리드 오류 정정의 개념도입니다. 연결된 연구를 바탕으로 새로 그렸으며, 완전한 광학 회로나 위그너 함수 데이터가 아닙니다."
+      },
+      "references": [
+        {
+          "label": "Phys. Rev. Lett. 133, 050605 (2024)",
+          "url": "https://doi.org/10.1103/PhysRevLett.133.050605"
+        },
+        {
+          "label": "PRX Quantum 5, 030322 (2024)",
+          "url": "https://doi.org/10.1103/PRXQuantum.5.030322"
+        }
+      ]
     }
   },
   {

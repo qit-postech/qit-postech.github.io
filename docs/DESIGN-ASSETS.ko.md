@@ -1,6 +1,6 @@
 # 디자인 자산과 수정 방법
 
-이 사이트는 공식 POSTECH 워드마크와 이번 작업에서 새로 만든 연구 도해를 사용합니다. 기존 KIST 사이트의 사진·연구 그림·저널 표지·긴 설명문은 복제하지 않았습니다. 적용 범위는 사용자가 요청한 로컬 검토본이며 공개 배포나 대학의 별도 승인 완료를 의미하지 않습니다.
+이 사이트는 공식 POSTECH 워드마크와 이번 작업에서 새로 만든 연구 도해를 사용합니다. 기존 KIST 사이트의 사진·연구 그림·저널 표지·긴 설명문은 복제하지 않았습니다. 사용자의 공개 배포 요청에 따라 [GitHub Pages 사이트](https://qit-postech.github.io/)에서 사용합니다. 이는 대학의 별도 승인이나 학교 도메인 사용 승인을 의미하지 않으며, 학교 도메인의 DNS는 변경하지 않았습니다.
 
 ## 공식 워드마크
 
@@ -14,11 +14,17 @@
 
 |연구 영역|Figma 프레임|웹 파일|설명 범위|
 |---|---|---|---|
-|양자컴퓨팅|[2:5](https://www.figma.com/design/08TK5X1UWkxcvjrSKRiW1e?node-id=2-5)|`public/research/quantum-computing.svg`|3개 와이어의 H/CNOT 회로와 개념적 오류정정 격자. 특정 코드의 완전한 회로·격자를 뜻하지 않음|
+|양자컴퓨팅|[2:5](https://www.figma.com/design/08TK5X1UWkxcvjrSKRiW1e?node-id=2-5)|`public/research/quantum-computing.svg`|부호화된 자원 → 선형광학 벨 융합(XX·ZZ) → 융합 네트워크, H-cat 부호화 → 하이브리드 융합·손실 패리티 측정 → 외부 DV 오류 정정. 완전한 회로나 위그너 함수 데이터가 아닌 개념도|
 |양자통신|[2:42](https://www.figma.com/design/08TK5X1UWkxcvjrSKRiW1e?node-id=2-42)|`public/research/quantum-communication.svg`|노드·중계기·얽힘 연결과 점선 고전통신 경로|
 |기초·센싱|[2:66](https://www.figma.com/design/08TK5X1UWkxcvjrSKRiW1e?node-id=2-66)|`public/research/foundations-sensing.svg`|Bloch 구면의 위상과 개념적 간섭곡선. 실험 데이터나 특정 논문의 결과가 아님|
 
 세 도해는 한·영 Home과 Research에서 함께 사용합니다. 대체 텍스트와 캡션은 `src/data/research.json`의 대응 언어 항목에서 관리합니다. SVG 내부의 윤곽선 글자만으로 접근성을 제공한다고 가정하지 말고 의미 있는 대체 텍스트를 유지합니다.
+
+## 양자컴퓨팅 도해의 근거와 표기
+
+상단은 [Phys. Rev. Lett. 133, 050605 (2024)](https://doi.org/10.1103/PhysRevLett.133.050605)의 부호화된 융합 기반 컴퓨팅을 바탕으로 합니다. 부호화된 자원을 선형광학·광자 검출기로 구현하는 벨 융합에 연결하고, 논리적 XX·ZZ 측정 결과를 융합 네트워크의 오류 정정에 사용하는 관계를 보여줍니다. [저자 원문](https://arxiv.org/html/2408.01041v1)의 전체 장치나 특정 격자를 재현하지 않았으며 수치 임계값을 주장하지 않습니다.
+
+하단은 [PRX Quantum 5, 030322 (2024)](https://doi.org/10.1103/PRXQuantum.5.030322)의 DV–CV 하이브리드 오류 정정과 [저자 원문](https://arxiv.org/html/2401.00450v2)의 H-cat 정의를 따릅니다. 논리 기저는 `|0_L⟩ = |+⟩|C⁺_α⟩`, `|1_L⟩ = |−⟩|C⁺_iα⟩`입니다. 여기서 `|±⟩ = (|H⟩ ± |V⟩)/√2`는 단일광자 편광이며, 두 CV 상태는 각각 `|α⟩ + |−α⟩`, `|iα⟩ + |−iα⟩`를 정규화한 **짝수** 고양이 상태입니다. 편광의 `−`를 홀수 고양이 상태로 해석하지 않습니다. 복소평면의 점은 코히런트 성분의 위치를 나타내며 위그너 함수가 아닙니다. 손실에 따른 패리티 정보와 하이브리드 융합을 외부 DV 오류 정정에 연결하는 개념만 표현합니다.
 
 ## Figma 수정과 재출력
 
