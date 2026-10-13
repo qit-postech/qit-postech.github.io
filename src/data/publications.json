@@ -1,0 +1,2158 @@
+[
+  {
+    "title": "Qudit-based variational quantum eigensolver using photonic orbital angular momentum states",
+    "authors": "B. Kim, K.-M. Hu, M.-H. Sohn, Y. Kim, Y.-S. Kim, SWL, H.-T. Lim",
+    "year": 2024,
+    "publicationInfo": "Science Advances 10, eado3472 (2024)",
+    "doi": "10.1126/sciadv.ado3472",
+    "arxiv": null,
+    "url": "https://www.science.org/doi/10.1126/sciadv.ado3472",
+    "sourceUrl": "https://sites.google.com/view/qitkist/publications",
+    "sourceStatus": "legacy",
+    "sourceChecked": "2026-10-13",
+    "section": "Recent publications",
+    "metadataStatus": "transcribed from legacy site; publisher metadata not independently verified",
+    "sourceOccurrences": [
+      {
+        "section": "Recent publications",
+        "title": "Qudit-based variational quantum eigensolver using photonic orbital angular momentum states",
+        "authors": "B. Kim, K.-M. Hu, M.-H. Sohn, Y. Kim, Y.-S. Kim, SWL, H.-T. Lim",
+        "publicationInfo": "Science Advances 10, eado3472 (2024)"
+      }
+    ],
+    "verification": {
+      "status": "legacy transcription only",
+      "checkedFields": [],
+      "note": "Science publisher page could not be opened with web tool; no independent metadata verification claimed."
+    },
+    "id": "legacy-001",
+    "venue": "Science Advances 10, eado3472 (2024)",
+    "link": "https://www.science.org/doi/10.1126/sciadv.ado3472",
+    "publicationType": "journal"
+  },
+  {
+    "title": "Photonic variational quantum eigensolver using entanglement measurements",
+    "authors": "J. Lee, W. Song, D. Lee, Y. Kim, SWL, H.-T. Lim, H. Jung, S.-W. Han, Y.-S. Kim",
+    "year": 2024,
+    "publicationInfo": "Quantum Science and Technology 9, 045028 (2024)",
+    "doi": "10.1088/2058-9565/ad6d87",
+    "arxiv": null,
+    "url": "https://doi.org/10.1088/2058-9565/ad6d87",
+    "sourceUrl": "https://sites.google.com/view/qitkist/publications",
+    "sourceStatus": "legacy",
+    "sourceChecked": "2026-10-13",
+    "section": "Recent publications",
+    "metadataStatus": "transcribed from legacy site; publisher metadata not independently verified",
+    "sourceOccurrences": [
+      {
+        "section": "Recent publications",
+        "title": "Photonic variational quantum eigensolver using entanglement measurements",
+        "authors": "J. Lee, W. Song, D. Lee, Y. Kim, SWL, H.-T. Lim, H. Jung, S.-W. Han, Y.-S. Kim",
+        "publicationInfo": "Quantum Science and Technology 9, 045028 (2024)"
+      },
+      {
+        "section": "Full publications",
+        "title": "Photonic variational quantum eigensolver using entanglement measurements",
+        "authors": "J. Lee, W. Song, D. Lee, Y. Kim, SWL, H.-T. Lim, H. Jung, S.-W. Han, Y.-S. Kim",
+        "publicationInfo": "Quantum Science and Technology 9, 045028 (2024)"
+      }
+    ],
+    "verification": {
+      "status": "legacy transcription only",
+      "checkedFields": []
+    },
+    "id": "legacy-002",
+    "venue": "Quantum Science and Technology 9, 045028 (2024)",
+    "link": "https://doi.org/10.1088/2058-9565/ad6d87",
+    "publicationType": "journal"
+  },
+  {
+    "title": "Fault-Tolerant Quantum Computation by Hybrid Qubits with Bosonic Cat Code and Single Photons",
+    "authors": "J. Lee, N. Kang, S.-H. Lee, H. Jeong, L. Jiang, SWL*",
+    "year": 2024,
+    "publicationInfo": "PRX Quantum 5, 030322 (2024)",
+    "doi": "10.1103/PRXQuantum.5.030322",
+    "arxiv": null,
+    "url": "https://doi.org/10.1103/PRXQuantum.5.030322",
+    "sourceUrl": "https://sites.google.com/view/qitkist/publications",
+    "sourceStatus": "legacy",
+    "sourceChecked": "2026-10-13",
+    "section": "Recent publications",
+    "metadataStatus": "transcribed from legacy site; publisher metadata not independently verified",
+    "sourceOccurrences": [
+      {
+        "section": "Recent publications",
+        "title": "Fault-Tolerant Quantum Computation by Hybrid Qubits with Bosonic Cat Code and Single Photons",
+        "authors": "J. Lee, N. Kang, S.-H. Lee, H. Jeong, L. Jiang, SWL*",
+        "publicationInfo": "PRX Quantum 5, 030322 (2024)"
+      },
+      {
+        "section": "Full publications",
+        "title": "Fault-Tolerant Quantum Computation by Hybrid Qubits with Bosonic Cat Code and Single Photons",
+        "authors": "J. Lee, N. Kang, S.-H. Lee, H. Jeong, L. Jiang, SWL",
+        "publicationInfo": "PRX Quantum 5, 030322 (2024)"
+      }
+    ],
+    "verification": {
+      "sourceUrl": "https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.030322",
+      "authors": [
+        "Jaehak Lee",
+        "Nuri Kang",
+        "Seok-Hyung Lee",
+        "Hyunseok Jeong",
+        "Liang Jiang",
+        "Seung-Woo Lee"
+      ],
+      "publicationDate": "2024-08-02",
+      "note": "Publisher also lists a 2025-01-29 correction of typographical errors in Eqs. (A5), (A6), and (C5).",
+      "status": "publisher metadata checked",
+      "sourceChecked": "2026-10-13",
+      "checkedFields": [
+        "title",
+        "author identities and order",
+        "year",
+        "journal citation",
+        "doi"
+      ],
+      "fieldNotes": "Legacy authors string retained; publisher full author names supplied separately."
+    },
+    "id": "legacy-003",
+    "venue": "PRX Quantum 5, 030322 (2024)",
+    "link": "https://doi.org/10.1103/PRXQuantum.5.030322",
+    "publicationType": "journal"
+  },
+  {
+    "title": "Encoded-Fusion-Based Quantum Computation for High Thresholds with Linear Optics",
+    "authors": "W. Song, N. Kang, Y.-S. Kim, SWL*",
+    "year": 2024,
+    "publicationInfo": "Phys. Rev. Lett. 133, 050605 (2024)",
+    "doi": "10.1103/PhysRevLett.133.050605",
+    "arxiv": null,
+    "url": "https://doi.org/10.1103/PhysRevLett.133.050605",
+    "sourceUrl": "https://sites.google.com/view/qitkist/publications",
+    "sourceStatus": "legacy",
+    "sourceChecked": "2026-10-13",
+    "section": "Recent publications",
+    "metadataStatus": "transcribed from legacy site; publisher metadata not independently verified",
+    "sourceOccurrences": [
+      {
+        "section": "Recent publications",
+        "title": "Encoded-Fusion-Based Quantum Computation for High Thresholds with Linear Optics",
+        "authors": "W. Song, N. Kang, Y.-S. Kim, SWL*",
+        "publicationInfo": "Phys. Rev. Lett. 133, 050605 (2024)"
+      },
+      {
+        "section": "Full publications",
+        "title": "Encoded-Fusion-Based Quantum Computation for High Thresholds with Linear Optics",
+        "authors": "W. Song, N. Kang, Y.-S. Kim, SWL",
+        "publicationInfo": "Phys. Rev. Lett. 133, 050605 (2024)"
+      }
+    ],
+    "verification": {
+      "sourceUrl": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.050605",
+      "authors": [
+        "Wooyeong Song",
+        "Nuri Kang",
+        "Yong-Su Kim",
+        "Seung-Woo Lee"
+      ],
+      "publicationDate": "2024-08-01",
+      "note": "Publisher affiliation for Seung-Woo Lee is KIST on this 2024 paper, not POSTECH.",
+      "status": "publisher metadata checked",
+      "sourceChecked": "2026-10-13",
+      "checkedFields": [
+        "title",
+        "author identities and order",
+        "year",
+        "journal citation",
+        "doi"
+      ],
+      "fieldNotes": "Legacy authors string retained; publisher full author names supplied separately."
+    },
+    "id": "legacy-004",
+    "venue": "Phys. Rev. Lett. 133, 050605 (2024)",
+    "link": "https://doi.org/10.1103/PhysRevLett.133.050605",
+    "publicationType": "journal"
+  },
+  {
+    "title": "Distributed quantum sensing of multiple phases with fewer photons",
+    "authors": "D.-H. Kim, S. Hong, Y.-S. Kim, Y. Kim, SWL, R. C. Pooser, K. Oh, S.-Y. Lee, C. Lee, H.-T. Lim",
+    "year": 2024,
+    "publicationInfo": "Nature Communications 15, 266 (2024)",
+    "doi": "10.1038/s41467-023-44204-z",
+    "arxiv": null,
+    "url": "https://doi.org/10.1038/s41467-023-44204-z",
+    "sourceUrl": "https://sites.google.com/view/qitkist/publications",
+    "sourceStatus": "legacy",
+    "sourceChecked": "2026-10-13",
+    "section": "Recent publications",
+    "metadataStatus": "transcribed from legacy site; publisher metadata not independently verified",
+    "sourceOccurrences": [
+      {
+        "section": "Recent publications",
+        "title": "Distributed quantum sensing of multiple phases with fewer photons",
+        "authors": "D.-H. Kim, S. Hong, Y.-S. Kim, Y. Kim, SWL, R. C. Pooser, K. Oh, S.-Y. Lee, C. Lee, H.-T. Lim",
+        "publicationInfo": "Nature Communications 15, 266 (2024)"
+      },
+      {
+        "section": "Full publications",
+        "title": "Distributed quantum sensing of multiple phases with fewer photons",
+        "authors": "D.-H. Kim, S. Hong, Y.-S. Kim, Y. Kim, SWL, R. C. Pooser, K. Oh, S.-Y. Lee, C. Lee, H.-T. Lim",
+        "publicationInfo": "Nature Communications 15, 266 (2024)"
+      }
+    ],
+    "verification": {
+      "status": "legacy transcription only",
+      "checkedFields": []
+    },
+    "id": "legacy-005",
+    "venue": "Nature Communications 15, 266 (2024)",
+    "link": "https://doi.org/10.1038/s41467-023-44204-z",
+    "publicationType": "journal"
+  },
+  {
+    "title": "Certifying quantum state and dimension via phase-space Bell tests for continuous variable systems",
+    "authors": "A. Dutta, SWL, H. Nha",
+    "year": 2023,
+    "publicationInfo": "Optics Communications 534, 129322 (2023)",
+    "doi": "10.1016/j.optcom.2023.129322",
+    "arxiv": null,
+    "url": "https://doi.org/10.1016/j.optcom.2023.129322",
+    "sourceUrl": "https://sites.google.com/view/qitkist/publications",
+    "sourceStatus": "legacy",
+    "sourceChecked": "2026-10-13",
+    "section": "Recent publications",
+    "metadataStatus": "transcribed from legacy site; publisher metadata not independently verified",
+    "sourceOccurrences": [
+      {
+        "section": "Recent publications",
+        "title": "Certifying quantum state and dimension via phase-space Bell tests for continuous variable systems",
+        "authors": "A. Dutta, SWL, H. Nha",
+        "publicationInfo": "Optics Communications 534, 129322 (2023)"
+      },
+      {
+        "section": "Full publications",
+        "title": "Certifying quantum state and dimension via phase-space Bell tests for continuous variable systems",
+        "authors": "A. Dutta, SWL, H. Nha",
+        "publicationInfo": "Optics Communications 534, 129322 (2023)"
+      }
+    ],
+    "verification": {
+      "status": "legacy transcription only",
+      "checkedFields": []
+    },
+    "id": "legacy-006",
+    "venue": "Optics Communications 534, 129322 (2023)",
+    "link": "https://doi.org/10.1016/j.optcom.2023.129322",
+    "publicationType": "journal"
+  },
+  {
+    "title": "Demonstration of complete information trade-off in quantum measurement",
+    "authors": "S. Hong, Y.-S. Kim, Y.-W. Cho, J. Kim, SWL*, H.-T. Lim*",
+    "year": 2022,
+    "publicationInfo": "Phys. Rev. Lett. 128, 050401 (2022)",
+    "doi": "10.1103/PhysRevLett.128.050401",
+    "arxiv": null,
+    "url": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.050401",
+    "sourceUrl": "https://sites.google.com/view/qitkist/publications",
+    "sourceStatus": "legacy",
+    "sourceChecked": "2026-10-13",
+    "section": "Recent publications",
+    "metadataStatus": "transcribed from legacy site; publisher metadata not independently verified",
+    "sourceOccurrences": [
+      {
+        "section": "Recent publications",
+        "title": "Demonstration of complete information trade-off in quantum measurement",
+        "authors": "S. Hong, Y.-S. Kim, Y.-W. Cho, J. Kim, SWL*, H.-T. Lim*",
+        "publicationInfo": "Phys. Rev. Lett. 128, 050401 (2022)"
+      },
+      {
+        "section": "Full publications",
+        "title": "Demonstration of complete information trade-off in quantum measurement",
+        "authors": "S. Hong, Y.-S. Kim, Y.-W. Cho, J. Kim, SWL, H.-T. Lim",
+        "publicationInfo": "Phys. Rev. Lett. 128, 050401 (2022)"
+      }
+    ],
+    "verification": {
+      "status": "legacy transcription only",
+      "checkedFields": []
+    },
+    "id": "legacy-007",
+    "venue": "Phys. Rev. Lett. 128, 050401 (2022)",
+    "link": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.050401",
+    "publicationType": "journal"
+  },
+  {
+    "title": "2×N twin-field quantum key distribution network configuration based on polarization, wavelength, and time division multiplexing",
+    "authors": "C. H. Park, M. K. Woo, B. K. Park, Y.-S. Kim, H. Baek, SWL, H.-T. Lim, S.-W. Jeon, H. Jung, S. Kim and S.-W. Han",
+    "year": 2022,
+    "publicationInfo": "npj Quantum Information 8, 48 (2022)",
+    "doi": "10.1038/s41534-022-00558-8",
+    "arxiv": null,
+    "url": "https://www.nature.com/articles/s41534-022-00558-8",
+    "sourceUrl": "https://sites.google.com/view/qitkist/publications",
+    "sourceStatus": "legacy",
+    "sourceChecked": "2026-10-13",
+    "section": "Recent publications",
+    "metadataStatus": "transcribed from legacy site; publisher metadata not independently verified",
+    "sourceOccurrences": [
+      {
+        "section": "Recent publications",
+        "title": "2×N twin-field quantum key distribution network configuration based on polarization, wavelength, and time division multiplexing",
+        "authors": "C. H. Park, M. K. Woo, B. K. Park, Y.-S. Kim, H. Baek, SWL, H.-T. Lim, S.-W. Jeon, H. Jung, S. Kim and S.-W. Han",
+        "publicationInfo": "npj Quantum Information 8, 48 (2022)"
+      },
+      {
+        "section": "Full publications",
+        "title": "2×N twin-field quantum key distribution network configuration based on polarization, wavelength, and time division multiplexing",
+        "authors": "C. H. Park, M. K. Woo, B. K. Park, Y.-S. Kim, H. Baek, SWL, H.-T. Lim, S.-W. Jeon, H. Jung, S. Kim and S.-W. Han",
+        "publicationInfo": "npj Quantum Information 8, 48 (2022)"
+      }
+    ],
+    "verification": {
+      "status": "legacy transcription only",
+      "checkedFields": []
+    },
+    "id": "legacy-008",
+    "venue": "npj Quantum Information 8, 48 (2022)",
+    "link": "https://www.nature.com/articles/s41534-022-00558-8",
+    "publicationType": "journal",
+    "doiVerification": {
+      "id": "legacy-008",
+      "doi": "10.1038/s41534-022-00558-8",
+      "titleMatched": true,
+      "sameArticleConfirmed": true,
+      "publisherTitle": "2×N twin-field quantum key distribution network configuration based on polarization, wavelength, and time division multiplexing",
+      "legacyTitle": "2×N twin-field quantum key distribution network configuration based on polarization, wavelength, and time division multiplexing",
+      "sourceUrl": "https://www.nature.com/articles/s41534-022-00558-8",
+      "checked": "2026-10-13",
+      "verificationScope": "DOI and title only; not full author/year metadata audit",
+      "checkedFields": [
+        "doi",
+        "title"
+      ],
+      "method": "publisher HTML citation_doi and citation_title metadata",
+      "note": "Title matches ignoring capitalization."
+    }
+  },
+  {
+    "title": "All-Photonic Architecture for Scalable Quantum Computing with Greenberger-Horne-Zeilinger States",
+    "authors": "S. Omkar, S.-H. Lee, Y. S. Teo, SWL, and H. Jeong",
+    "year": 2022,
+    "publicationInfo": "PRX Quantum 3, 030309 (2022)",
+    "doi": "10.1103/PRXQuantum.3.030309",
+    "arxiv": null,
+    "url": "https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.3.030309",
+    "sourceUrl": "https://sites.google.com/view/qitkist/publications",
+    "sourceStatus": "legacy",
+    "sourceChecked": "2026-10-13",
+    "section": "Recent publications",
+    "metadataStatus": "transcribed from legacy site; publisher metadata not independently verified",
+    "sourceOccurrences": [
+      {
+        "section": "Recent publications",
+        "title": "All-Photonic Architecture for Scalable Quantum Computing with Greenberger-Horne-Zeilinger States",
+        "authors": "S. Omkar, S.-H. Lee, Y. S. Teo, SWL, and H. Jeong",
+        "publicationInfo": "PRX Quantum 3, 030309 (2022)"
+      },
+      {
+        "section": "Full publications",
+        "title": "All-Photonic Architecture for Scalable Quantum Computing with Greenberger-Horne-Zeilinger States",
+        "authors": "S. Omkar, S.-H. Lee, Y. S. Teo, SWL, and H. Jeong",
+        "publicationInfo": "PRX Quantum 3, 030309 (2022)"
+      }
+    ],
+    "verification": {
+      "status": "legacy transcription only",
+      "checkedFields": []
+    },
+    "id": "legacy-009",
+    "venue": "PRX Quantum 3, 030309 (2022)",
+    "link": "https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.3.030309",
+    "publicationType": "journal"
+  },
+  {
+    "title": "Optimal strategy for multiple-phase estimation under practical measurement with multimode NOON state",
+    "authors": "J. Rehman, S. Hong, SWL, Y.-S. Kim, Y.-W. Cho, H. Jung, S. M., H. Shin, S.-W. Han, and H.-T. Lim",
+    "year": 2022,
+    "publicationInfo": "Phys. Rev. A 106, 032612 (2022)",
+    "doi": "10.1103/PhysRevA.106.032612",
+    "arxiv": null,
+    "url": "https://journals.aps.org/pra/abstract/10.1103/PhysRevA.106.032612",
+    "sourceUrl": "https://sites.google.com/view/qitkist/publications",
+    "sourceStatus": "legacy",
+    "sourceChecked": "2026-10-13",
+    "section": "Recent publications",
+    "metadataStatus": "transcribed from legacy site; publisher metadata not independently verified",
+    "sourceOccurrences": [
+      {
+        "section": "Recent publications",
+        "title": "Optimal strategy for multiple-phase estimation under practical measurement with multimode NOON state",
+        "authors": "J. Rehman, S. Hong, SWL, Y.-S. Kim, Y.-W. Cho, H. Jung, S. M., H. Shin, S.-W. Han, and H.-T. Lim",
+        "publicationInfo": "Phys. Rev. A 106, 032612 (2022)"
+      },
+      {
+        "section": "Full publications",
+        "title": "Optimal strategy for multiple-phase estimation under practical measurement with multimode NOON state",
+        "authors": "J. Rehman, S. Hong, SWL, Y.-S. Kim, Y.-W. Cho, H. Jung, S. M., H. Shin, S.-W. Han, and H.-T. Lim",
+        "publicationInfo": "Phys. Rev. A 106, 032612 (2022)"
+      }
+    ],
+    "verification": {
+      "status": "legacy transcription only",
+      "checkedFields": []
+    },
+    "id": "legacy-010",
+    "venue": "Phys. Rev. A 106, 032612 (2022)",
+    "link": "https://journals.aps.org/pra/abstract/10.1103/PhysRevA.106.032612",
+    "publicationType": "journal"
+  },
+  {
+    "title": "Practical Sensitivity Bound for Multiple Phase Estimation with Multi-Mode N00N States",
+    "authors": "S. Hong, J. Rehman, Y.-S. Kim, Y.-W. Cho, SWL, S.-Y. Lee, and H.-T. Lim",
+    "year": 2022,
+    "publicationInfo": "Laser Photonics Rev. 16, 2100682 (2022)",
+    "doi": "10.1002/lpor.202100682",
+    "arxiv": null,
+    "url": "https://onlinelibrary.wiley.com/doi/10.1002/lpor.202100682",
+    "sourceUrl": "https://sites.google.com/view/qitkist/publications",
+    "sourceStatus": "legacy",
+    "sourceChecked": "2026-10-13",
+    "section": "Recent publications",
+    "metadataStatus": "transcribed from legacy site; publisher metadata not independently verified",
+    "sourceOccurrences": [
+      {
+        "section": "Recent publications",
+        "title": "Practical Sensitivity Bound for Multiple Phase Estimation with Multi-Mode N00N States",
+        "authors": "S. Hong, J. Rehman, Y.-S. Kim, Y.-W. Cho, SWL, S.-Y. Lee, and H.-T. Lim",
+        "publicationInfo": "Laser Photonics Rev. 16, 2100682 (2022)"
+      },
+      {
+        "section": "Full publications",
+        "title": "Practical Sensitivity Bound for Multiple Phase Estimation with Multi-Mode N00N States",
+        "authors": "S. Hong, J. Rehman, Y.-S. Kim, Y.-W. Cho, SWL, S.-Y. Lee, and H.-T. Lim",
+        "publicationInfo": "Laser Photonics Rev. 16, 2100682 (2022)"
+      }
+    ],
+    "verification": {
+      "status": "legacy transcription only",
+      "checkedFields": []
+    },
+    "id": "legacy-011",
+    "venue": "Laser Photonics Rev. 16, 2100682 (2022)",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/lpor.202100682",
+    "publicationType": "journal"
+  },
+  {
+    "title": "Loss-tolerant concatenated Bell-state measurement with encoded coherent-state qubits for long-range quantum communication",
+    "authors": "S.-H. Lee, SWL, H. Jeong",
+    "year": 2021,
+    "publicationInfo": "Phys. Rev. Research 3, 043205 (2021)",
+    "doi": "10.1103/PhysRevResearch.3.043205",
+    "arxiv": null,
+    "url": "https://doi.org/10.1103/PhysRevResearch.3.043205",
+    "sourceUrl": "https://sites.google.com/view/qitkist/publications",
+    "sourceStatus": "legacy",
+    "sourceChecked": "2026-10-13",
+    "section": "Recent publications",
+    "metadataStatus": "transcribed from legacy site; publisher metadata not independently verified",
+    "sourceOccurrences": [
+      {
+        "section": "Recent publications",
+        "title": "Loss-tolerant concatenated Bell-state measurement with encoded coherent-state qubits for long-range quantum communication",
+        "authors": "S.-H. Lee, SWL, H. Jeong",
+        "publicationInfo": "Phys. Rev. Research 3, 043205 (2021)"
+      },
+      {
+        "section": "Full publications",
+        "title": "Loss-tolerant concatenated Bell-state measurement with encoded coherent-state qubits for long-range quantum communication",
+        "authors": "S.-H. Lee, SWL, H. Jeong",
+        "publicationInfo": "Phys. Rev. Research 3, 043205 (2021)"
+      }
+    ],
+    "verification": {
+      "status": "legacy transcription only",
+      "checkedFields": []
+    },
+    "id": "legacy-012",
+    "venue": "Phys. Rev. Research 3, 043205 (2021)",
+    "link": "https://doi.org/10.1103/PhysRevResearch.3.043205",
+    "publicationType": "journal"
+  },
+  {
+    "title": "Quantum enhanced multiple-phase estimation with multi-mode N00N states",
+    "authors": "S. Hong, J.U. Rehman, Y.-S. Kim, Y.-W. Cho, SWL, H. Jung, S. Moon, S.-W. Han, H.-T. Lim",
+    "year": 2021,
+    "publicationInfo": "Nature Communications 12, 5211 (2021)",
+    "doi": "10.1038/s41467-021-25451-4",
+    "arxiv": null,
+    "url": "https://www.nature.com/articles/s41467-021-25451-4",
+    "sourceUrl": "https://sites.google.com/view/qitkist/publications",
+    "sourceStatus": "legacy",
+    "sourceChecked": "2026-10-13",
+    "section": "Recent publications",
+    "metadataStatus": "transcribed from legacy site; publisher metadata not independently verified",
+    "sourceOccurrences": [
+      {
+        "section": "Recent publications",
+        "title": "Quantum enhanced multiple-phase estimation with multi-mode NOON states",
+        "authors": "S. Hong, J.U. Rehman, Y.-S. Kim, Y.-W. Cho, SWL, H. Jung, S. Moon, S.-W. Han, H.-T. Lim",
+        "publicationInfo": "Nature Communications 12, 5211 (2021)"
+      },
+      {
+        "section": "Full publications",
+        "title": "Quantum enhanced multiple-phase estimation with multi-mode NOON states",
+        "authors": "S. Hong, J.U. Rehman, Y.-S. Kim, Y.-W. Cho, SWL, H. Jung, S. Moon, S.-W. Han, H.-T. Lim",
+        "publicationInfo": "Nature Communications 12, 5211 (2021)"
+      }
+    ],
+    "verification": {
+      "status": "legacy transcription only",
+      "checkedFields": []
+    },
+    "id": "legacy-013",
+    "venue": "Nature Communications 12, 5211 (2021)",
+    "link": "https://www.nature.com/articles/s41467-021-25451-4",
+    "publicationType": "journal",
+    "doiVerification": {
+      "id": "legacy-013",
+      "doi": "10.1038/s41467-021-25451-4",
+      "titleMatched": false,
+      "sameArticleConfirmed": true,
+      "publisherTitle": "Quantum enhanced multiple-phase estimation with multi-mode N00N states",
+      "legacyTitle": "Quantum enhanced multiple-phase estimation with multi-mode NOON states",
+      "sourceUrl": "https://www.nature.com/articles/s41467-021-25451-4",
+      "checked": "2026-10-13",
+      "verificationScope": "DOI and title only; not full author/year metadata audit",
+      "checkedFields": [
+        "doi",
+        "title"
+      ],
+      "method": "publisher HTML citation_doi and citation_title metadata",
+      "note": "Legacy title uses NOON (letters O); publisher title uses N00N (zeroes). Same article established by linked publisher record and citation. Publisher lists an author correction: https://doi.org/10.1038/s41467-021-27483-2"
+    },
+    "legacyTitle": "Quantum enhanced multiple-phase estimation with multi-mode NOON states"
+  },
+  {
+    "title": "Quantum teleportation is a reversal of quantum measurement",
+    "authors": "SWL*, D.-G. Im, Y.-H. Kim, H. Nha, M. S. Kim",
+    "year": 2021,
+    "publicationInfo": "Phys. Rev. Research 3, 033119 (2021)",
+    "doi": "10.1103/PhysRevResearch.3.033119",
+    "arxiv": null,
+    "url": "https://doi.org/10.1103/PhysRevResearch.3.033119",
+    "sourceUrl": "https://sites.google.com/view/qitkist/publications",
+    "sourceStatus": "legacy",
+    "sourceChecked": "2026-10-13",
+    "section": "Recent publications",
+    "metadataStatus": "transcribed from legacy site; publisher metadata not independently verified",
+    "sourceOccurrences": [
+      {
+        "section": "Recent publications",
+        "title": "Quantum teleportation is a reversal of quantum measurement",
+        "authors": "SWL*, D.-G. Im, Y.-H. Kim, H. Nha, M. S. Kim",
+        "publicationInfo": "Phys. Rev. Research 3, 033119 (2021)"
+      },
+      {
+        "section": "Full publications",
+        "title": "Quantum teleportation is a reversal of quantum measurement",
+        "authors": "SWL, D.-G. Im, Y.-H. Kim, H. Nha, M. S. Kim",
+        "publicationInfo": "Phys. Rev. Research 3, 033119 (2021)"
+      }
+    ],
+    "verification": {
+      "status": "legacy transcription only",
+      "checkedFields": []
+    },
+    "id": "legacy-014",
+    "venue": "Phys. Rev. Research 3, 033119 (2021)",
+    "link": "https://doi.org/10.1103/PhysRevResearch.3.033119",
+    "publicationType": "journal"
+  },
+  {
+    "title": "Optimal teleportation via noisy quantum channels without additional qubit resources",
+    "authors": "D.-G. Im, C.-H. Lee, Y. Kim, H. Nha, M. S. Kim, SWL*, Y.-H. Kim*",
+    "year": 2021,
+    "publicationInfo": "npj Quantum Information 7, 86 (2021)",
+    "doi": "10.1038/s41534-021-00426-x",
+    "arxiv": null,
+    "url": "https://www.nature.com/articles/s41534-021-00426-x",
+    "sourceUrl": "https://sites.google.com/view/qitkist/publications",
+    "sourceStatus": "legacy",
+    "sourceChecked": "2026-10-13",
+    "section": "Recent publications",
+    "metadataStatus": "transcribed from legacy site; publisher metadata not independently verified",
+    "sourceOccurrences": [
+      {
+        "section": "Recent publications",
+        "title": "Optimal teleportation via noisy quantum channels without additional qubit resources",
+        "authors": "D.-G. Im, C.-H. Lee, Y. Kim, H. Nha, M. S. Kim, SWL*, Y.-H. Kim*",
+        "publicationInfo": "npj Quantum Information 7, 86 (2021)"
+      },
+      {
+        "section": "Full publications",
+        "title": "Optimal teleportation via noisy quantum channels without additional qubit resources",
+        "authors": "D.-G. Im, C.-H. Lee, Y. Kim, H. Nha, M. S. Kim, SWL, Y.-H. Kim",
+        "publicationInfo": "npj Quantum Information 7, 86 (2021)"
+      }
+    ],
+    "verification": {
+      "status": "legacy transcription only",
+      "checkedFields": []
+    },
+    "id": "legacy-015",
+    "venue": "npj Quantum Information 7, 86 (2021)",
+    "link": "https://www.nature.com/articles/s41534-021-00426-x",
+    "publicationType": "journal",
+    "doiVerification": {
+      "id": "legacy-015",
+      "doi": "10.1038/s41534-021-00426-x",
+      "titleMatched": true,
+      "sameArticleConfirmed": true,
+      "publisherTitle": "Optimal teleportation via noisy quantum channels without additional qubit resources",
+      "legacyTitle": "Optimal teleportation via noisy quantum channels without additional qubit resources",
+      "sourceUrl": "https://www.nature.com/articles/s41534-021-00426-x",
+      "checked": "2026-10-13",
+      "verificationScope": "DOI and title only; not full author/year metadata audit",
+      "checkedFields": [
+        "doi",
+        "title"
+      ],
+      "method": "publisher HTML citation_doi and citation_title metadata",
+      "note": "Title matches ignoring capitalization."
+    }
+  },
+  {
+    "title": "Highly photon loss tolerant quantum computing using hybrid qubits",
+    "authors": "S. Omkar, Y. S. Teo, SWL, H. Jeong",
+    "year": 2021,
+    "publicationInfo": "Phys. Rev. A 103, 032602 (2021)",
+    "doi": "10.1103/PhysRevA.103.032602",
+    "arxiv": null,
+    "url": "https://dx.doi.org/10.1103/PhysRevA.103.032602",
+    "sourceUrl": "https://sites.google.com/view/qitkist/publications",
+    "sourceStatus": "legacy",
+    "sourceChecked": "2026-10-13",
+    "section": "Recent publications",
+    "metadataStatus": "transcribed from legacy site; publisher metadata not independently verified",
+    "sourceOccurrences": [
+      {
+        "section": "Recent publications",
+        "title": "Highly photon loss tolerant quantum computing using hybrid qubits",
+        "authors": "S. Omkar, Y. S. Teo, SWL, H. Jeong",
+        "publicationInfo": "Phys. Rev. A 103, 032602 (2021)"
+      },
+      {
+        "section": "Full publications",
+        "title": "Highly photon loss tolerant quantum computing using hybrid qubits",
+        "authors": "S. Omkar, Y. S. Teo, SWL, H. Jeong",
+        "publicationInfo": "Phys. Rev. A 103, 032602 (2021)"
+      }
+    ],
+    "verification": {
+      "status": "legacy transcription only",
+      "checkedFields": []
+    },
+    "id": "legacy-016",
+    "venue": "Phys. Rev. A 103, 032602 (2021)",
+    "link": "https://dx.doi.org/10.1103/PhysRevA.103.032602",
+    "publicationType": "journal"
+  },
+  {
+    "title": "Complete Information Balance in Quantum Measurement",
+    "authors": "SWL*, J. Kim, H. Nha",
+    "year": 2021,
+    "publicationInfo": "Quantum 5, 414 (2021)",
+    "doi": "10.22331/q-2021-03-17-414",
+    "arxiv": null,
+    "url": "https://quantum-journal.org/papers/q-2021-03-17-414/",
+    "sourceUrl": "https://sites.google.com/view/qitkist/publications",
+    "sourceStatus": "legacy",
+    "sourceChecked": "2026-10-13",
+    "section": "Recent publications",
+    "metadataStatus": "transcribed from legacy site; publisher metadata not independently verified",
+    "sourceOccurrences": [
+      {
+        "section": "Recent publications",
+        "title": "Complete Information Balance in Quantum Measurement",
+        "authors": "SWL*, J. Kim, H. Nha",
+        "publicationInfo": "Quantum 5, 414 (2021)"
+      },
+      {
+        "section": "Full publications",
+        "title": "Complete Information Balance in Quantum Measurement",
+        "authors": "SWL, J. Kim, H. Nha",
+        "publicationInfo": "Quantum 5, 414 (2021)"
+      }
+    ],
+    "verification": {
+      "status": "legacy transcription only",
+      "checkedFields": []
+    },
+    "id": "legacy-017",
+    "venue": "Quantum 5, 414 (2021)",
+    "link": "https://quantum-journal.org/papers/q-2021-03-17-414/",
+    "publicationType": "journal",
+    "doiVerification": {
+      "id": "legacy-017",
+      "doi": "10.22331/q-2021-03-17-414",
+      "titleMatched": true,
+      "sameArticleConfirmed": true,
+      "publisherTitle": "Complete Information Balance in Quantum Measurement",
+      "legacyTitle": "Complete Information Balance in Quantum Measurement",
+      "sourceUrl": "https://quantum-journal.org/papers/q-2021-03-17-414/",
+      "checked": "2026-10-13",
+      "verificationScope": "DOI and title only; not full author/year metadata audit",
+      "checkedFields": [
+        "doi",
+        "title"
+      ],
+      "method": "publisher HTML citation_doi and citation_title metadata",
+      "note": "Title matches ignoring capitalization."
+    }
+  },
+  {
+    "title": "Optimal quantum phase estimation with generalized multi-component Schrödinger cat states",
+    "authors": "SWL*, S.-Y. Lee, J. Kim",
+    "year": 2020,
+    "publicationInfo": "JOSA B 37, 2423-2429 (2020)",
+    "doi": "10.1364/JOSAB.393200",
+    "arxiv": null,
+    "url": "https://www.osapublishing.org/josab/viewmedia.cfm?uri=josab-37-8-2423",
+    "sourceUrl": "https://sites.google.com/view/qitkist/publications",
+    "sourceStatus": "legacy",
+    "sourceChecked": "2026-10-13",
+    "section": "Recent publications",
+    "metadataStatus": "transcribed from legacy site; publisher metadata not independently verified",
+    "sourceOccurrences": [
+      {
+        "section": "Recent publications",
+        "title": "Optimal quantum phase estimation with generalized multi-component cat states",
+        "authors": "SWL*, S.-Y. Lee, J. Kim",
+        "publicationInfo": "JOSA B 37, 2423-2429 (2020)"
+      },
+      {
+        "section": "Full publications",
+        "title": "Optimal quantum phase estimation with generalized multi-component cat states",
+        "authors": "SWL, S.-Y. Lee, J. Kim",
+        "publicationInfo": "JOSA B 37, 2423-2429 (2020)"
+      }
+    ],
+    "verification": {
+      "status": "legacy transcription only",
+      "checkedFields": []
+    },
+    "id": "legacy-018",
+    "venue": "JOSA B 37, 2423-2429 (2020)",
+    "link": "https://www.osapublishing.org/josab/viewmedia.cfm?uri=josab-37-8-2423",
+    "publicationType": "journal",
+    "doiVerification": {
+      "id": "legacy-018",
+      "doi": "10.1364/JOSAB.393200",
+      "titleMatched": false,
+      "sameArticleConfirmed": true,
+      "publisherTitle": "Optimal quantum phase estimation with generalized multi-component Schrödinger cat states",
+      "legacyTitle": "Optimal quantum phase estimation with generalized multi-component cat states",
+      "sourceUrl": "https://opg.optica.org/josab/abstract.cfm?uri=josab-37-8-2423",
+      "checked": "2026-10-13",
+      "verificationScope": "DOI and title only; not full author/year metadata audit",
+      "checkedFields": [
+        "doi",
+        "title"
+      ],
+      "method": "official publisher article page retrieved through web search; direct legacy viewmedia URL returned 202",
+      "note": "Legacy title omits Schrödinger. Publisher title includes Schrödinger. Same article established by original URI josab-37-8-2423, matching volume/pages/year, and matching 3 author names. Preserve legacy title separately if adopting publisher title."
+    },
+    "legacyTitle": "Optimal quantum phase estimation with generalized multi-component cat states"
+  },
+  {
+    "title": "Noise-adaptive test of quantum correlations with quasiprobability functions",
+    "authors": "SWL*, J. Kim, W. Son*",
+    "year": 2020,
+    "publicationInfo": "Phys. Rev. A 102, 012408 (2020)",
+    "doi": "10.1103/PhysRevA.102.012408",
+    "arxiv": null,
+    "url": "https://journals.aps.org/pra/abstract/10.1103/PhysRevA.102.012408",
+    "sourceUrl": "https://sites.google.com/view/qitkist/publications",
+    "sourceStatus": "legacy",
+    "sourceChecked": "2026-10-13",
+    "section": "Recent publications",
+    "metadataStatus": "transcribed from legacy site; publisher metadata not independently verified",
+    "sourceOccurrences": [
+      {
+        "section": "Recent publications",
+        "title": "Noise-adaptive test of quantum correlations with quasiprobability functions",
+        "authors": "SWL*, J. Kim, W. Son*",
+        "publicationInfo": "Phys. Rev. A 102, 012408 (2020)"
+      },
+      {
+        "section": "Full publications",
+        "title": "Noise-adaptive test of quantum correlations with quasiprobability functions",
+        "authors": "SWL, J. Kim, W. Son",
+        "publicationInfo": "Phys. Rev. A 102, 012408 (2020)"
+      }
+    ],
+    "verification": {
+      "status": "legacy transcription only",
+      "checkedFields": []
+    },
+    "id": "legacy-019",
+    "venue": "Phys. Rev. A 102, 012408 (2020)",
+    "link": "https://journals.aps.org/pra/abstract/10.1103/PhysRevA.102.012408",
+    "publicationType": "journal"
+  },
+  {
+    "title": "Quantum teleportation of shared quantum secret",
+    "authors": "S. M. Lee, SWL*(co-1st), H. Jeong*, H. S. Park*",
+    "year": 2020,
+    "publicationInfo": "Phys. Rev. Lett. 124, 060501 (2020)",
+    "doi": "10.1103/PhysRevLett.124.060501",
+    "arxiv": null,
+    "url": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.060501",
+    "sourceUrl": "https://sites.google.com/view/qitkist/publications",
+    "sourceStatus": "legacy",
+    "sourceChecked": "2026-10-13",
+    "section": "Recent publications",
+    "metadataStatus": "transcribed from legacy site; publisher metadata not independently verified",
+    "sourceOccurrences": [
+      {
+        "section": "Recent publications",
+        "title": "Quantum teleportation of shared quantum secret",
+        "authors": "S. M. Lee, SWL*(co-1st), H. Jeong*, H. S. Park*",
+        "publicationInfo": "Phys. Rev. Lett. 124, 060501 (2020)"
+      },
+      {
+        "section": "Full publications",
+        "title": "Quantum teleportation of shared quantum secret",
+        "authors": "S. M. Lee, SWL(co-1st), H. Jeong, H. S. Park",
+        "publicationInfo": "Phys. Rev. Lett. 124, 060501 (2020)"
+      }
+    ],
+    "verification": {
+      "status": "legacy transcription only",
+      "checkedFields": []
+    },
+    "id": "legacy-020",
+    "venue": "Phys. Rev. Lett. 124, 060501 (2020)",
+    "link": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.060501",
+    "publicationType": "journal"
+  },
+  {
+    "title": "Fundamental building block for all-optical scalable quantum networks",
+    "authors": "SWL, T. C. Ralph, H. Jeong",
+    "year": 2019,
+    "publicationInfo": "Phys. Rev. A 100, 052303 (2019); Editors' Suggestion",
+    "doi": "10.1103/PhysRevA.100.052303",
+    "arxiv": null,
+    "url": "https://journals.aps.org/pra/abstract/10.1103/PhysRevA.100.052303",
+    "sourceUrl": "https://sites.google.com/view/qitkist/publications",
+    "sourceStatus": "legacy",
+    "sourceChecked": "2026-10-13",
+    "section": "Full publications",
+    "metadataStatus": "transcribed from legacy site; publisher metadata not independently verified",
+    "sourceOccurrences": [
+      {
+        "section": "Full publications",
+        "title": "Fundamental building block for all-optical scalable quantum networks",
+        "authors": "SWL, T. C. Ralph, H. Jeong",
+        "publicationInfo": "Phys. Rev. A 100, 052303 (2019); Editors' Suggestion"
+      }
+    ],
+    "verification": {
+      "status": "legacy transcription only",
+      "checkedFields": []
+    },
+    "id": "legacy-021",
+    "venue": "Phys. Rev. A 100, 052303 (2019); Editors' Suggestion",
+    "link": "https://journals.aps.org/pra/abstract/10.1103/PhysRevA.100.052303",
+    "publicationType": "journal"
+  },
+  {
+    "title": "Single-photon characteristics of superposed weak coherent states",
+    "authors": "SWL, J. Kim",
+    "year": 2019,
+    "publicationInfo": "Phys. Rev. A 99, 013847 (2019)",
+    "doi": "10.1103/PhysRevA.99.013847",
+    "arxiv": null,
+    "url": "https://journals.aps.org/pra/abstract/10.1103/PhysRevA.99.013847",
+    "sourceUrl": "https://sites.google.com/view/qitkist/publications",
+    "sourceStatus": "legacy",
+    "sourceChecked": "2026-10-13",
+    "section": "Full publications",
+    "metadataStatus": "transcribed from legacy site; publisher metadata not independently verified",
+    "sourceOccurrences": [
+      {
+        "section": "Full publications",
+        "title": "Single-photon characteristics of superposed weak coherent states",
+        "authors": "SWL, J. Kim",
+        "publicationInfo": "Phys. Rev. A 99, 013847 (2019)"
+      }
+    ],
+    "verification": {
+      "status": "legacy transcription only",
+      "checkedFields": []
+    },
+    "id": "legacy-022",
+    "venue": "Phys. Rev. A 99, 013847 (2019)",
+    "link": "https://journals.aps.org/pra/abstract/10.1103/PhysRevA.99.013847",
+    "publicationType": "journal"
+  },
+  {
+    "title": "Efficient high-dimensional quantum key distribution with hybrid encoding",
+    "authors": "Y. Jo, H. S. Park, SWL, W. Son",
+    "year": 2019,
+    "publicationInfo": "Entropy 21, 80 (2019)",
+    "doi": "10.3390/e21010080",
+    "arxiv": null,
+    "url": "https://www.mdpi.com/1099-4300/21/1/80",
+    "sourceUrl": "https://sites.google.com/view/qitkist/publications",
+    "sourceStatus": "legacy",
+    "sourceChecked": "2026-10-13",
+    "section": "Full publications",
+    "metadataStatus": "transcribed from legacy site; publisher metadata not independently verified",
+    "sourceOccurrences": [
+      {
+        "section": "Full publications",
+        "title": "Efficient high-dimensional quantum key distribution with hybrid encoding",
+        "authors": "Y. Jo, H. S. Park, SWL, W. Son",
+        "publicationInfo": "Entropy 21, 80 (2019)"
+      }
+    ],
+    "verification": {
+      "status": "legacy transcription only",
+      "checkedFields": []
+    },
+    "id": "legacy-023",
+    "venue": "Entropy 21, 80 (2019)",
+    "link": "https://www.mdpi.com/1099-4300/21/1/80",
+    "publicationType": "journal",
+    "doiVerification": {
+      "id": "legacy-023",
+      "doi": "10.3390/e21010080",
+      "titleMatched": true,
+      "sameArticleConfirmed": true,
+      "publisherTitle": "Efficient High-Dimensional Quantum Key Distribution with Hybrid Encoding",
+      "legacyTitle": "Efficient high-dimensional quantum key distribution with hybrid encoding",
+      "sourceUrl": "https://www.mdpi.com/1099-4300/21/1/80",
+      "checked": "2026-10-13",
+      "verificationScope": "DOI and title only; not full author/year metadata audit",
+      "checkedFields": [
+        "doi",
+        "title"
+      ],
+      "method": "official publisher article page retrieved through web search; direct HTTP request returned 403",
+      "note": "Title matches ignoring capitalization."
+    }
+  },
+  {
+    "title": "Optimal usage of quantum random access memory in quantum machine learning",
+    "authors": "J. Bang, A. Dutta, SWL, J. Kim",
+    "year": 2019,
+    "publicationInfo": "Phys. Rev. A 99, 012326 (2019)",
+    "doi": "10.1103/PhysRevA.99.012326",
+    "arxiv": null,
+    "url": "https://journals.aps.org/pra/abstract/10.1103/PhysRevA.99.012326",
+    "sourceUrl": "https://sites.google.com/view/qitkist/publications",
+    "sourceStatus": "legacy",
+    "sourceChecked": "2026-10-13",
+    "section": "Full publications",
+    "metadataStatus": "transcribed from legacy site; publisher metadata not independently verified",
+    "sourceOccurrences": [
+      {
+        "section": "Full publications",
+        "title": "Optimal usage of quantum random access memory in quantum machine learning",
+        "authors": "J. Bang, A. Dutta, SWL, J. Kim",
+        "publicationInfo": "Phys. Rev. A 99, 012326 (2019)"
+      }
+    ],
+    "verification": {
+      "status": "legacy transcription only",
+      "checkedFields": []
+    },
+    "id": "legacy-024",
+    "venue": "Phys. Rev. A 99, 012326 (2019)",
+    "link": "https://journals.aps.org/pra/abstract/10.1103/PhysRevA.99.012326",
+    "publicationType": "journal"
+  },
+  {
+    "title": "Quantum macroscopicity measure for arbitrary spin systems and its application to quantum phase transition",
+    "authors": "C.-Y. Park, M. Kang, C.-W. Lee, J. Bang, SWL, H. Jeong",
+    "year": 2016,
+    "publicationInfo": "Phys. Rev. A 94, 052105 (2016)",
+    "doi": "10.1103/PhysRevA.94.052105",
+    "arxiv": null,
+    "url": "https://journals.aps.org/pra/abstract/10.1103/PhysRevA.94.052105",
+    "sourceUrl": "https://sites.google.com/view/qitkist/publications",
+    "sourceStatus": "legacy",
+    "sourceChecked": "2026-10-13",
+    "section": "Full publications",
+    "metadataStatus": "transcribed from legacy site; publisher metadata not independently verified",
+    "sourceOccurrences": [
+      {
+        "section": "Full publications",
+        "title": "Quantum macroscopicity measure for arbitrary spin systems and its application to quantum phase transition",
+        "authors": "C.-Y. Park, M. Kang, C.-W. Lee, J. Bang, SWL, H. Jeong",
+        "publicationInfo": "Phys. Rev. A 94, 052105 (2016)"
+      }
+    ],
+    "verification": {
+      "status": "legacy transcription only",
+      "checkedFields": []
+    },
+    "id": "legacy-025",
+    "venue": "Phys. Rev. A 94, 052105 (2016)",
+    "link": "https://journals.aps.org/pra/abstract/10.1103/PhysRevA.94.052105",
+    "publicationType": "journal"
+  },
+  {
+    "title": "Dynamical decoupling sequences for multi-qubit dephasing suppression and long-time quantum memory",
+    "authors": "GA. Paz-Silva, SWL, T. J. Green, L. Viola",
+    "year": 2016,
+    "publicationInfo": "New Journal of Physics 18, 073020 (2016)",
+    "doi": "10.1088/1367-2630/18/7/073020",
+    "arxiv": null,
+    "url": "http://iopscience.iop.org/article/10.1088/1367-2630/18/7/073020/meta",
+    "sourceUrl": "https://sites.google.com/view/qitkist/publications",
+    "sourceStatus": "legacy",
+    "sourceChecked": "2026-10-13",
+    "section": "Full publications",
+    "metadataStatus": "transcribed from legacy site; publisher metadata not independently verified",
+    "sourceOccurrences": [
+      {
+        "section": "Full publications",
+        "title": "Dynamical decoupling sequences for multi-qubit dephasing suppression and long-time quantum memory",
+        "authors": "GA. Paz-Silva, SWL, T. J. Green, L. Viola",
+        "publicationInfo": "New Journal of Physics 18, 073020 (2016)"
+      }
+    ],
+    "verification": {
+      "status": "legacy transcription only",
+      "checkedFields": []
+    },
+    "id": "legacy-026",
+    "venue": "New Journal of Physics 18, 073020 (2016)",
+    "link": "http://iopscience.iop.org/article/10.1088/1367-2630/18/7/073020/meta",
+    "publicationType": "journal"
+  },
+  {
+    "title": "Two different types of optical hybrid qubits for teleportation in a lossy environment",
+    "authors": "H. Kim, SWL, H. Jeong",
+    "year": 2016,
+    "publicationInfo": "Quantum Information Processing 15, 4729-4746 (2016)",
+    "doi": "10.1007/s11128-016-1408-7",
+    "arxiv": null,
+    "url": "https://link.springer.com/article/10.1007%2Fs11128-016-1408-7",
+    "sourceUrl": "https://sites.google.com/view/qitkist/publications",
+    "sourceStatus": "legacy",
+    "sourceChecked": "2026-10-13",
+    "section": "Full publications",
+    "metadataStatus": "transcribed from legacy site; publisher metadata not independently verified",
+    "sourceOccurrences": [
+      {
+        "section": "Full publications",
+        "title": "Two different types of optical hybrid qubits for teleportation in a lossy environment",
+        "authors": "H. Kim, SWL, H. Jeong",
+        "publicationInfo": "Quantum Information Processing 15, 4729-4746 (2016)"
+      }
+    ],
+    "verification": {
+      "status": "legacy transcription only",
+      "checkedFields": []
+    },
+    "id": "legacy-027",
+    "venue": "Quantum Information Processing 15, 4729-4746 (2016)",
+    "link": "https://link.springer.com/article/10.1007%2Fs11128-016-1408-7",
+    "publicationType": "journal"
+  },
+  {
+    "title": "Protocol for secure quantum machine learning at a distant place",
+    "authors": "J. Bang, SWL, H. Jeong",
+    "year": 2015,
+    "publicationInfo": "Quantum Information Processing 14, 3933-3947 (2015)",
+    "doi": "10.1007/s11128-015-1089-7",
+    "arxiv": null,
+    "url": "https://link.springer.com/article/10.1007%2Fs11128-015-1089-7",
+    "sourceUrl": "https://sites.google.com/view/qitkist/publications",
+    "sourceStatus": "legacy",
+    "sourceChecked": "2026-10-13",
+    "section": "Full publications",
+    "metadataStatus": "transcribed from legacy site; publisher metadata not independently verified",
+    "sourceOccurrences": [
+      {
+        "section": "Full publications",
+        "title": "Protocol for secure quantum machine learning at a distant place",
+        "authors": "J. Bang, SWL, H. Jeong",
+        "publicationInfo": "Quantum Information Processing 14, 3933-3947 (2015)"
+      }
+    ],
+    "verification": {
+      "status": "legacy transcription only",
+      "checkedFields": []
+    },
+    "id": "legacy-028",
+    "venue": "Quantum Information Processing 14, 3933-3947 (2015)",
+    "link": "https://link.springer.com/article/10.1007%2Fs11128-015-1089-7",
+    "publicationType": "journal"
+  },
+  {
+    "title": "Nearly deterministic Bell measurement with multiphoton entanglement for efficient quantum information processing",
+    "authors": "SWL, K. Park, T. C. Ralph, H. Jeong",
+    "year": 2015,
+    "publicationInfo": "Phys. Rev. A 92, 052324 (2015)",
+    "doi": "10.1103/PhysRevA.92.052324",
+    "arxiv": null,
+    "url": "https://journals.aps.org/pra/abstract/10.1103/PhysRevA.92.052324",
+    "sourceUrl": "https://sites.google.com/view/qitkist/publications",
+    "sourceStatus": "legacy",
+    "sourceChecked": "2026-10-13",
+    "section": "Full publications",
+    "metadataStatus": "transcribed from legacy site; publisher metadata not independently verified",
+    "sourceOccurrences": [
+      {
+        "section": "Full publications",
+        "title": "Nearly deterministic Bell measurement with multiphoton entanglement for efficient quantum information processing",
+        "authors": "SWL, K. Park, T. C. Ralph, H. Jeong",
+        "publicationInfo": "Phys. Rev. A 92, 052324 (2015)"
+      }
+    ],
+    "verification": {
+      "status": "legacy transcription only",
+      "checkedFields": []
+    },
+    "id": "legacy-029",
+    "venue": "Phys. Rev. A 92, 052324 (2015)",
+    "link": "https://journals.aps.org/pra/abstract/10.1103/PhysRevA.92.052324",
+    "publicationType": "journal"
+  },
+  {
+    "title": "Properties of hybrid entanglement between discrete- and continuous variable states of light",
+    "authors": "L. S. Costanzo, A. Zavatta, S. Grandi, M. Bellini, H. Jeong, M. Kang, SWL, T. C. Ralph",
+    "year": 2015,
+    "publicationInfo": "Physica Scripta 90, 074045 (2015)",
+    "doi": "10.1088/0031-8949/90/7/074045",
+    "arxiv": null,
+    "url": "http://iopscience.iop.org/article/10.1088/0031-8949/90/7/074045/meta",
+    "sourceUrl": "https://sites.google.com/view/qitkist/publications",
+    "sourceStatus": "legacy",
+    "sourceChecked": "2026-10-13",
+    "section": "Full publications",
+    "metadataStatus": "transcribed from legacy site; publisher metadata not independently verified",
+    "sourceOccurrences": [
+      {
+        "section": "Full publications",
+        "title": "Properties of hybrid entanglement between discrete- and continuous variable states of light",
+        "authors": "L. S. Costanzo, A. Zavatta, S. Grandi, M. Bellini, H. Jeong, M. Kang, SWL, T. C. Ralph",
+        "publicationInfo": "Physica Scripta 90, 074045 (2015)"
+      }
+    ],
+    "verification": {
+      "status": "legacy transcription only",
+      "checkedFields": []
+    },
+    "id": "legacy-030",
+    "venue": "Physica Scripta 90, 074045 (2015)",
+    "link": "http://iopscience.iop.org/article/10.1088/0031-8949/90/7/074045/meta",
+    "publicationType": "journal"
+  },
+  {
+    "title": "A quantum algorithm for obtaining the lowest eigenstate of a Hamiltonian assisted with an ancillary qubit system",
+    "authors": "J. Bang, SWL, C.-W. Lee, H. Jeong, J. Lee",
+    "year": 2015,
+    "publicationInfo": "Quantum Information Processing 14, 103-118 (2015)",
+    "doi": "10.1007/s11128-014-0836-5",
+    "arxiv": null,
+    "url": "https://link.springer.com/article/10.1007/s11128-014-0836-5",
+    "sourceUrl": "https://sites.google.com/view/qitkist/publications",
+    "sourceStatus": "legacy",
+    "sourceChecked": "2026-10-13",
+    "section": "Full publications",
+    "metadataStatus": "transcribed from legacy site; publisher metadata not independently verified",
+    "sourceOccurrences": [
+      {
+        "section": "Full publications",
+        "title": "A quantum algorithm for obtaining the lowest eigenstate of a Hamiltonian assisted with an ancillary qubit system",
+        "authors": "J. Bang, SWL, C.-W. Lee, H. Jeong, J. Lee",
+        "publicationInfo": "Quantum Information Processing 14, 103-118 (2015)"
+      }
+    ],
+    "verification": {
+      "status": "legacy transcription only",
+      "checkedFields": []
+    },
+    "id": "legacy-031",
+    "venue": "Quantum Information Processing 14, 103-118 (2015)",
+    "link": "https://link.springer.com/article/10.1007/s11128-014-0836-5",
+    "publicationType": "journal"
+  },
+  {
+    "title": "Nearly Deterministic Bell Measurement for Multiphoton Qubits and Its Application to Quantum Information Processing",
+    "authors": "SWL, K. Park, T. C. Ralph, H. Jeong",
+    "year": 2015,
+    "publicationInfo": "Phys. Rev. Lett. 114, 113603 (2015)",
+    "doi": "10.1103/PhysRevLett.114.113603",
+    "arxiv": null,
+    "url": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.114.113603",
+    "sourceUrl": "https://sites.google.com/view/qitkist/publications",
+    "sourceStatus": "legacy",
+    "sourceChecked": "2026-10-13",
+    "section": "Full publications",
+    "metadataStatus": "transcribed from legacy site; publisher metadata not independently verified",
+    "sourceOccurrences": [
+      {
+        "section": "Full publications",
+        "title": "Nearly Deterministic Bell Measurement for Multiphoton Qubits and Its Application to Quantum Information Processing",
+        "authors": "SWL, K. Park, T. C. Ralph, H. Jeong",
+        "publicationInfo": "Phys. Rev. Lett. 114, 113603 (2015)"
+      }
+    ],
+    "verification": {
+      "status": "legacy transcription only",
+      "checkedFields": []
+    },
+    "id": "legacy-032",
+    "venue": "Phys. Rev. Lett. 114, 113603 (2015)",
+    "link": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.114.113603",
+    "publicationType": "journal"
+  },
+  {
+    "title": "Fundamental bounds in measurements for estimating quantum states",
+    "authors": "H.-T. Lim, Y.-S. Ra, K.-H. Hong, SWL, Y.-H. Kim",
+    "year": 2014,
+    "publicationInfo": "Phys. Rev. Lett. 113, 020504 (2014)",
+    "doi": "10.1103/PhysRevLett.113.020504",
+    "arxiv": null,
+    "url": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.113.020504",
+    "sourceUrl": "https://sites.google.com/view/qitkist/publications",
+    "sourceStatus": "legacy",
+    "sourceChecked": "2026-10-13",
+    "section": "Full publications",
+    "metadataStatus": "transcribed from legacy site; publisher metadata not independently verified",
+    "sourceOccurrences": [
+      {
+        "section": "Full publications",
+        "title": "Fundamental bounds in measurements for estimating quantum states",
+        "authors": "H.-T. Lim, Y.-S. Ra, K.-H. Hong, SWL, Y.-H. Kim",
+        "publicationInfo": "Phys. Rev. Lett. 113, 020504 (2014)"
+      }
+    ],
+    "verification": {
+      "status": "legacy transcription only",
+      "checkedFields": []
+    },
+    "id": "legacy-033",
+    "venue": "Phys. Rev. Lett. 113, 020504 (2014)",
+    "link": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.113.020504",
+    "publicationType": "journal"
+  },
+  {
+    "title": "Experimental hybrid entanglement between quantum and classical states of light",
+    "authors": "L. S. Costanzo, A. Zavatta, S. Grandi, M. Bellini, H. Jeong, M. Kang, SWL, T. C. Ralph",
+    "year": 2014,
+    "publicationInfo": "International Journal of Quantum Information 12, 1560015 (2014)",
+    "doi": "10.1142/S0219749915600151",
+    "arxiv": null,
+    "url": "https://www.worldscientific.com/doi/abs/10.1142/S0219749915600151",
+    "sourceUrl": "https://sites.google.com/view/qitkist/publications",
+    "sourceStatus": "legacy",
+    "sourceChecked": "2026-10-13",
+    "section": "Full publications",
+    "metadataStatus": "transcribed from legacy site; publisher metadata not independently verified",
+    "sourceOccurrences": [
+      {
+        "section": "Full publications",
+        "title": "Experimental hybrid entanglement between quantum and classical states of light",
+        "authors": "L. S. Costanzo, A. Zavatta, S. Grandi, M. Bellini, H. Jeong, M. Kang, SWL, T. C. Ralph",
+        "publicationInfo": "International Journal of Quantum Information 12, 1560015 (2014)"
+      }
+    ],
+    "verification": {
+      "status": "legacy transcription only",
+      "checkedFields": []
+    },
+    "id": "legacy-034",
+    "venue": "International Journal of Quantum Information 12, 1560015 (2014)",
+    "link": "https://www.worldscientific.com/doi/abs/10.1142/S0219749915600151",
+    "publicationType": "journal"
+  },
+  {
+    "title": "Generation of Hybrid Entanglement of Light",
+    "authors": "H. Jeong, A. Zavatta, M. Kang, SWL, L. S. Costanzo, S. Grandi, T. C. Ralph, M. Bellini",
+    "year": 2014,
+    "publicationInfo": "Nature Photonics 8, 564 -569 (2014)",
+    "doi": "10.1038/nphoton.2014.136",
+    "arxiv": null,
+    "url": "https://www.nature.com/articles/nphoton.2014.136",
+    "sourceUrl": "https://sites.google.com/view/qitkist/publications",
+    "sourceStatus": "legacy",
+    "sourceChecked": "2026-10-13",
+    "section": "Full publications",
+    "metadataStatus": "transcribed from legacy site; publisher metadata not independently verified",
+    "sourceOccurrences": [
+      {
+        "section": "Full publications",
+        "title": "Generation of Hybrid Entanglement of Light",
+        "authors": "H. Jeong, A. Zavatta, M. Kang, SWL, L. S. Costanzo, S. Grandi, T. C. Ralph, M. Bellini",
+        "publicationInfo": "Nature Photonics 8, 564 -569 (2014)"
+      }
+    ],
+    "verification": {
+      "status": "legacy transcription only",
+      "checkedFields": []
+    },
+    "id": "legacy-035",
+    "venue": "Nature Photonics 8, 564 -569 (2014)",
+    "link": "https://www.nature.com/articles/nphoton.2014.136",
+    "publicationType": "journal",
+    "doiVerification": {
+      "id": "legacy-035",
+      "doi": "10.1038/nphoton.2014.136",
+      "titleMatched": true,
+      "sameArticleConfirmed": true,
+      "publisherTitle": "Generation of hybrid entanglement of light",
+      "legacyTitle": "Generation of Hybrid Entanglement of Light",
+      "sourceUrl": "https://www.nature.com/articles/nphoton.2014.136",
+      "checked": "2026-10-13",
+      "verificationScope": "DOI and title only; not full author/year metadata audit",
+      "checkedFields": [
+        "doi",
+        "title"
+      ],
+      "method": "publisher HTML citation_doi and citation_title metadata",
+      "note": "Title matches ignoring capitalization."
+    }
+  },
+  {
+    "title": "Near-deterministic quantum teleportation and resource-efficient quantum computation using linear optics and hybrid qubits",
+    "authors": "SWL, H. Jeong",
+    "year": 2013,
+    "publicationInfo": "Phys. Rev. A 87, 022326 (2013)",
+    "doi": "10.1103/PhysRevA.87.022326",
+    "arxiv": null,
+    "url": "https://journals.aps.org/pra/abstract/10.1103/PhysRevA.87.022326",
+    "sourceUrl": "https://sites.google.com/view/qitkist/publications",
+    "sourceStatus": "legacy",
+    "sourceChecked": "2026-10-13",
+    "section": "Full publications",
+    "metadataStatus": "transcribed from legacy site; publisher metadata not independently verified",
+    "sourceOccurrences": [
+      {
+        "section": "Full publications",
+        "title": "Near-deterministic quantum teleportation and resource-efficient quantum computation using linear optics and hybrid qubits",
+        "authors": "SWL, H. Jeong",
+        "publicationInfo": "Phys. Rev. A 87, 022326 (2013)"
+      }
+    ],
+    "verification": {
+      "status": "legacy transcription only",
+      "checkedFields": []
+    },
+    "id": "legacy-036",
+    "venue": "Phys. Rev. A 87, 022326 (2013)",
+    "link": "https://journals.aps.org/pra/abstract/10.1103/PhysRevA.87.022326",
+    "publicationType": "journal"
+  },
+  {
+    "title": "Testing genuine multipartite nonlocality in phase space",
+    "authors": "SWL, M. Paternostro, J. Lee, H. Jeong",
+    "year": 2013,
+    "publicationInfo": "Phys. Rev. A 87, 022123 (2013)",
+    "doi": "10.1103/PhysRevA.87.022123",
+    "arxiv": null,
+    "url": "https://journals.aps.org/pra/abstract/10.1103/PhysRevA.87.022123",
+    "sourceUrl": "https://sites.google.com/view/qitkist/publications",
+    "sourceStatus": "legacy",
+    "sourceChecked": "2026-10-13",
+    "section": "Full publications",
+    "metadataStatus": "transcribed from legacy site; publisher metadata not independently verified",
+    "sourceOccurrences": [
+      {
+        "section": "Full publications",
+        "title": "Testing genuine multipartite nonlocality in phase space",
+        "authors": "SWL, M. Paternostro, J. Lee, H. Jeong",
+        "publicationInfo": "Phys. Rev. A 87, 022123 (2013)"
+      }
+    ],
+    "verification": {
+      "status": "legacy transcription only",
+      "checkedFields": []
+    },
+    "id": "legacy-037",
+    "venue": "Phys. Rev. A 87, 022123 (2013)",
+    "link": "https://journals.aps.org/pra/abstract/10.1103/PhysRevA.87.022123",
+    "publicationType": "journal"
+  },
+  {
+    "title": "Bell-state measurement and quantum teleportation using linear optics: two-photon pairs, entangled coherent states, and hybrid entanglement",
+    "authors": "SWL, H. Jeong",
+    "year": 2013,
+    "publicationInfo": "Proceedings of the First International Conference on Entangled Coherent State and Its Application to Quantum Information Science, Tamagawa University, Tokyo, 2012, pp 41-46, arXiv.1304.1214 (2013)",
+    "doi": null,
+    "arxiv": "1304.1214",
+    "url": "https://arxiv.org/abs/1304.1214",
+    "sourceUrl": "https://sites.google.com/view/qitkist/publications",
+    "sourceStatus": "legacy",
+    "sourceChecked": "2026-10-13",
+    "section": "Full publications",
+    "metadataStatus": "transcribed from legacy site; publisher metadata not independently verified",
+    "sourceOccurrences": [
+      {
+        "section": "Full publications",
+        "title": "Bell-state measurement and quantum teleportation using linear optics: two-photon pairs, entangled coherent states, and hybrid entanglement",
+        "authors": "SWL, H. Jeong",
+        "publicationInfo": "Proceedings of the First International Conference on Entangled Coherent State and Its Application to Quantum Information Science, Tamagawa University, Tokyo, 2012, pp 41-46, arXiv.1304.1214 (2013)"
+      }
+    ],
+    "verification": {
+      "status": "legacy transcription only",
+      "checkedFields": []
+    },
+    "id": "legacy-038",
+    "venue": "Proceedings of the First International Conference on Entangled Coherent State and Its Application to Quantum Information Science, Tamagawa University, Tokyo, 2012, pp 41-46, arXiv.1304.1214 (2013)",
+    "link": "https://arxiv.org/abs/1304.1214",
+    "publicationType": "journal"
+  },
+  {
+    "title": "Quantum teleportation between \"particle-like\" and \"field-like\" qubits using hybrid entanglement under decoherence effects",
+    "authors": "K. Park, SWL, H. Jeong",
+    "year": 2012,
+    "publicationInfo": "Phys. Rev. A 86, 062301 (2012)",
+    "doi": "10.1103/PhysRevA.86.062301",
+    "arxiv": null,
+    "url": "https://journals.aps.org/pra/abstract/10.1103/PhysRevA.86.062301",
+    "sourceUrl": "https://sites.google.com/view/qitkist/publications",
+    "sourceStatus": "legacy",
+    "sourceChecked": "2026-10-13",
+    "section": "Full publications",
+    "metadataStatus": "transcribed from legacy site; publisher metadata not independently verified",
+    "sourceOccurrences": [
+      {
+        "section": "Full publications",
+        "title": "Quantum teleportation between \"particle-like\" and \"field-like\" qubits using hybrid entanglement under decoherence effects",
+        "authors": "K. Park, SWL, H. Jeong",
+        "publicationInfo": "Phys. Rev. A 86, 062301 (2012)"
+      }
+    ],
+    "verification": {
+      "status": "legacy transcription only",
+      "checkedFields": []
+    },
+    "id": "legacy-039",
+    "venue": "Phys. Rev. A 86, 062301 (2012)",
+    "link": "https://journals.aps.org/pra/abstract/10.1103/PhysRevA.86.062301",
+    "publicationType": "journal"
+  },
+  {
+    "title": "Procedures for realizing an approximate universal NOT gate",
+    "authors": "J. Bang, SWL, H. Jeong, J. Lee",
+    "year": 2012,
+    "publicationInfo": "Phys. Rev. A 86, 062317 (2012)",
+    "doi": "10.1103/PhysRevA.86.062317",
+    "arxiv": null,
+    "url": "https://journals.aps.org/pra/abstract/10.1103/PhysRevA.86.062317",
+    "sourceUrl": "https://sites.google.com/view/qitkist/publications",
+    "sourceStatus": "legacy",
+    "sourceChecked": "2026-10-13",
+    "section": "Full publications",
+    "metadataStatus": "transcribed from legacy site; publisher metadata not independently verified",
+    "sourceOccurrences": [
+      {
+        "section": "Full publications",
+        "title": "Procedures for realizing an approximate universal NOT gate",
+        "authors": "J. Bang, SWL, H. Jeong, J. Lee",
+        "publicationInfo": "Phys. Rev. A 86, 062317 (2012)"
+      }
+    ],
+    "verification": {
+      "status": "legacy transcription only",
+      "checkedFields": []
+    },
+    "id": "legacy-040",
+    "venue": "Phys. Rev. A 86, 062317 (2012)",
+    "link": "https://journals.aps.org/pra/abstract/10.1103/PhysRevA.86.062317",
+    "publicationType": "journal"
+  },
+  {
+    "title": "Balance between information gain and reversibility in weak measurement",
+    "authors": "Y. W. Cheong, SWL",
+    "year": 2012,
+    "publicationInfo": "Phys. Rev. Lett. 109, 150402 (2012)",
+    "doi": "10.1103/PhysRevLett.109.150402",
+    "arxiv": null,
+    "url": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.109.150402",
+    "sourceUrl": "https://sites.google.com/view/qitkist/publications",
+    "sourceStatus": "legacy",
+    "sourceChecked": "2026-10-13",
+    "section": "Full publications",
+    "metadataStatus": "transcribed from legacy site; publisher metadata not independently verified",
+    "sourceOccurrences": [
+      {
+        "section": "Full publications",
+        "title": "Balance between information gain and reversibility in weak measurement",
+        "authors": "Y. W. Cheong, SWL",
+        "publicationInfo": "Phys. Rev. Lett. 109, 150402 (2012)"
+      }
+    ],
+    "verification": {
+      "status": "legacy transcription only",
+      "checkedFields": []
+    },
+    "id": "legacy-041",
+    "venue": "Phys. Rev. Lett. 109, 150402 (2012)",
+    "link": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.109.150402",
+    "publicationType": "journal"
+  },
+  {
+    "title": "High-dimensional Bell test for a continuous variable state in phase space and its robustness to detection inefficiency",
+    "authors": "SWL, H. Jeong",
+    "year": 2011,
+    "publicationInfo": "Phys. Rev. A 83, 022103 (2011)",
+    "doi": "10.1103/PhysRevA.83.022103",
+    "arxiv": null,
+    "url": "https://journals.aps.org/pra/abstract/10.1103/PhysRevA.83.022103",
+    "sourceUrl": "https://sites.google.com/view/qitkist/publications",
+    "sourceStatus": "legacy",
+    "sourceChecked": "2026-10-13",
+    "section": "Full publications",
+    "metadataStatus": "transcribed from legacy site; publisher metadata not independently verified",
+    "sourceOccurrences": [
+      {
+        "section": "Full publications",
+        "title": "High-dimensional Bell test for a continuous variable state in phase space and its robustness to detection inefficiency",
+        "authors": "SWL, H. Jeong",
+        "publicationInfo": "Phys. Rev. A 83, 022103 (2011)"
+      }
+    ],
+    "verification": {
+      "status": "legacy transcription only",
+      "checkedFields": []
+    },
+    "id": "legacy-042",
+    "venue": "Phys. Rev. A 83, 022103 (2011)",
+    "link": "https://journals.aps.org/pra/abstract/10.1103/PhysRevA.83.022103",
+    "publicationType": "journal"
+  },
+  {
+    "title": "Bell inequality for pairs of particle-number-superselection-rule restricted states",
+    "authors": "L. Heaney, SWL, D. Jaksch",
+    "year": 2010,
+    "publicationInfo": "Phys. Rev. A 82, 042116 (2010)",
+    "doi": "10.1103/PhysRevA.82.042116",
+    "arxiv": null,
+    "url": "https://journals.aps.org/pra/abstract/10.1103/PhysRevA.82.042116",
+    "sourceUrl": "https://sites.google.com/view/qitkist/publications",
+    "sourceStatus": "legacy",
+    "sourceChecked": "2026-10-13",
+    "section": "Full publications",
+    "metadataStatus": "transcribed from legacy site; publisher metadata not independently verified",
+    "sourceOccurrences": [
+      {
+        "section": "Full publications",
+        "title": "Bell inequality for pairs of particle-number-superselection-rule restricted states",
+        "authors": "L. Heaney, SWL, D. Jaksch",
+        "publicationInfo": "Phys. Rev. A 82, 042116 (2010)"
+      }
+    ],
+    "verification": {
+      "status": "legacy transcription only",
+      "checkedFields": []
+    },
+    "id": "legacy-043",
+    "venue": "Phys. Rev. A 82, 042116 (2010)",
+    "link": "https://journals.aps.org/pra/abstract/10.1103/PhysRevA.82.042116",
+    "publicationType": "journal"
+  },
+  {
+    "title": "Witnessing entanglement in phase space using inefficient detectors",
+    "authors": "SWL, H. Jeong, D. Jaksch",
+    "year": 2010,
+    "publicationInfo": "Phys. Rev. A 81, 012302 (2010)",
+    "doi": "10.1103/PhysRevA.81.012302",
+    "arxiv": null,
+    "url": "https://journals.aps.org/pra/abstract/10.1103/PhysRevA.81.012302",
+    "sourceUrl": "https://sites.google.com/view/qitkist/publications",
+    "sourceStatus": "legacy",
+    "sourceChecked": "2026-10-13",
+    "section": "Full publications",
+    "metadataStatus": "transcribed from legacy site; publisher metadata not independently verified",
+    "sourceOccurrences": [
+      {
+        "section": "Full publications",
+        "title": "Witnessing entanglement in phase space using inefficient detectors",
+        "authors": "SWL, H. Jeong, D. Jaksch",
+        "publicationInfo": "Phys. Rev. A 81, 012302 (2010)"
+      }
+    ],
+    "verification": {
+      "status": "legacy transcription only",
+      "checkedFields": []
+    },
+    "id": "legacy-044",
+    "venue": "Phys. Rev. A 81, 012302 (2010)",
+    "link": "https://journals.aps.org/pra/abstract/10.1103/PhysRevA.81.012302",
+    "publicationType": "journal"
+  },
+  {
+    "title": "Testing quantum nonlocality by generalized quasiprobability functions",
+    "authors": "SWL, H. Jeong, D. Jaksch,",
+    "year": 2009,
+    "publicationInfo": "Phys. Rev. A 80, 022104 (2009)",
+    "doi": "10.1103/PhysRevA.80.022104",
+    "arxiv": null,
+    "url": "https://journals.aps.org/pra/abstract/10.1103/PhysRevA.80.022104",
+    "sourceUrl": "https://sites.google.com/view/qitkist/publications",
+    "sourceStatus": "legacy",
+    "sourceChecked": "2026-10-13",
+    "section": "Full publications",
+    "metadataStatus": "transcribed from legacy site; publisher metadata not independently verified",
+    "sourceOccurrences": [
+      {
+        "section": "Full publications",
+        "title": "Testing quantum nonlocality by generalized quasiprobability functions",
+        "authors": "SWL, H. Jeong, D. Jaksch,",
+        "publicationInfo": "Phys. Rev. A 80, 022104 (2009)"
+      }
+    ],
+    "verification": {
+      "status": "legacy transcription only",
+      "checkedFields": []
+    },
+    "id": "legacy-045",
+    "venue": "Phys. Rev. A 80, 022104 (2009)",
+    "link": "https://journals.aps.org/pra/abstract/10.1103/PhysRevA.80.022104",
+    "publicationType": "journal"
+  },
+  {
+    "title": "Maximal violation of tight Bell inequalities for maximal high-dimensional entanglement",
+    "authors": "SWL, D. Jaksch,",
+    "year": 2009,
+    "publicationInfo": "Phys. Rev. A 80, 010103(R) (2009)",
+    "doi": "10.1103/PhysRevA.80.010103",
+    "arxiv": null,
+    "url": "https://doi.org/10.1103/PhysRevA.80.010103",
+    "sourceUrl": "https://sites.google.com/view/qitkist/publications",
+    "sourceStatus": "legacy",
+    "sourceChecked": "2026-10-13",
+    "section": "Full publications",
+    "metadataStatus": "transcribed from legacy site; publisher metadata not independently verified",
+    "sourceOccurrences": [
+      {
+        "section": "Full publications",
+        "title": "Maximal violation of tight Bell inequalities for maximal high-dimensional entanglement",
+        "authors": "SWL, D. Jaksch,",
+        "publicationInfo": "Phys. Rev. A 80, 010103(R) (2009)"
+      }
+    ],
+    "verification": {
+      "status": "legacy transcription only",
+      "checkedFields": []
+    },
+    "id": "legacy-046",
+    "venue": "Phys. Rev. A 80, 010103(R) (2009)",
+    "link": "https://doi.org/10.1103/PhysRevA.80.010103",
+    "publicationType": "journal"
+  },
+  {
+    "title": "Entanglement purification for high dimensional multipartite systems",
+    "authors": "Y. W. Cheong, SWL, J. Lee, H.-W. Lee,",
+    "year": 2007,
+    "publicationInfo": "Phys. Rev. A 76, 042314 (2007)",
+    "doi": "10.1103/PhysRevA.76.042314",
+    "arxiv": null,
+    "url": "https://journals.aps.org/pra/abstract/10.1103/PhysRevA.76.042314",
+    "sourceUrl": "https://sites.google.com/view/qitkist/publications",
+    "sourceStatus": "legacy",
+    "sourceChecked": "2026-10-13",
+    "section": "Full publications",
+    "metadataStatus": "transcribed from legacy site; publisher metadata not independently verified",
+    "sourceOccurrences": [
+      {
+        "section": "Full publications",
+        "title": "Entanglement purification for high dimensional multipartite systems",
+        "authors": "Y. W. Cheong, SWL, J. Lee, H.-W. Lee,",
+        "publicationInfo": "Phys. Rev. A 76, 042314 (2007)"
+      }
+    ],
+    "verification": {
+      "status": "legacy transcription only",
+      "checkedFields": []
+    },
+    "id": "legacy-047",
+    "venue": "Phys. Rev. A 76, 042314 (2007)",
+    "link": "https://journals.aps.org/pra/abstract/10.1103/PhysRevA.76.042314",
+    "publicationType": "journal"
+  },
+  {
+    "title": "Generalized structure of Bell inequalities for bipartite arbitrary-dimensional systems",
+    "authors": "SWL, Y. W. Cheong, J. Lee",
+    "year": 2007,
+    "publicationInfo": "Phys. Rev. A 76, 032108 (2007)",
+    "doi": "10.1103/PhysRevA.76.032108",
+    "arxiv": null,
+    "url": "https://journals.aps.org/pra/abstract/10.1103/PhysRevA.76.032108",
+    "sourceUrl": "https://sites.google.com/view/qitkist/publications",
+    "sourceStatus": "legacy",
+    "sourceChecked": "2026-10-13",
+    "section": "Full publications",
+    "metadataStatus": "transcribed from legacy site; publisher metadata not independently verified",
+    "sourceOccurrences": [
+      {
+        "section": "Full publications",
+        "title": "Generalized structure of Bell inequalities for bipartite arbitrary-dimensional systems",
+        "authors": "SWL, Y. W. Cheong, J. Lee",
+        "publicationInfo": "Phys. Rev. A 76, 032108 (2007)"
+      }
+    ],
+    "verification": {
+      "status": "legacy transcription only",
+      "checkedFields": []
+    },
+    "id": "legacy-048",
+    "venue": "Phys. Rev. A 76, 032108 (2007)",
+    "link": "https://journals.aps.org/pra/abstract/10.1103/PhysRevA.76.032108",
+    "publicationType": "journal"
+  },
+  {
+    "title": "Probabilistic structure of Bell inequalities in high dimension",
+    "authors": "SWL, J. Ryu, J. Lee,",
+    "year": 2006,
+    "publicationInfo": "J. Kor. Phys. Soc. 48, 1307 (2006",
+    "doi": null,
+    "arxiv": null,
+    "url": "http://www.jkps.or.kr/journal/download_pdf.php?spage=1307&volume=48&number=6",
+    "sourceUrl": "https://sites.google.com/view/qitkist/publications",
+    "sourceStatus": "legacy",
+    "sourceChecked": "2026-10-13",
+    "section": "Full publications",
+    "metadataStatus": "transcribed from legacy site; publisher metadata not independently verified",
+    "sourceOccurrences": [
+      {
+        "section": "Full publications",
+        "title": "Probabilistic structure of Bell inequalities in high dimension",
+        "authors": "SWL, J. Ryu, J. Lee,",
+        "publicationInfo": "J. Kor. Phys. Soc. 48, 1307 (2006"
+      }
+    ],
+    "verification": {
+      "status": "legacy transcription only",
+      "checkedFields": []
+    },
+    "id": "legacy-049",
+    "venue": "J. Kor. Phys. Soc. 48, 1307 (2006",
+    "link": "https://sites.google.com/view/qitkist/publications",
+    "publicationType": "journal",
+    "legacyLink": "http://www.jkps.or.kr/journal/download_pdf.php?spage=1307&volume=48&number=6",
+    "linkStatus": "Original endpoint failed during check; link points to archive bibliography."
+  },
+  {
+    "title": "Entanglement swapping of generalized GHZ state",
+    "authors": "Y. W. Cheong SWL, J. Lee,",
+    "year": 2006,
+    "publicationInfo": "J. Kor. Phys. Soc. 48, 1233 (2006)",
+    "doi": null,
+    "arxiv": null,
+    "url": "http://www.jkps.or.kr/journal/download_pdf.php?spage=1233&volume=48&number=6",
+    "sourceUrl": "https://sites.google.com/view/qitkist/publications",
+    "sourceStatus": "legacy",
+    "sourceChecked": "2026-10-13",
+    "section": "Full publications",
+    "metadataStatus": "transcribed from legacy site; publisher metadata not independently verified",
+    "sourceOccurrences": [
+      {
+        "section": "Full publications",
+        "title": "Entanglement swapping of generalized GHZ state",
+        "authors": "Y. W. Cheong SWL, J. Lee,",
+        "publicationInfo": "J. Kor. Phys. Soc. 48, 1233 (2006)"
+      }
+    ],
+    "verification": {
+      "status": "legacy transcription only",
+      "checkedFields": []
+    },
+    "id": "legacy-050",
+    "venue": "J. Kor. Phys. Soc. 48, 1233 (2006)",
+    "link": "https://sites.google.com/view/qitkist/publications",
+    "publicationType": "journal",
+    "legacyLink": "http://www.jkps.or.kr/journal/download_pdf.php?spage=1233&volume=48&number=6",
+    "linkStatus": "Original endpoint failed during check; link points to archive bibliography."
+  },
+  {
+    "title": "Quantum secret sharing by high dimensional systems",
+    "authors": "W.-J. Kim, S.-H. Cha, SWL, J. Lee",
+    "year": 2006,
+    "publicationInfo": "J. Kor. Phys. Soc. 48, 1218 (2006)",
+    "doi": null,
+    "arxiv": null,
+    "url": "http://www.jkps.or.kr/journal/download_pdf.php?spage=1218&volume=48&number=6",
+    "sourceUrl": "https://sites.google.com/view/qitkist/publications",
+    "sourceStatus": "legacy",
+    "sourceChecked": "2026-10-13",
+    "section": "Full publications",
+    "metadataStatus": "transcribed from legacy site; publisher metadata not independently verified",
+    "sourceOccurrences": [
+      {
+        "section": "Full publications",
+        "title": "Quantum secret sharing by high dimensional systems",
+        "authors": "W.-J. Kim, S.-H. Cha, SWL, J. Lee",
+        "publicationInfo": "J. Kor. Phys. Soc. 48, 1218 (2006)"
+      }
+    ],
+    "verification": {
+      "status": "legacy transcription only",
+      "checkedFields": []
+    },
+    "id": "legacy-051",
+    "venue": "J. Kor. Phys. Soc. 48, 1218 (2006)",
+    "link": "https://sites.google.com/view/qitkist/publications",
+    "publicationType": "journal",
+    "legacyLink": "http://www.jkps.or.kr/journal/download_pdf.php?spage=1218&volume=48&number=6",
+    "linkStatus": "Original endpoint failed during check; link points to archive bibliography."
+  },
+  {
+    "title": "Greenberger-Horne-Zeilinger Nonlocality in Arbitrary Even Dimensions",
+    "authors": "J. Lee, SWL, M. S. Kim",
+    "year": 2006,
+    "publicationInfo": "Phys. Rev. A 73, 032316 (2006)",
+    "doi": "10.1103/PhysRevA.73.032316",
+    "arxiv": null,
+    "url": "https://journals.aps.org/pra/abstract/10.1103/PhysRevA.73.032316",
+    "sourceUrl": "https://sites.google.com/view/qitkist/publications",
+    "sourceStatus": "legacy",
+    "sourceChecked": "2026-10-13",
+    "section": "Full publications",
+    "metadataStatus": "transcribed from legacy site; publisher metadata not independently verified",
+    "sourceOccurrences": [
+      {
+        "section": "Full publications",
+        "title": "Greenberger-Horne-Zeilinger Nonlocality in Arbitrary Even Dimensions",
+        "authors": "J. Lee, SWL, M. S. Kim",
+        "publicationInfo": "Phys. Rev. A 73, 032316 (2006)"
+      }
+    ],
+    "verification": {
+      "status": "legacy transcription only",
+      "checkedFields": []
+    },
+    "id": "legacy-052",
+    "venue": "Phys. Rev. A 73, 032316 (2006)",
+    "link": "https://journals.aps.org/pra/abstract/10.1103/PhysRevA.73.032316",
+    "publicationType": "journal"
+  },
+  {
+    "title": "Quantum teleportation protocols in dependence on closeness measures",
+    "authors": "SWL, J. Lee, Y. P. Lee,",
+    "year": 2005,
+    "publicationInfo": "J. Kor. Phys. Soc. 46, S192 (2005)",
+    "doi": null,
+    "arxiv": null,
+    "url": "http://www.jkps.or.kr/journal/download_pdf.php?spage=192&volume=46&number=9%286%29",
+    "sourceUrl": "https://sites.google.com/view/qitkist/publications",
+    "sourceStatus": "legacy",
+    "sourceChecked": "2026-10-13",
+    "section": "Full publications",
+    "metadataStatus": "transcribed from legacy site; publisher metadata not independently verified",
+    "sourceOccurrences": [
+      {
+        "section": "Full publications",
+        "title": "Quantum teleportation protocols in dependence on closeness measures",
+        "authors": "SWL, J. Lee, Y. P. Lee,",
+        "publicationInfo": "J. Kor. Phys. Soc. 46, S192 (2005)"
+      }
+    ],
+    "verification": {
+      "status": "legacy transcription only",
+      "checkedFields": []
+    },
+    "id": "legacy-053",
+    "venue": "J. Kor. Phys. Soc. 46, S192 (2005)",
+    "link": "https://sites.google.com/view/qitkist/publications",
+    "publicationType": "journal",
+    "legacyLink": "http://www.jkps.or.kr/journal/download_pdf.php?spage=192&volume=46&number=9%286%29",
+    "linkStatus": "Original endpoint failed during check; link points to archive bibliography."
+  },
+  {
+    "title": "Optical test on Greenberger-Horne-Zeilinger paradox of quantum nonlocality",
+    "authors": "J. Lee, SWL",
+    "year": 2005,
+    "publicationInfo": "J. Kor. Phys. Soc. 46, S181 (2005)",
+    "doi": null,
+    "arxiv": null,
+    "url": "http://www.jkps.or.kr/journal/download_pdf.php?spage=181&volume=46&number=9%286%29",
+    "sourceUrl": "https://sites.google.com/view/qitkist/publications",
+    "sourceStatus": "legacy",
+    "sourceChecked": "2026-10-13",
+    "section": "Full publications",
+    "metadataStatus": "transcribed from legacy site; publisher metadata not independently verified",
+    "sourceOccurrences": [
+      {
+        "section": "Full publications",
+        "title": "Optical test on Greenberger-Horne-Zeilinger paradox of quantum nonlocality",
+        "authors": "J. Lee, SWL",
+        "publicationInfo": "J. Kor. Phys. Soc. 46, S181 (2005)"
+      }
+    ],
+    "verification": {
+      "status": "legacy transcription only",
+      "checkedFields": []
+    },
+    "id": "legacy-054",
+    "venue": "J. Kor. Phys. Soc. 46, S181 (2005)",
+    "link": "https://sites.google.com/view/qitkist/publications",
+    "publicationType": "journal",
+    "legacyLink": "http://www.jkps.or.kr/journal/download_pdf.php?spage=181&volume=46&number=9%286%29",
+    "linkStatus": "Original endpoint failed during check; link points to archive bibliography."
+  },
+  {
+    "id": "recent-py1h-hmn9",
+    "title": "Quantum teleportation with partially entangled joint measurements induced by coherent errors",
+    "authors": "Jeonghyeon Shin, Jaehak Lee, Soojoon Lee, Seung-Woo Lee",
+    "year": 2026,
+    "venue": "Physical Review A 114, 042401 (2026)",
+    "publicationInfo": "Physical Review A 114, 042401 (2026)",
+    "doi": "10.1103/py1h-hmn9",
+    "arxiv": "2605.12130",
+    "link": "https://journals.aps.org/pra/abstract/10.1103/py1h-hmn9",
+    "url": "https://journals.aps.org/pra/abstract/10.1103/py1h-hmn9",
+    "sourceUrl": "https://journals.aps.org/pra/abstract/10.1103/py1h-hmn9",
+    "sourceStatus": "current-bibliography",
+    "sourceChecked": "2026-10-13",
+    "publicationType": "journal",
+    "publishedDate": "2026-10-01",
+    "affiliationAtPublication": "Department of Physics, Pohang University of Science and Technology (POSTECH), Pohang 37673, Korea",
+    "identityEvidence": "APS publisher author affiliation number 5 explicitly identifies Seung-Woo Lee as POSTECH Physics.",
+    "verification": {
+      "status": "publisher-verified",
+      "checkedFields": [
+        "title",
+        "authors",
+        "year",
+        "venue",
+        "doi",
+        "publishedDate",
+        "affiliationAtPublication"
+      ],
+      "urls": [
+        "https://journals.aps.org/pra/abstract/10.1103/py1h-hmn9",
+        "https://arxiv.org/abs/2605.12130"
+      ]
+    }
+  },
+  {
+    "id": "recent-sbdv-ql64",
+    "title": "Entanglement recovery by reversing the effect of noise in a quantum repeater",
+    "authors": "Sewon Jeong, Shrobona Bagchi, Jaehak Lee, Hyang-Tag Lim, Yong-Su Kim, Taeyoung Choi, Seung-Woo Lee",
+    "year": 2026,
+    "venue": "Physical Review A 114, 012602 (2026)",
+    "publicationInfo": "Physical Review A 114, 012602 (2026)",
+    "doi": "10.1103/sbdv-ql64",
+    "arxiv": "2602.21563",
+    "link": "https://journals.aps.org/pra/abstract/10.1103/sbdv-ql64",
+    "url": "https://journals.aps.org/pra/abstract/10.1103/sbdv-ql64",
+    "sourceUrl": "https://journals.aps.org/pra/abstract/10.1103/sbdv-ql64",
+    "sourceStatus": "current-bibliography",
+    "sourceChecked": "2026-10-13",
+    "publicationType": "journal",
+    "publishedDate": "2026-07-06",
+    "affiliationAtPublication": "Department of Physics, Pohang University of Science and Technology (POSTECH), Pohang 37673, Korea",
+    "identityEvidence": "APS publisher author affiliation number 5 explicitly identifies Seung-Woo Lee as POSTECH Physics.",
+    "verification": {
+      "status": "publisher-verified",
+      "checkedFields": [
+        "title",
+        "authors",
+        "year",
+        "venue",
+        "doi",
+        "publishedDate",
+        "affiliationAtPublication"
+      ],
+      "urls": [
+        "https://journals.aps.org/pra/abstract/10.1103/sbdv-ql64",
+        "https://arxiv.org/abs/2602.21563"
+      ]
+    }
+  },
+  {
+    "id": "recent-s41534-026-01268-1",
+    "title": "Restoring Heisenberg scaling in time via autonomous quantum error correction",
+    "authors": "Hyukgun Kwon, Uwe R. Fischer, Seung-Woo Lee, Liang Jiang",
+    "year": 2026,
+    "venue": "npj Quantum Information 12, 103 (2026)",
+    "doi": "10.1038/s41534-026-01268-1",
+    "arxiv": "2504.13168",
+    "link": "https://www.nature.com/articles/s41534-026-01268-1",
+    "url": "https://www.nature.com/articles/s41534-026-01268-1",
+    "sourceUrl": "https://www.nature.com/articles/s41534-026-01268-1",
+    "sourceStatus": "current-bibliography",
+    "sourceChecked": "2026-10-13",
+    "publicationType": "journal",
+    "publishedDate": "2026-06-15",
+    "affiliationAtPublication": "Department of Physics, Pohang University of Science and Technology (POSTECH), Pohang, Republic of Korea",
+    "identityEvidence": "Publisher explicitly associates Seung-Woo Lee with POSTECH Department of Physics; research and coauthors match the QIT group.",
+    "verification": {
+      "status": "publisher-verified",
+      "checkedFields": [
+        "title",
+        "authors",
+        "year",
+        "venue",
+        "doi",
+        "publishedDate",
+        "affiliationAtPublication"
+      ],
+      "urls": [
+        "https://www.nature.com/articles/s41534-026-01268-1"
+      ]
+    },
+    "publicationInfo": "npj Quantum Information 12, 103 (2026)"
+  },
+  {
+    "id": "recent-s41534-026-01231-0",
+    "title": "Virtual purification complements quantum error correction in quantum metrology",
+    "authors": "Hyukgun Kwon, Changhun Oh, Youngrong Lim, Hyunseok Jeong, Seung-Woo Lee, Liang Jiang",
+    "year": 2026,
+    "venue": "npj Quantum Information 12, 88 (2026)",
+    "doi": "10.1038/s41534-026-01231-0",
+    "arxiv": "2503.12614",
+    "link": "https://www.nature.com/articles/s41534-026-01231-0",
+    "url": "https://www.nature.com/articles/s41534-026-01231-0",
+    "sourceUrl": "https://www.nature.com/articles/s41534-026-01231-0",
+    "sourceStatus": "current-bibliography",
+    "sourceChecked": "2026-10-13",
+    "publicationType": "journal",
+    "publishedDate": "2026-04-09",
+    "affiliationAtPublication": "Department of Physics, Pohang University of Science and Technology (POSTECH), Pohang, Republic of Korea",
+    "identityEvidence": "Publisher explicitly associates Seung-Woo Lee with POSTECH Department of Physics; research and coauthors match the QIT group.",
+    "verification": {
+      "status": "publisher-verified",
+      "checkedFields": [
+        "title",
+        "authors",
+        "year",
+        "venue",
+        "doi",
+        "publishedDate",
+        "affiliationAtPublication"
+      ],
+      "urls": [
+        "https://www.nature.com/articles/s41534-026-01231-0"
+      ]
+    },
+    "publicationInfo": "npj Quantum Information 12, 88 (2026)"
+  },
+  {
+    "id": "recent-s41534-025-01163-1",
+    "title": "Distributed photonic variational quantum eigensolver with parameterized weak measurements",
+    "authors": "Donghwa Lee, Bohdan Bilash, Jaehak Lee, Hyang-Tag Lim, Yosep Kim, Seung-Woo Lee, Yong-Su Kim",
+    "year": 2026,
+    "venue": "npj Quantum Information 12, 20 (2026)",
+    "doi": "10.1038/s41534-025-01163-1",
+    "arxiv": null,
+    "link": "https://www.nature.com/articles/s41534-025-01163-1",
+    "url": "https://www.nature.com/articles/s41534-025-01163-1",
+    "sourceUrl": "https://www.nature.com/articles/s41534-025-01163-1",
+    "sourceStatus": "current-bibliography",
+    "sourceChecked": "2026-10-13",
+    "publicationType": "journal",
+    "publishedDate": "2026-01-03",
+    "affiliationAtPublication": "Center for Quantum Technology, Korea Institute of Science and Technology (KIST), Seoul, Republic of Korea; Department of Physics, Pohang University of Technology (POSTECH)P, Pohang, Republic of Korea",
+    "identityEvidence": "Publisher explicitly associates Seung-Woo Lee with POSTECH Department of Physics; research and coauthors match the QIT group.",
+    "verification": {
+      "status": "publisher-verified",
+      "checkedFields": [
+        "title",
+        "authors",
+        "year",
+        "venue",
+        "doi",
+        "publishedDate",
+        "affiliationAtPublication"
+      ],
+      "urls": [
+        "https://www.nature.com/articles/s41534-025-01163-1"
+      ],
+      "note": "Publisher affiliation metadata retains original POSTECH spelling typo; KIST and POSTECH both listed. DOI contains 025 but publication date is 2026-01-03. Research Square preprint merged, not counted separately."
+    },
+    "publicationInfo": "npj Quantum Information 12, 20 (2026)",
+    "relatedPreprints": [
+      {
+        "doi": "10.21203/rs.3.rs-7264515/v1",
+        "sourceUrl": "https://doi.org/10.21203/rs.3.rs-7264515/v1",
+        "submissionDate": "2025-09-12"
+      }
+    ]
+  },
+  {
+    "id": "recent-trotter-2503-09710",
+    "title": "Trotter error mitigation by error profiling with shallow quantum circuit",
+    "authors": "Sangjin Lee, Youngseok Kim, Seung-Woo Lee",
+    "year": 2025,
+    "venue": "arXiv:2503.09710 (2025)",
+    "publicationInfo": "arXiv:2503.09710 (2025)",
+    "doi": null,
+    "arxiv": "2503.09710",
+    "link": "https://arxiv.org/abs/2503.09710",
+    "url": "https://arxiv.org/abs/2503.09710",
+    "sourceUrl": "https://arxiv.org/abs/2503.09710",
+    "sourceStatus": "current-bibliography",
+    "sourceChecked": "2026-10-13",
+    "publicationType": "preprint",
+    "publishedDate": "2025-03-12",
+    "submissionDate": "2025-03-12",
+    "affiliationAtPublication": "Center for Quantum Technology, Korea Institute of Science and Technology (KIST), Seoul, Korea",
+    "identityEvidence": "arXiv manuscript PDF first page identifies Seung-Woo Lee at KIST; matches QIT research and known coauthor Sangjin Lee. Independent agent checked correspondence identity in PDF.",
+    "verification": {
+      "status": "arxiv-verified",
+      "checkedFields": [
+        "title",
+        "authors",
+        "year",
+        "arxiv",
+        "submissionDate",
+        "affiliationAtPublication"
+      ],
+      "urls": [
+        "https://arxiv.org/abs/2503.09710",
+        "https://arxiv.org/pdf/2503.09710"
+      ],
+      "note": "v1 is the latest observed version; no journal reference or publisher DOI found as of 2026-10-13. Not labelled peer reviewed."
+    }
+  },
+  {
+    "id": "recent-feature-qec-2024",
+    "title": "Quantum Error Correction and Fault-tolerant Quantum Computing",
+    "titleKo": "양자오류정정과 결함허용 양자컴퓨팅",
+    "authors": "Seung-Woo Lee",
+    "year": 2024,
+    "venue": "Physics and High Technology 33(10), 2–11 (2024)",
+    "publicationInfo": "Physics and High Technology 33(10), 2–11 (2024)",
+    "doi": "10.3938/PhiT.33.026",
+    "arxiv": null,
+    "link": "https://webzine.kps.or.kr/?idx=17026&p=5_view",
+    "url": "https://webzine.kps.or.kr/?idx=17026&p=5_view",
+    "sourceUrl": "https://webzine.kps.or.kr/?idx=17026&p=5_view",
+    "sourceStatus": "current-bibliography",
+    "sourceChecked": "2026-10-13",
+    "publicationType": "feature",
+    "articleSubtype": "feature-review",
+    "publishedDate": "2024-10-31",
+    "affiliationAtPublication": "Korea Institute of Science and Technology (KIST)",
+    "identityEvidence": "Korean Physical Society publisher author biography names Oxford quantum-information physics DPhil, Dartmouth, SNU, KIAS and KIST, matching official faculty identity.",
+    "verification": {
+      "status": "publisher-verified",
+      "checkedFields": [
+        "title",
+        "authors",
+        "year",
+        "venue",
+        "doi",
+        "publishedDate",
+        "affiliationAtPublication"
+      ],
+      "urls": [
+        "https://webzine.kps.or.kr/?idx=17026&p=5_view",
+        "https://api.crossref.org/works/10.3938/phit.33.026"
+      ],
+      "note": "Society feature/review article; no independent peer-review claim. Crossref supplies volume, issue and pages."
+    }
+  }
+]

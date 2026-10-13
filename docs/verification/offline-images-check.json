@@ -1,0 +1,850 @@
+{
+  "checks": 28,
+  "copiedAssets": [
+    "brand/postech-wordmark.png",
+    "research/quantum-computing.svg",
+    "research/quantum-communication.svg",
+    "research/foundations-sensing.svg"
+  ],
+  "results": [
+    {
+      "width": 1440,
+      "path": "en/",
+      "images": [
+        {
+          "src": "../brand/postech-wordmark.png",
+          "currentSrc": "[project]/offline-preview/brand/postech-wordmark.png",
+          "loaded": true,
+          "width": 733,
+          "height": 62,
+          "alt": "POSTECH"
+        },
+        {
+          "src": "../research/quantum-computing.svg",
+          "currentSrc": "[project]/offline-preview/research/quantum-computing.svg",
+          "loaded": true,
+          "width": 800,
+          "height": 480,
+          "alt": "A Hadamard gate and two controlled-NOT gates beside a schematic grid for quantum error correction."
+        },
+        {
+          "src": "../research/quantum-communication.svg",
+          "currentSrc": "[project]/offline-preview/research/quantum-communication.svg",
+          "loaded": true,
+          "width": 800,
+          "height": 480,
+          "alt": "Two quantum nodes connected through a repeater by entanglement links, with a separate classical communication channel."
+        },
+        {
+          "src": "../research/foundations-sensing.svg",
+          "currentSrc": "[project]/offline-preview/research/foundations-sensing.svg",
+          "loaded": true,
+          "width": 800,
+          "height": 480,
+          "alt": "A quantum state on a Bloch sphere and two phase-shifted interference curves illustrating a measurement readout."
+        },
+        {
+          "src": "../brand/postech-wordmark.png",
+          "currentSrc": "[project]/offline-preview/brand/postech-wordmark.png",
+          "loaded": true,
+          "width": 733,
+          "height": 62,
+          "alt": "POSTECH"
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "path": "en/research/",
+      "images": [
+        {
+          "src": "../../brand/postech-wordmark.png",
+          "currentSrc": "[project]/offline-preview/brand/postech-wordmark.png",
+          "loaded": true,
+          "width": 733,
+          "height": 62,
+          "alt": "POSTECH"
+        },
+        {
+          "src": "../../research/quantum-computing.svg",
+          "currentSrc": "[project]/offline-preview/research/quantum-computing.svg",
+          "loaded": true,
+          "width": 800,
+          "height": 480,
+          "alt": "A Hadamard gate and two controlled-NOT gates beside a schematic grid for quantum error correction."
+        },
+        {
+          "src": "../../research/quantum-communication.svg",
+          "currentSrc": "[project]/offline-preview/research/quantum-communication.svg",
+          "loaded": true,
+          "width": 800,
+          "height": 480,
+          "alt": "Two quantum nodes connected through a repeater by entanglement links, with a separate classical communication channel."
+        },
+        {
+          "src": "../../research/foundations-sensing.svg",
+          "currentSrc": "[project]/offline-preview/research/foundations-sensing.svg",
+          "loaded": true,
+          "width": 800,
+          "height": 480,
+          "alt": "A quantum state on a Bloch sphere and two phase-shifted interference curves illustrating a measurement readout."
+        },
+        {
+          "src": "../../brand/postech-wordmark.png",
+          "currentSrc": "[project]/offline-preview/brand/postech-wordmark.png",
+          "loaded": true,
+          "width": 733,
+          "height": 62,
+          "alt": "POSTECH"
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "path": "en/people/",
+      "images": [
+        {
+          "src": "../../brand/postech-wordmark.png",
+          "currentSrc": "[project]/offline-preview/brand/postech-wordmark.png",
+          "loaded": true,
+          "width": 733,
+          "height": 62,
+          "alt": "POSTECH"
+        },
+        {
+          "src": "../../brand/postech-wordmark.png",
+          "currentSrc": "[project]/offline-preview/brand/postech-wordmark.png",
+          "loaded": true,
+          "width": 733,
+          "height": 62,
+          "alt": "POSTECH"
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "path": "en/publications/",
+      "images": [
+        {
+          "src": "../../brand/postech-wordmark.png",
+          "currentSrc": "[project]/offline-preview/brand/postech-wordmark.png",
+          "loaded": true,
+          "width": 733,
+          "height": 62,
+          "alt": "POSTECH"
+        },
+        {
+          "src": "../../brand/postech-wordmark.png",
+          "currentSrc": "[project]/offline-preview/brand/postech-wordmark.png",
+          "loaded": true,
+          "width": 733,
+          "height": 62,
+          "alt": "POSTECH"
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "path": "en/news/",
+      "images": [
+        {
+          "src": "../../brand/postech-wordmark.png",
+          "currentSrc": "[project]/offline-preview/brand/postech-wordmark.png",
+          "loaded": true,
+          "width": 733,
+          "height": 62,
+          "alt": "POSTECH"
+        },
+        {
+          "src": "../../brand/postech-wordmark.png",
+          "currentSrc": "[project]/offline-preview/brand/postech-wordmark.png",
+          "loaded": true,
+          "width": 733,
+          "height": 62,
+          "alt": "POSTECH"
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "path": "en/join/",
+      "images": [
+        {
+          "src": "../../brand/postech-wordmark.png",
+          "currentSrc": "[project]/offline-preview/brand/postech-wordmark.png",
+          "loaded": true,
+          "width": 733,
+          "height": 62,
+          "alt": "POSTECH"
+        },
+        {
+          "src": "../../brand/postech-wordmark.png",
+          "currentSrc": "[project]/offline-preview/brand/postech-wordmark.png",
+          "loaded": true,
+          "width": 733,
+          "height": 62,
+          "alt": "POSTECH"
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "path": "en/contact/",
+      "images": [
+        {
+          "src": "../../brand/postech-wordmark.png",
+          "currentSrc": "[project]/offline-preview/brand/postech-wordmark.png",
+          "loaded": true,
+          "width": 733,
+          "height": 62,
+          "alt": "POSTECH"
+        },
+        {
+          "src": "../../brand/postech-wordmark.png",
+          "currentSrc": "[project]/offline-preview/brand/postech-wordmark.png",
+          "loaded": true,
+          "width": 733,
+          "height": 62,
+          "alt": "POSTECH"
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "path": "ko/",
+      "images": [
+        {
+          "src": "../brand/postech-wordmark.png",
+          "currentSrc": "[project]/offline-preview/brand/postech-wordmark.png",
+          "loaded": true,
+          "width": 733,
+          "height": 62,
+          "alt": "POSTECH"
+        },
+        {
+          "src": "../research/quantum-computing.svg",
+          "currentSrc": "[project]/offline-preview/research/quantum-computing.svg",
+          "loaded": true,
+          "width": 800,
+          "height": 480,
+          "alt": "하다마드 게이트와 두 CNOT 게이트로 구성된 회로, 양자 오류 정정을 나타내는 개념 격자."
+        },
+        {
+          "src": "../research/quantum-communication.svg",
+          "currentSrc": "[project]/offline-preview/research/quantum-communication.svg",
+          "loaded": true,
+          "width": 800,
+          "height": 480,
+          "alt": "얽힘 연결과 중계기로 이어진 두 양자 노드, 별도로 표시한 고전 통신 채널."
+        },
+        {
+          "src": "../research/foundations-sensing.svg",
+          "currentSrc": "[project]/offline-preview/research/foundations-sensing.svg",
+          "loaded": true,
+          "width": 800,
+          "height": 480,
+          "alt": "블로흐 구 위의 양자 상태와 위상 변화에 따른 두 간섭 곡선으로 나타낸 측정 신호."
+        },
+        {
+          "src": "../brand/postech-wordmark.png",
+          "currentSrc": "[project]/offline-preview/brand/postech-wordmark.png",
+          "loaded": true,
+          "width": 733,
+          "height": 62,
+          "alt": "POSTECH"
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "path": "ko/research/",
+      "images": [
+        {
+          "src": "../../brand/postech-wordmark.png",
+          "currentSrc": "[project]/offline-preview/brand/postech-wordmark.png",
+          "loaded": true,
+          "width": 733,
+          "height": 62,
+          "alt": "POSTECH"
+        },
+        {
+          "src": "../../research/quantum-computing.svg",
+          "currentSrc": "[project]/offline-preview/research/quantum-computing.svg",
+          "loaded": true,
+          "width": 800,
+          "height": 480,
+          "alt": "하다마드 게이트와 두 CNOT 게이트로 구성된 회로, 양자 오류 정정을 나타내는 개념 격자."
+        },
+        {
+          "src": "../../research/quantum-communication.svg",
+          "currentSrc": "[project]/offline-preview/research/quantum-communication.svg",
+          "loaded": true,
+          "width": 800,
+          "height": 480,
+          "alt": "얽힘 연결과 중계기로 이어진 두 양자 노드, 별도로 표시한 고전 통신 채널."
+        },
+        {
+          "src": "../../research/foundations-sensing.svg",
+          "currentSrc": "[project]/offline-preview/research/foundations-sensing.svg",
+          "loaded": true,
+          "width": 800,
+          "height": 480,
+          "alt": "블로흐 구 위의 양자 상태와 위상 변화에 따른 두 간섭 곡선으로 나타낸 측정 신호."
+        },
+        {
+          "src": "../../brand/postech-wordmark.png",
+          "currentSrc": "[project]/offline-preview/brand/postech-wordmark.png",
+          "loaded": true,
+          "width": 733,
+          "height": 62,
+          "alt": "POSTECH"
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "path": "ko/people/",
+      "images": [
+        {
+          "src": "../../brand/postech-wordmark.png",
+          "currentSrc": "[project]/offline-preview/brand/postech-wordmark.png",
+          "loaded": true,
+          "width": 733,
+          "height": 62,
+          "alt": "POSTECH"
+        },
+        {
+          "src": "../../brand/postech-wordmark.png",
+          "currentSrc": "[project]/offline-preview/brand/postech-wordmark.png",
+          "loaded": true,
+          "width": 733,
+          "height": 62,
+          "alt": "POSTECH"
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "path": "ko/publications/",
+      "images": [
+        {
+          "src": "../../brand/postech-wordmark.png",
+          "currentSrc": "[project]/offline-preview/brand/postech-wordmark.png",
+          "loaded": true,
+          "width": 733,
+          "height": 62,
+          "alt": "POSTECH"
+        },
+        {
+          "src": "../../brand/postech-wordmark.png",
+          "currentSrc": "[project]/offline-preview/brand/postech-wordmark.png",
+          "loaded": true,
+          "width": 733,
+          "height": 62,
+          "alt": "POSTECH"
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "path": "ko/news/",
+      "images": [
+        {
+          "src": "../../brand/postech-wordmark.png",
+          "currentSrc": "[project]/offline-preview/brand/postech-wordmark.png",
+          "loaded": true,
+          "width": 733,
+          "height": 62,
+          "alt": "POSTECH"
+        },
+        {
+          "src": "../../brand/postech-wordmark.png",
+          "currentSrc": "[project]/offline-preview/brand/postech-wordmark.png",
+          "loaded": true,
+          "width": 733,
+          "height": 62,
+          "alt": "POSTECH"
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "path": "ko/join/",
+      "images": [
+        {
+          "src": "../../brand/postech-wordmark.png",
+          "currentSrc": "[project]/offline-preview/brand/postech-wordmark.png",
+          "loaded": true,
+          "width": 733,
+          "height": 62,
+          "alt": "POSTECH"
+        },
+        {
+          "src": "../../brand/postech-wordmark.png",
+          "currentSrc": "[project]/offline-preview/brand/postech-wordmark.png",
+          "loaded": true,
+          "width": 733,
+          "height": 62,
+          "alt": "POSTECH"
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "path": "ko/contact/",
+      "images": [
+        {
+          "src": "../../brand/postech-wordmark.png",
+          "currentSrc": "[project]/offline-preview/brand/postech-wordmark.png",
+          "loaded": true,
+          "width": 733,
+          "height": 62,
+          "alt": "POSTECH"
+        },
+        {
+          "src": "../../brand/postech-wordmark.png",
+          "currentSrc": "[project]/offline-preview/brand/postech-wordmark.png",
+          "loaded": true,
+          "width": 733,
+          "height": 62,
+          "alt": "POSTECH"
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "path": "en/",
+      "images": [
+        {
+          "src": "../brand/postech-wordmark.png",
+          "currentSrc": "[project]/offline-preview/brand/postech-wordmark.png",
+          "loaded": true,
+          "width": 733,
+          "height": 62,
+          "alt": "POSTECH"
+        },
+        {
+          "src": "../research/quantum-computing.svg",
+          "currentSrc": "[project]/offline-preview/research/quantum-computing.svg",
+          "loaded": true,
+          "width": 800,
+          "height": 480,
+          "alt": "A Hadamard gate and two controlled-NOT gates beside a schematic grid for quantum error correction."
+        },
+        {
+          "src": "../research/quantum-communication.svg",
+          "currentSrc": "[project]/offline-preview/research/quantum-communication.svg",
+          "loaded": true,
+          "width": 800,
+          "height": 480,
+          "alt": "Two quantum nodes connected through a repeater by entanglement links, with a separate classical communication channel."
+        },
+        {
+          "src": "../research/foundations-sensing.svg",
+          "currentSrc": "[project]/offline-preview/research/foundations-sensing.svg",
+          "loaded": true,
+          "width": 800,
+          "height": 480,
+          "alt": "A quantum state on a Bloch sphere and two phase-shifted interference curves illustrating a measurement readout."
+        },
+        {
+          "src": "../brand/postech-wordmark.png",
+          "currentSrc": "[project]/offline-preview/brand/postech-wordmark.png",
+          "loaded": true,
+          "width": 733,
+          "height": 62,
+          "alt": "POSTECH"
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "path": "en/research/",
+      "images": [
+        {
+          "src": "../../brand/postech-wordmark.png",
+          "currentSrc": "[project]/offline-preview/brand/postech-wordmark.png",
+          "loaded": true,
+          "width": 733,
+          "height": 62,
+          "alt": "POSTECH"
+        },
+        {
+          "src": "../../research/quantum-computing.svg",
+          "currentSrc": "[project]/offline-preview/research/quantum-computing.svg",
+          "loaded": true,
+          "width": 800,
+          "height": 480,
+          "alt": "A Hadamard gate and two controlled-NOT gates beside a schematic grid for quantum error correction."
+        },
+        {
+          "src": "../../research/quantum-communication.svg",
+          "currentSrc": "[project]/offline-preview/research/quantum-communication.svg",
+          "loaded": true,
+          "width": 800,
+          "height": 480,
+          "alt": "Two quantum nodes connected through a repeater by entanglement links, with a separate classical communication channel."
+        },
+        {
+          "src": "../../research/foundations-sensing.svg",
+          "currentSrc": "[project]/offline-preview/research/foundations-sensing.svg",
+          "loaded": true,
+          "width": 800,
+          "height": 480,
+          "alt": "A quantum state on a Bloch sphere and two phase-shifted interference curves illustrating a measurement readout."
+        },
+        {
+          "src": "../../brand/postech-wordmark.png",
+          "currentSrc": "[project]/offline-preview/brand/postech-wordmark.png",
+          "loaded": true,
+          "width": 733,
+          "height": 62,
+          "alt": "POSTECH"
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "path": "en/people/",
+      "images": [
+        {
+          "src": "../../brand/postech-wordmark.png",
+          "currentSrc": "[project]/offline-preview/brand/postech-wordmark.png",
+          "loaded": true,
+          "width": 733,
+          "height": 62,
+          "alt": "POSTECH"
+        },
+        {
+          "src": "../../brand/postech-wordmark.png",
+          "currentSrc": "[project]/offline-preview/brand/postech-wordmark.png",
+          "loaded": true,
+          "width": 733,
+          "height": 62,
+          "alt": "POSTECH"
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "path": "en/publications/",
+      "images": [
+        {
+          "src": "../../brand/postech-wordmark.png",
+          "currentSrc": "[project]/offline-preview/brand/postech-wordmark.png",
+          "loaded": true,
+          "width": 733,
+          "height": 62,
+          "alt": "POSTECH"
+        },
+        {
+          "src": "../../brand/postech-wordmark.png",
+          "currentSrc": "[project]/offline-preview/brand/postech-wordmark.png",
+          "loaded": true,
+          "width": 733,
+          "height": 62,
+          "alt": "POSTECH"
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "path": "en/news/",
+      "images": [
+        {
+          "src": "../../brand/postech-wordmark.png",
+          "currentSrc": "[project]/offline-preview/brand/postech-wordmark.png",
+          "loaded": true,
+          "width": 733,
+          "height": 62,
+          "alt": "POSTECH"
+        },
+        {
+          "src": "../../brand/postech-wordmark.png",
+          "currentSrc": "[project]/offline-preview/brand/postech-wordmark.png",
+          "loaded": true,
+          "width": 733,
+          "height": 62,
+          "alt": "POSTECH"
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "path": "en/join/",
+      "images": [
+        {
+          "src": "../../brand/postech-wordmark.png",
+          "currentSrc": "[project]/offline-preview/brand/postech-wordmark.png",
+          "loaded": true,
+          "width": 733,
+          "height": 62,
+          "alt": "POSTECH"
+        },
+        {
+          "src": "../../brand/postech-wordmark.png",
+          "currentSrc": "[project]/offline-preview/brand/postech-wordmark.png",
+          "loaded": true,
+          "width": 733,
+          "height": 62,
+          "alt": "POSTECH"
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "path": "en/contact/",
+      "images": [
+        {
+          "src": "../../brand/postech-wordmark.png",
+          "currentSrc": "[project]/offline-preview/brand/postech-wordmark.png",
+          "loaded": true,
+          "width": 733,
+          "height": 62,
+          "alt": "POSTECH"
+        },
+        {
+          "src": "../../brand/postech-wordmark.png",
+          "currentSrc": "[project]/offline-preview/brand/postech-wordmark.png",
+          "loaded": true,
+          "width": 733,
+          "height": 62,
+          "alt": "POSTECH"
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "path": "ko/",
+      "images": [
+        {
+          "src": "../brand/postech-wordmark.png",
+          "currentSrc": "[project]/offline-preview/brand/postech-wordmark.png",
+          "loaded": true,
+          "width": 733,
+          "height": 62,
+          "alt": "POSTECH"
+        },
+        {
+          "src": "../research/quantum-computing.svg",
+          "currentSrc": "[project]/offline-preview/research/quantum-computing.svg",
+          "loaded": true,
+          "width": 800,
+          "height": 480,
+          "alt": "하다마드 게이트와 두 CNOT 게이트로 구성된 회로, 양자 오류 정정을 나타내는 개념 격자."
+        },
+        {
+          "src": "../research/quantum-communication.svg",
+          "currentSrc": "[project]/offline-preview/research/quantum-communication.svg",
+          "loaded": true,
+          "width": 800,
+          "height": 480,
+          "alt": "얽힘 연결과 중계기로 이어진 두 양자 노드, 별도로 표시한 고전 통신 채널."
+        },
+        {
+          "src": "../research/foundations-sensing.svg",
+          "currentSrc": "[project]/offline-preview/research/foundations-sensing.svg",
+          "loaded": true,
+          "width": 800,
+          "height": 480,
+          "alt": "블로흐 구 위의 양자 상태와 위상 변화에 따른 두 간섭 곡선으로 나타낸 측정 신호."
+        },
+        {
+          "src": "../brand/postech-wordmark.png",
+          "currentSrc": "[project]/offline-preview/brand/postech-wordmark.png",
+          "loaded": true,
+          "width": 733,
+          "height": 62,
+          "alt": "POSTECH"
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "path": "ko/research/",
+      "images": [
+        {
+          "src": "../../brand/postech-wordmark.png",
+          "currentSrc": "[project]/offline-preview/brand/postech-wordmark.png",
+          "loaded": true,
+          "width": 733,
+          "height": 62,
+          "alt": "POSTECH"
+        },
+        {
+          "src": "../../research/quantum-computing.svg",
+          "currentSrc": "[project]/offline-preview/research/quantum-computing.svg",
+          "loaded": true,
+          "width": 800,
+          "height": 480,
+          "alt": "하다마드 게이트와 두 CNOT 게이트로 구성된 회로, 양자 오류 정정을 나타내는 개념 격자."
+        },
+        {
+          "src": "../../research/quantum-communication.svg",
+          "currentSrc": "[project]/offline-preview/research/quantum-communication.svg",
+          "loaded": true,
+          "width": 800,
+          "height": 480,
+          "alt": "얽힘 연결과 중계기로 이어진 두 양자 노드, 별도로 표시한 고전 통신 채널."
+        },
+        {
+          "src": "../../research/foundations-sensing.svg",
+          "currentSrc": "[project]/offline-preview/research/foundations-sensing.svg",
+          "loaded": true,
+          "width": 800,
+          "height": 480,
+          "alt": "블로흐 구 위의 양자 상태와 위상 변화에 따른 두 간섭 곡선으로 나타낸 측정 신호."
+        },
+        {
+          "src": "../../brand/postech-wordmark.png",
+          "currentSrc": "[project]/offline-preview/brand/postech-wordmark.png",
+          "loaded": true,
+          "width": 733,
+          "height": 62,
+          "alt": "POSTECH"
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "path": "ko/people/",
+      "images": [
+        {
+          "src": "../../brand/postech-wordmark.png",
+          "currentSrc": "[project]/offline-preview/brand/postech-wordmark.png",
+          "loaded": true,
+          "width": 733,
+          "height": 62,
+          "alt": "POSTECH"
+        },
+        {
+          "src": "../../brand/postech-wordmark.png",
+          "currentSrc": "[project]/offline-preview/brand/postech-wordmark.png",
+          "loaded": true,
+          "width": 733,
+          "height": 62,
+          "alt": "POSTECH"
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "path": "ko/publications/",
+      "images": [
+        {
+          "src": "../../brand/postech-wordmark.png",
+          "currentSrc": "[project]/offline-preview/brand/postech-wordmark.png",
+          "loaded": true,
+          "width": 733,
+          "height": 62,
+          "alt": "POSTECH"
+        },
+        {
+          "src": "../../brand/postech-wordmark.png",
+          "currentSrc": "[project]/offline-preview/brand/postech-wordmark.png",
+          "loaded": true,
+          "width": 733,
+          "height": 62,
+          "alt": "POSTECH"
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "path": "ko/news/",
+      "images": [
+        {
+          "src": "../../brand/postech-wordmark.png",
+          "currentSrc": "[project]/offline-preview/brand/postech-wordmark.png",
+          "loaded": true,
+          "width": 733,
+          "height": 62,
+          "alt": "POSTECH"
+        },
+        {
+          "src": "../../brand/postech-wordmark.png",
+          "currentSrc": "[project]/offline-preview/brand/postech-wordmark.png",
+          "loaded": true,
+          "width": 733,
+          "height": 62,
+          "alt": "POSTECH"
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "path": "ko/join/",
+      "images": [
+        {
+          "src": "../../brand/postech-wordmark.png",
+          "currentSrc": "[project]/offline-preview/brand/postech-wordmark.png",
+          "loaded": true,
+          "width": 733,
+          "height": 62,
+          "alt": "POSTECH"
+        },
+        {
+          "src": "../../brand/postech-wordmark.png",
+          "currentSrc": "[project]/offline-preview/brand/postech-wordmark.png",
+          "loaded": true,
+          "width": 733,
+          "height": 62,
+          "alt": "POSTECH"
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "path": "ko/contact/",
+      "images": [
+        {
+          "src": "../../brand/postech-wordmark.png",
+          "currentSrc": "[project]/offline-preview/brand/postech-wordmark.png",
+          "loaded": true,
+          "width": 733,
+          "height": 62,
+          "alt": "POSTECH"
+        },
+        {
+          "src": "../../brand/postech-wordmark.png",
+          "currentSrc": "[project]/offline-preview/brand/postech-wordmark.png",
+          "loaded": true,
+          "width": 733,
+          "height": 62,
+          "alt": "POSTECH"
+        }
+      ],
+      "overflow": false
+    }
+  ],
+  "errors": [],
+  "requests": [],
+  "pathNormalization": "Local file URL project prefix replaced with [project]/ before repository import."
+}

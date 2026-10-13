@@ -1,0 +1,122 @@
+{
+  "lastChecked": "2026-10-13",
+  "alumniStatusSource": "user-confirmed in current conversation; not inferred from destination institution or graduation",
+  "people": [
+    {
+      "id": "sangjin-lee",
+      "name": {
+        "en": "Sangjin Lee",
+        "ko": "Sangjin Lee"
+      },
+      "aliases": [
+        "Lee, Sangjin"
+      ],
+      "alumniStatus": "user-confirmed",
+      "currentInstitution": {
+        "en": "Korea Institute for Advanced Study (KIAS)",
+        "ko": "고등과학원(KIAS)"
+      },
+      "currentUnit": {
+        "en": "Quantum Universe Center",
+        "ko": "양자우주연구센터"
+      },
+      "currentRole": {
+        "en": "QUC Research Fellow",
+        "ko": "QUC 연구원"
+      },
+      "officialUrl": "https://www.kias.re.kr/kias/cp/centrsPgmsMng/people.do?centrspgmsCd=QUC&menuNo=403016",
+      "evidence": [
+        {
+          "title": "People | Quantum Universe | KIAS",
+          "url": "https://www.kias.re.kr/kias/cp/centrsPgmsMng/people.do?centrspgmsCd=QUC&menuNo=403016",
+          "exactEvidence": "Lee, Sangjin / QUC Research Fellow / Quantum information, Condensed matter",
+          "scope": "현재 QUC 인력 명단에 이름·직함·연구분야 명시",
+          "checked": "2026-10-13"
+        },
+        {
+          "title": "All Research Fellows | KIAS",
+          "url": "https://www.kias.re.kr/kias/people/rsrchFellows/list.do?menuNo=408004&schoolsCd=CP",
+          "paraphrase": "Centers & Programs 소속 QUC Research Fellow 명단의 quantum information/condensed matter 이상진을 재확인",
+          "checked": "2026-10-13"
+        },
+        {
+          "title": "QCTiP 2026 Book of Abstracts",
+          "url": "https://qctipconf.github.io/QCTiP2026_Book_of_Abstracts_002.pdf",
+          "paraphrase": "Trotter error mitigation by error profiling with shallow quantum circuit의 Sangjin Lee 소속을 KIAS로, 공저자 Seung-Woo Lee를 POSTECH로 명시",
+          "scope": "이전 QIT 논문 저자와 현재 KIAS 인물을 연결하는 추가 식별 근거",
+          "checked": "2026-10-13"
+        }
+      ],
+      "identityEvidence": "KIAS QUC 분야 정보와 2026 동제목 Trotter 학회 초록의 소속/공저자를 대조. 수학 HCMC Fellow 및 symplectic topology 연구자 Sangjin Lee는 다른 인물로 제외. KIAS 공개 페이지의 publications identifier sangjin519도 기존 연구자 식별과 부합하지만 이메일 주소를 추정해 게재하지 않음.",
+      "confidence": "high",
+      "uncertainty": [
+        "정확한 KIST 퇴실일 및 KIAS 합류일 미확인",
+        "박사 학위나 졸업연도는 이 조사에서 확인하지 않음",
+        "QUC Research Fellow를 assistant professor로 번역하지 않음",
+        "참조한 영문 기관 페이지에서는 한글 이름 대응을 별도 확정하지 않아 웹사이트에 영문 표기를 유지함"
+      ]
+    },
+    {
+      "id": "hyukgun-kwon",
+      "name": {
+        "en": "Hyukgun Kwon",
+        "ko": "권혁건"
+      },
+      "aliases": [
+        "Kwon, Hyukgun",
+        "Kwon Hyuk-gun"
+      ],
+      "excludedNames": [
+        "권혁근",
+        "Hyukjoon Kwon (KIAS 교수)"
+      ],
+      "alumniStatus": "user-confirmed",
+      "currentInstitution": {
+        "en": "Sejong University",
+        "ko": "세종대학교"
+      },
+      "currentUnit": {
+        "en": "Department of Physics and Astronomy",
+        "ko": "물리천문학과"
+      },
+      "currentRole": {
+        "en": "Assistant Professor",
+        "ko": "조교수"
+      },
+      "officialUrl": "https://sejong.elsevierpure.com/en/persons/hyukgun-kwon/",
+      "evidence": [
+        {
+          "title": "Hyukgun Kwon — Sejong University",
+          "url": "https://sejong.elsevierpure.com/en/persons/hyukgun-kwon/",
+          "exactEvidence": "Hyukgun Kwon / Professor / Department of Physics and Astronomy",
+          "paraphrase": "세종대학교 연구자 포털에 KIST 2024 및 Chicago 2024–2025 이력, 양자센싱·오류정정 연구분야 기재",
+          "scope": "현재 대학·학과 소속, 교수 일반 호칭 확인; 세부 직급은 다음 SNU 출처 사용",
+          "checked": "2026-10-13"
+        },
+        {
+          "title": "권혁건 — SQuIS, Seoul National University",
+          "url": "https://squis.snu.ac.kr/alumni/%EA%B6%8C%ED%98%81%EA%B1%B4/",
+          "exactEvidence": "권혁건 / Hyukgun Kwon / Assistant Professor / Department of Physics and Astronomy, Sejong University, South Korea",
+          "scope": "한글·영문 성명 대응 및 세부 직급 확인",
+          "checked": "2026-10-13"
+        },
+        {
+          "title": "Virtual purification complements quantum error correction in quantum metrology",
+          "url": "https://www.nature.com/articles/s41534-026-01231-0",
+          "paraphrase": "2026 출판본 Hyukgun Kwon의 Sejong/Chicago 소속과 공저자 Seung-Woo Lee POSTECH 소속이 일치",
+          "scope": "QIT 공저자와 현재 교수 동일인 교차확인",
+          "checked": "2026-10-13"
+        }
+      ],
+      "identityEvidence": "세종 연구자 프로필과 SNU SQuIS 한·영 성명/학위/소속 및 QIT 최근논문 공저자 일치. Hyukjoon Kwon으로 고치지 않음.",
+      "confidence": "high",
+      "uncertainty": [
+        "세종 포털의 Professor는 일반 호칭이므로 정교수로 해석하지 않음",
+        "Assistant Professor 상세는 SNU 공식 연구실 현행 alumni 페이지 근거",
+        "정확한 KIST 퇴실일 및 세종 임용일 미확인"
+      ]
+    }
+  ],
+  "websiteChange": "none; research-only output",
+  "privacy": "현 소속·직함만 권장; 개인 이메일·연락처·사진 추가 안 함"
+}

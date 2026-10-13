@@ -1,0 +1,384 @@
+[
+  {
+    "id": "seung-woo-lee",
+    "name": {
+      "en": "Seung-Woo Lee",
+      "ko": "이승우"
+    },
+    "role": {
+      "en": "Faculty · Principal investigator",
+      "ko": "전임교수 · 연구책임자"
+    },
+    "group": "current",
+    "approvedForPublic": true,
+    "verification": "official",
+    "sourceUrl": "https://ph.postech.ac.kr/physics/member/professor.do?articleNo=36802&mode=view",
+    "checked": "2026-10-13",
+    "email": "swleego@postech.ac.kr",
+    "description": {
+      "en": "Quantum information theory, quantum computing and algorithms, quantum communication, quantum sensing, and the foundations of quantum theory.",
+      "ko": "양자정보이론, 양자컴퓨팅과 알고리즘, 양자통신, 양자센싱 및 양자이론의 기초를 연구합니다."
+    },
+    "institution": "POSTECH",
+    "kind": "faculty"
+  },
+  {
+    "id": "postech-student-1",
+    "name": {
+      "en": "Kwang-Jun Choi",
+      "ko": "최광준"
+    },
+    "institution": "POSTECH",
+    "group": "current",
+    "kind": "student",
+    "role": {
+      "en": "PhD student",
+      "ko": "박사과정"
+    },
+    "approvedForPublic": false,
+    "verification": "user-presentation",
+    "sourceLabel": "Lab introduction PPT v49 · slide 2",
+    "checked": "2026-10-13",
+    "nameVerification": {
+      "status": "user-confirmed",
+      "checked": "2026-10-13",
+      "scope": "Korean spelling supplied by the user"
+    }
+  },
+  {
+    "id": "postech-student-2",
+    "name": {
+      "en": "Woo-Won Seo",
+      "ko": "서우원"
+    },
+    "institution": "POSTECH",
+    "group": "current",
+    "kind": "student",
+    "role": {
+      "en": "PhD student",
+      "ko": "박사과정"
+    },
+    "approvedForPublic": false,
+    "verification": "user-presentation",
+    "sourceLabel": "Lab introduction PPT v49 · slide 2",
+    "checked": "2026-10-13",
+    "nameVerification": {
+      "status": "user-confirmed",
+      "checked": "2026-10-13",
+      "scope": "Korean spelling supplied by the user"
+    }
+  },
+  {
+    "id": "postech-student-3",
+    "name": {
+      "en": "Jun-Hee Cho",
+      "ko": "조준희"
+    },
+    "institution": "POSTECH",
+    "group": "current",
+    "kind": "student",
+    "role": {
+      "en": "PhD student",
+      "ko": "박사과정"
+    },
+    "approvedForPublic": false,
+    "verification": "user-presentation",
+    "sourceLabel": "Lab introduction PPT v49 · slide 2",
+    "checked": "2026-10-13",
+    "nameVerification": {
+      "status": "user-confirmed",
+      "checked": "2026-10-13",
+      "scope": "Korean spelling supplied by the user"
+    }
+  },
+  {
+    "id": "kist-student-1",
+    "name": {
+      "en": "Jeonghyeon Shin",
+      "ko": "신정현"
+    },
+    "institution": "KIST",
+    "group": "current",
+    "kind": "student",
+    "role": {
+      "en": "Graduate student",
+      "ko": "대학원생"
+    },
+    "approvedForPublic": false,
+    "verification": "user-confirmed",
+    "sourceUrl": "https://sites.google.com/view/qitkist/group-members",
+    "sourceLabel": "User update · 2026-10-13; English spelling from legacy site",
+    "checked": "2026-10-13"
+  },
+  {
+    "id": "kist-student-2",
+    "name": {
+      "en": "Seongyeop Lim",
+      "ko": "임성엽"
+    },
+    "institution": "KIST",
+    "group": "current",
+    "kind": "student",
+    "role": {
+      "en": "Graduate student",
+      "ko": "대학원생"
+    },
+    "approvedForPublic": false,
+    "verification": "user-confirmed",
+    "sourceUrl": "https://sites.google.com/view/qitkist/group-members",
+    "sourceLabel": "User update · 2026-10-13; English spelling from legacy site",
+    "checked": "2026-10-13"
+  },
+  {
+    "id": "kist-student-3",
+    "name": {
+      "en": "Sewon Jeong",
+      "ko": "정세원"
+    },
+    "institution": "KIST",
+    "group": "current",
+    "kind": "student",
+    "role": {
+      "en": "Graduate student",
+      "ko": "대학원생"
+    },
+    "approvedForPublic": false,
+    "verification": "user-confirmed",
+    "sourceUrl": "https://sites.google.com/view/qitkist/group-members",
+    "sourceLabel": "User update · 2026-10-13; English spelling from legacy site",
+    "checked": "2026-10-13"
+  },
+  {
+    "id": "alumni-sangjin-lee",
+    "name": {
+      "en": "Sangjin Lee",
+      "ko": "Sangjin Lee"
+    },
+    "group": "alumni",
+    "kind": "alumni",
+    "role": {
+      "en": "Postdoctoral researcher",
+      "ko": "박사후연구원"
+    },
+    "approvedForPublic": true,
+    "verification": "user-confirmed-alumni",
+    "sourceUrl": "https://sites.google.com/view/qitkist/group-members",
+    "checked": "2026-10-13",
+    "affiliation": {
+      "status": "official",
+      "institution": {
+        "en": "Korea Institute for Advanced Study (KIAS)",
+        "ko": "고등과학원(KIAS)"
+      },
+      "role": {
+        "en": "QUC Research Fellow",
+        "ko": "QUC Research Fellow"
+      },
+      "sourceUrl": "https://www.kias.re.kr/kias/cp/centrsPgmsMng/people.do?centrspgmsCd=QUC&menuNo=403016",
+      "checked": "2026-10-13"
+    }
+  },
+  {
+    "id": "alumni-hyukgun-kwon",
+    "name": {
+      "en": "Hyukgun Kwon",
+      "ko": "권혁건"
+    },
+    "group": "alumni",
+    "kind": "alumni",
+    "role": {
+      "en": "Postdoctoral researcher",
+      "ko": "박사후연구원"
+    },
+    "approvedForPublic": true,
+    "verification": "user-confirmed-alumni",
+    "sourceUrl": "https://sites.google.com/view/qitkist/group-members",
+    "checked": "2026-10-13",
+    "affiliation": {
+      "status": "official",
+      "institution": {
+        "en": "Sejong University",
+        "ko": "세종대학교"
+      },
+      "role": {
+        "en": "Assistant Professor",
+        "ko": "조교수"
+      },
+      "sourceUrl": "https://sejong.elsevierpure.com/en/persons/hyukgun-kwon/",
+      "checked": "2026-10-13",
+      "unit": {
+        "en": "Department of Physics and Astronomy",
+        "ko": "물리천문학과"
+      },
+      "roleSourceUrl": "https://squis.snu.ac.kr/alumni/%EA%B6%8C%ED%98%81%EA%B1%B4/"
+    }
+  },
+  {
+    "id": "alumni-nuri-kang",
+    "name": {
+      "en": "Nuri Kang",
+      "ko": "Nuri Kang"
+    },
+    "group": "alumni",
+    "kind": "alumni",
+    "role": {
+      "en": "Graduate student",
+      "ko": "대학원생"
+    },
+    "approvedForPublic": true,
+    "verification": "user-confirmed-alumni",
+    "sourceUrl": "https://sites.google.com/view/qitkist/group-members",
+    "checked": "2026-10-13",
+    "affiliation": {
+      "status": "official",
+      "institution": {
+        "en": "Yale University",
+        "ko": "Yale University"
+      },
+      "role": {
+        "en": "Ph.D. student in Applied Physics",
+        "ko": "응용물리학 박사과정"
+      },
+      "sourceUrl": "https://purigroup.research.yale.edu/current-members",
+      "checked": "2026-10-13",
+      "unit": {
+        "en": "Shruti Puri Group",
+        "ko": "Shruti Puri 연구실"
+      }
+    }
+  },
+  {
+    "id": "alumni-hatice-mesakkat",
+    "name": {
+      "en": "Hatice Mesakkat",
+      "ko": "Hatice Mesakkat"
+    },
+    "group": "alumni",
+    "kind": "alumni",
+    "role": {
+      "en": "Undergraduate intern",
+      "ko": "학부 연구 인턴"
+    },
+    "approvedForPublic": true,
+    "verification": "legacy-alumni",
+    "sourceUrl": "https://sites.google.com/view/qitkist/group-members",
+    "checked": "2026-10-13",
+    "affiliation": {
+      "status": "unverified"
+    },
+    "period": {
+      "en": "Oct 2021 – Feb 2022",
+      "ko": "2021.10–2022.02"
+    }
+  },
+  {
+    "id": "alumni-wooyeong-song",
+    "name": {
+      "en": "Wooyeong Song",
+      "ko": "Wooyeong Song"
+    },
+    "group": "alumni",
+    "kind": "alumni",
+    "role": {
+      "en": "Postdoctoral researcher",
+      "ko": "박사후연구원"
+    },
+    "approvedForPublic": true,
+    "verification": "legacy-alumni",
+    "sourceUrl": "https://sites.google.com/view/qitkist/group-members",
+    "checked": "2026-10-13",
+    "affiliation": {
+      "status": "legacy",
+      "institution": {
+        "en": "Korea Institute of Science and Technology Information (KISTI)",
+        "ko": "한국과학기술정보연구원(KISTI)"
+      },
+      "role": {
+        "en": "Senior researcher",
+        "ko": "선임연구원"
+      },
+      "sourceUrl": "https://sites.google.com/view/qitkist/group-members",
+      "checked": "2026-10-13"
+    },
+    "period": {
+      "en": "Until Feb 2024",
+      "ko": "2024.02까지"
+    },
+    "historicalNote": {
+      "en": "Joint with Y.-S. Kim",
+      "ko": "Joint with Y.-S. Kim"
+    }
+  },
+  {
+    "id": "alumni-jaehak-lee",
+    "name": {
+      "en": "Jaehak Lee",
+      "ko": "Jaehak Lee"
+    },
+    "group": "alumni",
+    "kind": "alumni",
+    "role": {
+      "en": "Research professor",
+      "ko": "연구교수"
+    },
+    "approvedForPublic": true,
+    "verification": "legacy-alumni",
+    "sourceUrl": "https://sites.google.com/view/qitkist/group-members",
+    "checked": "2026-10-13",
+    "affiliation": {
+      "status": "legacy",
+      "institution": {
+        "en": "Korea Institute of Science and Technology (KIST)",
+        "ko": "한국과학기술연구원(KIST)"
+      },
+      "role": {
+        "en": "Senior researcher",
+        "ko": "선임연구원"
+      },
+      "sourceUrl": "https://sites.google.com/view/qitkist/group-members",
+      "checked": "2026-10-13"
+    },
+    "period": {
+      "en": "Sep 2022 – Aug 2024",
+      "ko": "2022.09–2024.08"
+    },
+    "historicalNote": {
+      "en": "Affiliated with Seoul National University",
+      "ko": "당시 서울대학교 소속"
+    }
+  },
+  {
+    "id": "alumni-shrobona-bagchi",
+    "name": {
+      "en": "Shrobona Bagchi",
+      "ko": "Shrobona Bagchi"
+    },
+    "group": "alumni",
+    "kind": "alumni",
+    "role": {
+      "en": "Postdoctoral researcher",
+      "ko": "박사후연구원"
+    },
+    "approvedForPublic": true,
+    "verification": "legacy-alumni",
+    "sourceUrl": "https://sites.google.com/view/qitkist/group-members",
+    "checked": "2026-10-13",
+    "affiliation": {
+      "status": "official",
+      "institution": {
+        "en": "Korea Institute for Advanced Study (KIAS)",
+        "ko": "고등과학원(KIAS)"
+      },
+      "role": {
+        "en": "QUC Research Fellow",
+        "ko": "QUC Research Fellow"
+      },
+      "sourceUrl": "https://www.kias.re.kr/kias/cp/centrsPgmsMng/people.do?centrspgmsCd=QUC&menuNo=403016",
+      "checked": "2026-10-13"
+    },
+    "period": {
+      "en": "Oct 2021 – Aug 2024",
+      "ko": "2021.10–2024.08"
+    }
+  }
+]

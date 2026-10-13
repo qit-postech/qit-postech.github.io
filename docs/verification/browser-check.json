@@ -1,0 +1,126 @@
+{
+  "results": [
+    {
+      "path": "/en/",
+      "width": 1440,
+      "title": "Quantum Information Theory Group — POSTECH",
+      "h1": 1,
+      "overflow": false,
+      "lang": "en"
+    },
+    {
+      "path": "/en/research/",
+      "width": 1440,
+      "title": "Research — QIT · POSTECH",
+      "h1": 1,
+      "overflow": false,
+      "lang": "en"
+    },
+    {
+      "path": "/en/people/",
+      "width": 1440,
+      "title": "People — QIT · POSTECH",
+      "h1": 1,
+      "overflow": false,
+      "lang": "en"
+    },
+    {
+      "path": "/en/publications/",
+      "width": 1440,
+      "title": "Publications — QIT · POSTECH",
+      "h1": 1,
+      "overflow": false,
+      "lang": "en"
+    },
+    {
+      "path": "/en/news/",
+      "width": 1440,
+      "title": "News — QIT · POSTECH",
+      "h1": 1,
+      "overflow": false,
+      "lang": "en"
+    },
+    {
+      "path": "/en/join/",
+      "width": 1440,
+      "title": "Join Us — QIT · POSTECH",
+      "h1": 1,
+      "overflow": false,
+      "lang": "en"
+    },
+    {
+      "path": "/en/contact/",
+      "width": 1440,
+      "title": "Contact — QIT · POSTECH",
+      "h1": 1,
+      "overflow": false,
+      "lang": "en"
+    },
+    {
+      "path": "/ko/",
+      "width": 1440,
+      "title": "Quantum Information Theory Group — POSTECH",
+      "h1": 1,
+      "overflow": false,
+      "lang": "ko"
+    },
+    {
+      "path": "/ko/research/",
+      "width": 1440,
+      "title": "연구 — QIT · POSTECH",
+      "h1": 1,
+      "overflow": false,
+      "lang": "ko"
+    },
+    {
+      "path": "/ko/people/",
+      "width": 1440,
+      "title": "구성원 — QIT · POSTECH",
+      "h1": 1,
+      "overflow": false,
+      "lang": "ko"
+    },
+    {
+      "path": "/ko/publications/",
+      "width": 1440,
+      "title": "논문 — QIT · POSTECH",
+      "h1": 1,
+      "overflow": false,
+      "lang": "ko"
+    },
+    {
+      "path": "/ko/news/",
+      "width": 1440,
+      "title": "소식 — QIT · POSTECH",
+      "h1": 1,
+      "overflow": false,
+      "lang": "ko"
+    },
+    {
+      "path": "/ko/join/",
+      "width": 1440,
+      "title": "연구실 참여 — QIT · POSTECH",
+      "h1": 1,
+      "overflow": false,
+      "lang": "ko"
+    },
+    {
+      "path": "/ko/contact/",
+      "width": 1440,
+      "title": "연락처 — QIT · POSTECH",
+      "h1": 1,
+      "overflow": false,
+      "lang": "ko"
+    }
+  ],
+  "mobileRoutes": 14,
+  "search": {
+    "initial": 61,
+    "searched": 1,
+    "year2024": 6
+  },
+  "menu": true,
+  "escape": true,
+  "reviewStudents": 6,
+  "errors": []
+}

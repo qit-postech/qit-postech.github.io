@@ -1,0 +1,151 @@
+{
+  "sourceChecked": "2026-10-13",
+  "scope": "Bounded additional 2024-2025 journal coverage search; not exhaustive guarantee",
+  "newJournalArticlesConfirmed": [],
+  "candidates": [
+    {
+      "title": "Distributed Quantum Multiple-Phase Estimation Using Fewer Photons",
+      "authors": [
+        "Dong Hyun Kim",
+        "Seongjin Hong",
+        "Yong Su Kim",
+        "Yosep Kim",
+        "Seung Woo Lee",
+        "Raphael C. Pooser",
+        "Kyunghwan Oh",
+        "Su Yong Lee",
+        "Changhyoup Lee",
+        "Hyang Tag Lim"
+      ],
+      "year": 2025,
+      "publicationInfo": "2025 Conference on Lasers and Electro-Optics, CLEO 2025",
+      "publicationType": "conference contribution",
+      "doi": "10.1364/cleo_fs.2025.ff115_7",
+      "sourceUrl": "https://yonsei.elsevierpure.com/en/publications/distributed-quantum-multiple-phase-estimation-using-fewer-photons/",
+      "sourceStatus": "institutional bibliographic record checked",
+      "sourceChecked": "2026-10-13",
+      "identityEvidence": "Established quantum sensing coauthors and same subject as 2024 Nature Communications paper; source explicitly names Seung Woo Lee",
+      "caution": "Conference contribution; do not count as additional journal article or silently duplicate 2024 related result.",
+      "additionalPublisherUrl": "https://opg.optica.org/abstract.cfm?uri=CLEO_FS-2025-FF115_7"
+    },
+    {
+      "title": "Single-qudit-based variational quantum eigensolver using orbital angular momentum states",
+      "authors": [
+        "Byungjoo Kim",
+        "Kang-Min Hu",
+        "Myung-Hyun Sohn",
+        "Yosep Kim",
+        "Yong-Su Kim",
+        "Seung-Woo Lee",
+        "Hyang-Tag Lim"
+      ],
+      "year": 2025,
+      "publicationInfo": "Optica Quantum 2.0 Conference and Exhibition, paper QTu3A.23 (2025)",
+      "publicationType": "conference contribution",
+      "doi": "10.1364/QUANTUM.2025.QTu3A.23",
+      "sourceUrl": "https://opg.optica.org/abstract.cfm?URI=QUANTUM-2025-QTu3A.23",
+      "sourceStatus": "publisher verified title/authors/affiliation/DOI",
+      "sourceChecked": "2026-10-13",
+      "identityEvidence": "Publisher explicitly lists Seung-Woo Lee affiliation Center for Quantum Technology, KIST.",
+      "caution": "Conference contribution related to existing2024 qudit VQE journal paper; not a new journal article."
+    },
+    {
+      "title": "Quantum-Enhanced Multi-Phase Distributed Sensing Using Fewer Photons",
+      "year": 2025,
+      "publicationInfo": "Optica Quantum 2.0 Conference and Exhibition, paper QM2C.6 (2025)",
+      "publicationType": "conference contribution",
+      "doi": "10.1364/QUANTUM.2025.QM2C.6",
+      "sourceUrl": "https://opg.optica.org/abstract.cfm?uri=QUANTUM-2025-QM2C.6",
+      "sourceStatus": "publisher verified title/authors/affiliation/DOI",
+      "sourceChecked": "2026-10-13",
+      "caution": "Conference contribution, related to existing2024 sensing paper.",
+      "authors": [
+        "Dong-Hyun Kim",
+        "Seongjin Hong",
+        "Yong-Su Kim",
+        "Yosep Kim",
+        "Seung-Woo Lee",
+        "Raphael C. Pooser",
+        "Kyunghwan Oh",
+        "Su-Yong Lee",
+        "Changhyoup Lee",
+        "Hyang-Tag Lim"
+      ],
+      "identityEvidence": "Publisher explicitly lists Seung-Woo Lee affiliation Center for Quantum Technology, KIST."
+    },
+    {
+      "title": "Qudit-based variational quantum eigensolver by using photonic azimuthal orbital angular momentum states",
+      "authors": [
+        "Byungjoo Kim",
+        "Kang-Min Hu",
+        "Myung-Hyun Sohn",
+        "Yosep Kim",
+        "Yong-Su Kim",
+        "Seung-Woo Lee",
+        "Hyang-Tag Lim"
+      ],
+      "year": 2024,
+      "publicationInfo": "2024 Conference on Lasers and Electro-Optics Pacific Rim (CLEO-PR), paper Mo4C_2",
+      "publicationType": "conference contribution",
+      "doi": null,
+      "sourceUrl": "https://opg.optica.org/abstract.cfm?uri=CLEOPR-2024-Mo4C_2",
+      "sourceStatus": "publisher title and authors matched",
+      "sourceChecked": "2026-10-13",
+      "caution": "Related conference presentation of existing2024 journal result; no DOI invented."
+    },
+    {
+      "title": "Distributed multiple-phase estimation with fewer photons",
+      "authors": [
+        "Dong-Hyun Kim",
+        "Seongjin Hong",
+        "Yong-Su Kim",
+        "Yosep Kim",
+        "Seung-Woo Lee",
+        "Raphael C. Pooser",
+        "Kyunghwan Oh",
+        "Su-Yong Lee",
+        "Changhyoup Lee",
+        "Hyang-Tag Lim"
+      ],
+      "year": 2024,
+      "publicationInfo": "2024 Conference on Lasers and Electro-Optics Pacific Rim (CLEO-PR), paper Tu1C_2",
+      "publicationType": "conference contribution",
+      "doi": null,
+      "sourceUrl": "https://opg.optica.org/abstract.cfm?uri=CLEOPR-2024-Tu1C_2",
+      "sourceStatus": "publisher title and authors matched",
+      "sourceChecked": "2026-10-13",
+      "caution": "Related conference presentation of existing2024 journal result; no DOI invented."
+    }
+  ],
+  "crossChecks": [
+    {
+      "sourceUrl": "https://sites.google.com/view/yskim25/publications",
+      "result": "Directly inspected author-provided KIST collaborator list. Its 2024 Seung-Woo Lee entries overlap existing legacy bibliography; no 2025 journal entry naming Seung-Woo Lee found."
+    },
+    {
+      "sourceUrl": "https://arxiv.org/abs/2503.12614",
+      "result": "2025 submitted preprint now journal npj Quantum Information 12,88 (2026), DOI 10.1038/s41534-026-01231-0. Deduplicate against 2026 records."
+    },
+    {
+      "sourceUrl": "https://arxiv.org/abs/2504.13168",
+      "result": "2025 submitted preprint now npj Quantum Inf.12,103 (2026), DOI 10.1038/s41534-026-01268-1. Deduplicate against 2026 records."
+    }
+  ],
+  "excluded": [
+    {
+      "title": "Photonic hybrid quantum computing",
+      "doi": "10.1016/j.newton.2025.100359",
+      "reason": "Search hit thanks Seung-Woo Lee in acknowledgments; not author evidence."
+    },
+    {
+      "title": "Ferroelectric Quantum Dots for Retinomorphic In-Sensor Computing",
+      "doi": "10.1002/adma.202504117",
+      "reason": "Publisher author affiliation is SNU Materials Science; namesake, not established target physicist."
+    },
+    {
+      "title": "Chiral Color Code: Single-Shot Error Correction for Exotic Topological Order",
+      "doi": "10.1103/sqcs-jk1z",
+      "reason": "Authors Dongjin Lee and Beni Yoshida; no Seung-Woo Lee authorship."
+    }
+  ]
+}

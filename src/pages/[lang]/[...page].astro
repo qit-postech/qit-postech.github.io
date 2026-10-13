@@ -1,0 +1,8 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import PageView from '../../components/PageView.astro';
+import {sections,labels,type Lang} from '../../lib/site';
+export function getStaticPaths(){return ['en','ko'].flatMap(lang=>sections.map(section=>({params:{lang,page:section==='home'?undefined:section},props:{lang,section}})));}
+const {lang,section}=Astro.props;
+---
+<Layout lang={lang} section={section} title={section==='home'?undefined:labels[lang as Lang][sections.indexOf(section)]}><PageView lang={lang} section={section}/></Layout>

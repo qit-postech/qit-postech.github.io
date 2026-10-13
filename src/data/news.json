@@ -1,0 +1,17 @@
+[
+  {
+    "id": "publication-2026-10-01",
+    "date": "2026-10-01",
+    "title": {
+      "en": "Quantum teleportation with imperfect joint measurements",
+      "ko": "불완전한 공동 측정에서의 양자 텔레포테이션 연구"
+    },
+    "summary": {
+      "en": "Jeonghyeon Shin, Jaehak Lee, Soojoon Lee, and Seung-Woo Lee’s article “Quantum teleportation with partially entangled joint measurements induced by coherent errors” was published in Physical Review A 114, 042401. This entry records the publication; the journal page provides the full details.",
+      "ko": "신정현, Jaehak Lee, Soojoon Lee, 이승우의 논문 “Quantum teleportation with partially entangled joint measurements induced by coherent errors”가 Physical Review A 114, 042401에 출판되었습니다. 출판 사실을 기록한 항목이며 자세한 내용은 저널 원문에서 확인할 수 있습니다."
+    },
+    "sourceUrl": "https://journals.aps.org/pra/abstract/10.1103/py1h-hmn9",
+    "approvedForPublic": true,
+    "kind": "publication-record"
+  }
+]

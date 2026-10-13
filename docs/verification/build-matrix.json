@@ -1,0 +1,32 @@
+[
+  {
+    "mode": "public",
+    "base": "/qit-lab/",
+    "site": "https://example.org",
+    "status": "PASS",
+    "verification": "> postech-qit-website@0.1.0 verify\n> node scripts/verify-build.mjs\n\nBuild verification: 16 HTML pages, 366 local references, BASE_PATH=/qit-lab/, mode=public.\nPASS: language routes, local assets, links, fragments, and indexing mode.",
+    "pendingStudentRoster": "excluded",
+    "notFoundNoindex": true,
+    "domainFile": false
+  },
+  {
+    "mode": "public",
+    "base": "/",
+    "site": "https://example.org",
+    "domain": "example.org",
+    "status": "PASS",
+    "verification": "> postech-qit-website@0.1.0 verify\n> node scripts/verify-build.mjs\n\nBuild verification: 16 HTML pages, 366 local references, BASE_PATH=/, mode=public.\nPASS: language routes, local assets, links, fragments, and indexing mode.",
+    "pendingStudentRoster": "excluded",
+    "notFoundNoindex": true,
+    "domainFile": true
+  },
+  {
+    "mode": "review",
+    "base": "/",
+    "status": "PASS",
+    "verification": "> postech-qit-website@0.1.0 verify\n> node scripts/verify-build.mjs\n\nBuild verification: 16 HTML pages, 322 local references, BASE_PATH=/, mode=review.\nPASS: language routes, local assets, links, fragments, and indexing mode.",
+    "pendingStudentRoster": "shown-with-source",
+    "notFoundNoindex": true,
+    "domainFile": false
+  }
+]

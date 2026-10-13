@@ -1,0 +1,37 @@
+---
+const { compact = false } = Astro.props;
+const curves = Array.from({length:19}, (_,i) => {
+ const lat=(i-9)*Math.PI/20;
+ const points=Array.from({length:100},(_,j)=>{
+  const lon=j/99*Math.PI*2;
+  const x=Math.cos(lat)*Math.cos(lon), y=Math.sin(lat), z=Math.cos(lat)*Math.sin(lon);
+  const a=-0.42, b=0.48;
+  const xx=x*Math.cos(a)-y*Math.sin(a), yy=x*Math.sin(a)+y*Math.cos(a);
+  return `${270+xx*180},${256+(yy*Math.cos(b)-z*Math.sin(b))*180}`;
+ }).join(' ');
+ return points;
+});
+const meridians=Array.from({length:15},(_,i)=>{
+ const lon=i/15*Math.PI*2;
+ return Array.from({length:70},(_,j)=>{
+  const lat=-Math.PI/2+j/69*Math.PI;
+  const x=Math.cos(lat)*Math.cos(lon), y=Math.sin(lat), z=Math.cos(lat)*Math.sin(lon);
+  const a=-.42,b=.48,xx=x*Math.cos(a)-y*Math.sin(a),yy=x*Math.sin(a)+y*Math.cos(a);
+  return `${270+xx*180},${256+(yy*Math.cos(b)-z*Math.sin(b))*180}`;
+ }).join(' ');
+});
+---
+<div class:list={['quantum-art', {compact}]} aria-hidden="true">
+<svg viewBox="0 0 540 540" fill="none" xmlns="http://www.w3.org/2000/svg">
+ <defs><radialGradient id="sphereglow"><stop stop-color="#ae92be" stop-opacity=".42"/><stop offset="1" stop-color="#f7f4ef" stop-opacity="0"/></radialGradient></defs>
+ <circle cx="270" cy="256" r="238" fill="url(#sphereglow)"/>
+ <g stroke="#583b73" stroke-width=".8" opacity=".64">{curves.map(points=><polyline points={points}/>)}{meridians.map(points=><polyline points={points}/>)}</g>
+ <ellipse cx="270" cy="256" rx="236" ry="68" stroke="#a95878" stroke-width="1" transform="rotate(-27 270 256)"/>
+ <path d="M72 376 L468 137 M270 28 V478" stroke="#b5a9b7" stroke-width=".7" stroke-dasharray="3 7"/>
+ <circle cx="382" cy="159" r="6" fill="#b54162"/><circle cx="270" cy="256" r="4" fill="#55386a"/>
+ <circle cx="70" cy="358" r="4" fill="#55386a"/>
+ <text x="278" y="39" fill="#806d86" font-family="Georgia, serif" font-size="18">|0⟩</text>
+ <text x="278" y="494" fill="#806d86" font-family="Georgia, serif" font-size="18">|1⟩</text>
+ <text x="398" y="151" fill="#9e4264" font-family="Georgia, serif" font-size="19">|ψ⟩</text>
+</svg>
+</div>

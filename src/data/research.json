@@ -1,0 +1,128 @@
+[
+  {
+    "id": "computing",
+    "number": "01",
+    "title": {
+      "en": "Quantum computing",
+      "ko": "양자컴퓨팅"
+    },
+    "subtitle": {
+      "en": "Making quantum information work",
+      "ko": "양자정보를 계산으로"
+    },
+    "description": {
+      "en": "Quantum computing and quantum algorithms are central topics in the group’s research. The earlier KIST research archive includes approaches to optical quantum computing and quantum error correction.",
+      "ko": "양자컴퓨팅과 양자알고리즘을 연구합니다. KIST 시절 연구 기록에는 광학 기반 양자컴퓨팅과 양자 오류 정정에 관한 연구가 포함되어 있습니다."
+    },
+    "tags": {
+      "en": [
+        "Quantum algorithms",
+        "Error correction",
+        "Optical quantum computing"
+      ],
+      "ko": [
+        "양자알고리즘",
+        "오류 정정",
+        "광학 양자컴퓨팅"
+      ]
+    },
+    "sourceUrl": "https://ph.postech.ac.kr/physics/member/professor.do?articleNo=36802&mode=view",
+    "legacyUrl": "https://sites.google.com/view/qitkist/researches",
+    "approvedForPublic": true,
+    "figure": {
+      "src": "research/quantum-computing.svg",
+      "alt": {
+        "en": "A Hadamard gate and two controlled-NOT gates beside a schematic grid for quantum error correction.",
+        "ko": "하다마드 게이트와 두 CNOT 게이트로 구성된 회로, 양자 오류 정정을 나타내는 개념 격자."
+      },
+      "caption": {
+        "en": "Quantum gates and the protection of encoded information. Conceptual illustration.",
+        "ko": "양자 게이트와 부호화된 정보의 보호를 표현한 개념도입니다."
+      }
+    }
+  },
+  {
+    "id": "communication",
+    "number": "02",
+    "title": {
+      "en": "Quantum communication",
+      "ko": "양자통신"
+    },
+    "subtitle": {
+      "en": "Connecting quantum systems",
+      "ko": "양자 시스템의 연결"
+    },
+    "description": {
+      "en": "We study quantum communication as part of the broader theory of quantum information. Earlier work recorded on the KIST site explores quantum teleportation and communication protocols.",
+      "ko": "양자정보이론을 바탕으로 양자통신을 연구합니다. KIST 시절 사이트에는 양자 텔레포테이션과 통신 프로토콜에 관한 연구가 기록되어 있습니다."
+    },
+    "tags": {
+      "en": [
+        "Quantum teleportation",
+        "Quantum protocols",
+        "Quantum networks"
+      ],
+      "ko": [
+        "양자 텔레포테이션",
+        "양자 프로토콜",
+        "양자 네트워크"
+      ]
+    },
+    "sourceUrl": "https://ph.postech.ac.kr/physics/member/professor.do?articleNo=36802&mode=view",
+    "legacyUrl": "https://sites.google.com/view/qitkist/researches",
+    "approvedForPublic": true,
+    "figure": {
+      "src": "research/quantum-communication.svg",
+      "alt": {
+        "en": "Two quantum nodes connected through a repeater by entanglement links, with a separate classical communication channel.",
+        "ko": "얽힘 연결과 중계기로 이어진 두 양자 노드, 별도로 표시한 고전 통신 채널."
+      },
+      "caption": {
+        "en": "Entanglement links, a quantum repeater, and classical communication. Conceptual illustration.",
+        "ko": "얽힘 연결, 양자 중계기와 고전 통신을 표현한 개념도입니다."
+      }
+    }
+  },
+  {
+    "id": "foundations",
+    "number": "03",
+    "title": {
+      "en": "Foundations & sensing",
+      "ko": "양자 기초이론과 센싱"
+    },
+    "subtitle": {
+      "en": "Understanding the quantum world",
+      "ko": "양자 세계의 이해"
+    },
+    "description": {
+      "en": "The fundamentals of quantum theory and quantum sensing are among our research interests. The earlier research archive also includes quantum measurement and the information it reveals about a system.",
+      "ko": "양자이론의 기초와 양자센싱을 연구합니다. 이전 연구 기록에는 양자 측정과 측정으로 얻을 수 있는 정보에 대한 연구가 포함되어 있습니다."
+    },
+    "tags": {
+      "en": [
+        "Quantum measurement",
+        "Information trade-offs",
+        "Quantum sensing"
+      ],
+      "ko": [
+        "양자 측정",
+        "정보 교환관계",
+        "양자센싱"
+      ]
+    },
+    "sourceUrl": "https://ph.postech.ac.kr/physics/member/professor.do?articleNo=36802&mode=view",
+    "legacyUrl": "https://sites.google.com/view/qitkist/researches",
+    "approvedForPublic": true,
+    "figure": {
+      "src": "research/foundations-sensing.svg",
+      "alt": {
+        "en": "A quantum state on a Bloch sphere and two phase-shifted interference curves illustrating a measurement readout.",
+        "ko": "블로흐 구 위의 양자 상태와 위상 변화에 따른 두 간섭 곡선으로 나타낸 측정 신호."
+      },
+      "caption": {
+        "en": "Quantum states, phase shifts, and measurement readout. Illustrative curves, not experimental data.",
+        "ko": "양자 상태, 위상 변화와 측정 신호를 표현한 개념도이며, 곡선은 실험 데이터가 아닙니다."
+      }
+    }
+  }
+]

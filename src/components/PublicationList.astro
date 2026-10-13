@@ -1,0 +1,13 @@
+---
+import {t} from '../lib/site';
+const { items, lang, compact = false } = Astro.props;
+---
+<ol class:list={['publication-list',{compact}]}>
+{items.map((paper:any) => <li class="publication" data-paper data-year={paper.year} data-type={paper.publicationType||'journal'} data-search={`${paper.title} ${paper.authors} ${paper.venue} ${paper.year} ${paper.doi||''} ${paper.arxiv||''}`.toLowerCase()}>
+ <div class="paper-year">{paper.year}</div>
+ <div class="paper-body"><h3>{paper.title}</h3><p class="authors">{paper.authors}</p><p class="venue">{paper.venue}</p>
+ <div class="paper-links"><span class="paper-type">{paper.publicationType==='preprint'?t(lang,'Preprint','프리프린트'):paper.publicationType==='feature'?t(lang,'Review / feature','해설·리뷰'):t(lang,'Journal article','정식 출판')}</span>{paper.doi && <a href={`https://doi.org/${paper.doi}`}>DOI <span aria-hidden="true">↗</span></a>}{paper.arxiv && <a href={`https://arxiv.org/abs/${paper.arxiv}`}>arXiv <span aria-hidden="true">↗</span></a>}{!paper.doi && !paper.arxiv && paper.link && <a href={paper.link}>{t(lang,'Publication','논문 원문')} ↗</a>}
+ <span class="provenance">{paper.sourceStatus==='legacy'?t(lang,'KIST-era archive','KIST 시절 기록'):t(lang,'Source checked · 13 Oct 2026','출처 대조 · 2026.10.13')}</span></div>
+ </div>
+</li>)}
+</ol>

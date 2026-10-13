@@ -1,0 +1,62 @@
+[
+  {
+    "path": "/en/",
+    "violations": []
+  },
+  {
+    "path": "/en/research/",
+    "violations": []
+  },
+  {
+    "path": "/en/people/",
+    "violations": []
+  },
+  {
+    "path": "/en/publications/",
+    "violations": []
+  },
+  {
+    "path": "/en/news/",
+    "violations": []
+  },
+  {
+    "path": "/en/join/",
+    "violations": []
+  },
+  {
+    "path": "/en/contact/",
+    "violations": []
+  },
+  {
+    "path": "/ko/",
+    "violations": []
+  },
+  {
+    "path": "/ko/research/",
+    "violations": []
+  },
+  {
+    "path": "/ko/people/",
+    "violations": []
+  },
+  {
+    "path": "/ko/publications/",
+    "violations": []
+  },
+  {
+    "path": "/ko/news/",
+    "violations": []
+  },
+  {
+    "path": "/ko/join/",
+    "violations": []
+  },
+  {
+    "path": "/ko/contact/",
+    "violations": []
+  },
+  {
+    "path": "mobile/menu-open",
+    "violations": []
+  }
+]

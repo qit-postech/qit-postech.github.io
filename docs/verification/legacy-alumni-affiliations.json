@@ -1,0 +1,83 @@
+{
+  "checkedDate": "2026-10-13",
+  "scope": "Limited official-institution and primary-lab search; historical affiliations are not treated as current appointments. No photographs or email addresses collected.",
+  "people": [
+    {
+      "name": "Wooyeong Song",
+      "verifiedStatus": "legacy-only-current-institutional-role-unverified",
+      "currentRole": null,
+      "currentAffiliation": null,
+      "legacyRole": "Senior researcher at KISTI",
+      "legacySource": "https://sites.google.com/view/qitkist/group-members",
+      "sources": [
+        {
+          "url": "https://www.kisti.re.kr/notifications/post/notice/6451%3Bjsessionid%3DgFWaCdhlRFCnlGsLlXczRTFT2S9yNSFCO1RNgI2a6waZhN1bl4EEkaY3Mnu2rS5d.ar211_servlet_engine23?cPage=3&t=1758844800065",
+          "kind": "official institutional event notice",
+          "evidence": "KRnet 2024 program identifies 송우영 선임/KISTI",
+          "supports": "historical 2024 role, not an October 2026 appointment",
+          "access": "Official search result inspected; clean notice URL could not be opened."
+        },
+        {
+          "url": "https://sites.google.com/view/yskim25/people",
+          "kind": "collaborating research group primary page",
+          "evidence": "Page marked last update March2026 identifies alumnus Wooyeong Song as senior researcher at KISTI",
+          "supports": "recent corroboration, but no current KISTI staff directory verified"
+        }
+      ],
+      "recommendedDisplay": "KISTI · 선임연구원 (기존 연구실 기록 기준; 현직 미확인)"
+    },
+    {
+      "name": "Jaehak Lee",
+      "verifiedStatus": "legacy-only-current-role-unverified",
+      "currentRole": null,
+      "currentAffiliation": null,
+      "legacyRole": "Senior researcher at KIST",
+      "legacySource": "https://sites.google.com/view/qitkist/group-members",
+      "sources": [
+        {
+          "url": "https://www.kist.re.kr/ko/notice/recruiting-students.do?articleNo=16122&attachNo=15138&mode=download",
+          "kind": "official KIST 2025 UST internship notice",
+          "evidence": "Quantum Information section lists 이재학 교수 and quantum information/optics/computing/error correction research",
+          "supports": "2025 KIST/UST teaching-research affiliation; not a current Senior Researcher appointment"
+        }
+      ],
+      "recommendedDisplay": "KIST · 선임연구원 (기존 연구실 기록 기준; 현직 미확인)",
+      "identityNote": "Excluded military-strategy KNDU and mechanical-engineering KITECH namesakes. Current UST page did not expose individual profile details."
+    },
+    {
+      "name": "Shrobona Bagchi",
+      "verifiedStatus": "verified-current-official-directory",
+      "currentRole": "QUC Research Fellow",
+      "currentAffiliation": "Korea Institute for Advanced Study (KIAS), Quantum Universe Center",
+      "legacyRole": "QUC research fellow at KIAS",
+      "legacySource": "https://sites.google.com/view/qitkist/group-members",
+      "sources": [
+        {
+          "url": "https://kias.re.kr/kias/people/rsrchFellows/list.do?lang=&menuNo=408004",
+          "kind": "official current staff directory",
+          "evidence": "All Research Fellows lists Bagchi, Shrobona as QUC Research Fellow, researching quantum error mitigation, quantum many-body physics and relativistic quantum measurement",
+          "supports": "current displayed institutional role"
+        }
+      ],
+      "recommendedDisplay": "QUC Research Fellow · KIAS"
+    },
+    {
+      "name": "Hatice Mesakkat",
+      "verifiedStatus": "legacy-only-no-current-role-found",
+      "currentRole": null,
+      "currentAffiliation": null,
+      "legacyRole": "Undergraduate Intern (2021.10–2022.2)",
+      "legacySource": "https://sites.google.com/view/qitkist/group-members",
+      "sources": [
+        {
+          "url": "https://sites.google.com/view/qitkist/group-members",
+          "kind": "original research group alumni list",
+          "evidence": "HATICE MESAKKAT — Undergraduate Intern (2021.10–2022.2)",
+          "supports": "historical internship only"
+        }
+      ],
+      "recommendedDisplay": "Undergraduate Intern · 2021.10–2022.2",
+      "note": "Limited exact-name searches found no useful institutional current profile; do not infer an affiliation."
+    }
+  ]
+}

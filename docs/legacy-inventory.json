@@ -1,0 +1,634 @@
+{
+  "schemaVersion": "1.0",
+  "sourceStatus": "legacy",
+  "sourceChecked": "2026-10-13",
+  "baseUrl": "https://sites.google.com/view/qitkist/",
+  "method": "Direct HTTPS HTML retrieval of root and all five public navigation routes; all hrefs and same-site route strings examined. Official web open tool failed for root, direct public HTTP succeeded.",
+  "coverage": "All five routes exposed in public navigation, all page anchors, embedded section text, links, img and CSS background URLs. No additional nested public route appeared in HTML. Unlinked/private pages cannot be ruled out.",
+  "pageCount": 5,
+  "pages": [
+    {
+      "url": "https://sites.google.com/view/qitkist/home",
+      "title": "QIT@KIST",
+      "sourceStatus": "legacy",
+      "sourceChecked": "2026-10-13",
+      "lastUpdated": null,
+      "lastUpdatedNote": "Page updated label is present but no date exposed in visible text",
+      "links": [
+        {
+          "url": "https://sites.google.com/view/qitkist/home",
+          "label": ""
+        },
+        {
+          "url": "https://sites.google.com/view/qitkist/home",
+          "label": "QIT@KIST"
+        },
+        {
+          "url": "https://sites.google.com/view/qitkist/home",
+          "label": "Home"
+        },
+        {
+          "url": "https://sites.google.com/view/qitkist/group-members",
+          "label": "Group members"
+        },
+        {
+          "url": "https://sites.google.com/view/qitkist/researches",
+          "label": "Researches"
+        },
+        {
+          "url": "https://sites.google.com/view/qitkist/publications",
+          "label": "Publications"
+        },
+        {
+          "url": "https://sites.google.com/view/qitkist/contact",
+          "label": "Contact"
+        },
+        {
+          "url": "https://sites.google.com/view/qitkist/home",
+          "label": "QIT@KIST"
+        },
+        {
+          "url": "https://sites.google.com/view/qitkist/#h.7h41b1so0ful",
+          "label": ""
+        },
+        {
+          "url": "https://sites.google.com/view/qitkist/group-members",
+          "label": ""
+        },
+        {
+          "url": "https://sites.google.com/view/qitkist/#h.9k22c4efis08",
+          "label": ""
+        },
+        {
+          "url": "https://sites.google.com/view/qitkist/researches",
+          "label": ""
+        },
+        {
+          "url": "https://sites.google.com/view/qitkist/#h.jg6qfdnyssxp",
+          "label": ""
+        },
+        {
+          "url": "https://sites.google.com/view/qitkist/publications",
+          "label": ""
+        },
+        {
+          "url": "https://sites.google.com/view/qitkist/#h.a3i3b2blk6yg",
+          "label": ""
+        }
+      ],
+      "images": [
+        {
+          "index": 1,
+          "kind": "site-logo",
+          "url": "https://sites.google.com/sitesv-images-rt/AMxu72s-bXQDok3sPJYt4pA-ZrWT2mLO1JB0sE-20VTxznntoZgH8vSZQ6CA0oUk1N3ehKUtlXkRZN7ix-HfWT_Duy7f_vyLxupAwi21GDPQP5r2oTUEuURgHvNAoAqFHK4q7pdFbfFhSJW1kKFcVkZ0nG5c79-3N2dlcQ4La5L-JYXKoiXqqxdRlirMrJKqdOw=w16383",
+          "alt": null,
+          "ariaLabel": "Site home",
+          "rightsStatus": "unverified",
+          "downloaded": false,
+          "migrationDecision": "Do not republish until rights and identity verified"
+        },
+        {
+          "index": 2,
+          "kind": "site-logo",
+          "url": "https://sites.google.com/sitesv-images-rt/AMxu72s-bXQDok3sPJYt4pA-ZrWT2mLO1JB0sE-20VTxznntoZgH8vSZQ6CA0oUk1N3ehKUtlXkRZN7ix-HfWT_Duy7f_vyLxupAwi21GDPQP5r2oTUEuURgHvNAoAqFHK4q7pdFbfFhSJW1kKFcVkZ0nG5c79-3N2dlcQ4La5L-JYXKoiXqqxdRlirMrJKqdOw=w16383",
+          "alt": null,
+          "ariaLabel": "Site home",
+          "rightsStatus": "unverified",
+          "downloaded": false,
+          "migrationDecision": "Do not republish until rights and identity verified"
+        },
+        {
+          "index": 3,
+          "kind": "content-image",
+          "url": "https://sites.google.com/sitesv-images-rt/AMxu72vi3WztSFlTyjtmpyNt8ADPaFLe7FWsEoUVfQvQiDcu4LB-F0ua2zCL_3iVcXCCk-gVlscIWOOptL120aEIl3obf0ruseUFma03fSEMTFpCsmtt1pzy9Vi9fBmAl70t8NUshzBEsmMshIWGWV-CPCUfQnBNdo-NyckgDEzuk4SfDxhpX6t-8GpDD95frh4=w1280",
+          "alt": null,
+          "ariaLabel": null,
+          "rightsStatus": "unverified",
+          "downloaded": false,
+          "migrationDecision": "Do not republish until rights and identity verified"
+        },
+        {
+          "index": 4,
+          "kind": "content-image",
+          "url": "https://sites.google.com/sitesv-images-rt/AMxu72tTb9hhRPHj2wOTl3cSTtBz-g9c2uUR92X9afs0v0Y950aDYE291N_2mR8UFB0gMLleUuOSjwTnCNqt7rzl1IYhA8CEWq-7RbBXwZQbWS2ZRxJOQAjE5yAllZmUXS1cUNNe-ABnaXz9vjQ7wGSDeVh60ZE_iK0NGPo8_0JjtLfiyxB9ym8qazKoDastEVuGq8SGt2mFuoQuaPnlBN0RrLLlNIAWv12JvhpiA6SxhE0=w1280",
+          "alt": null,
+          "ariaLabel": null,
+          "rightsStatus": "unverified",
+          "downloaded": false,
+          "migrationDecision": "Do not republish until rights and identity verified"
+        },
+        {
+          "index": 5,
+          "kind": "content-image",
+          "url": "https://sites.google.com/sitesv-images-rt/AMxu72taW4Jp7sUCstO5hMIkF8aRWhcr5c2LBJzB1AMMbB9gDNDIQz37klrivIvFbmbv79qaJHSm-kRWO-d7lM47wFWlB_YeNZzgXMovLhG9bmQHyi4e8tFLgbUKmm_5Idf8VmitJ2Nf_ORshnmIDdZlSk6v30mjq3I7Q2334SRwlWHwejVXLqSD6G4U252_XH1p_PToog6nabq42Jy4T7h5cnIaXCXgoMYQzWZEMqYu=w1280",
+          "alt": null,
+          "ariaLabel": null,
+          "rightsStatus": "unverified",
+          "downloaded": false,
+          "migrationDecision": "Do not republish until rights and identity verified"
+        }
+      ],
+      "imageElementCount": 5,
+      "contentImageCount": 3,
+      "migrationDecision": "Rewrite affiliation and welcome; preserve research themes and historic collaboration only with legacy date",
+      "assetInterpretation": "Three content images are linked navigation imagery for members, research and publications; logo appears twice for responsive navigation."
+    },
+    {
+      "url": "https://sites.google.com/view/qitkist/group-members",
+      "title": "QIT@KIST - Group members",
+      "sourceStatus": "legacy",
+      "sourceChecked": "2026-10-13",
+      "lastUpdated": null,
+      "lastUpdatedNote": "Page updated label is present but no date exposed in visible text",
+      "links": [
+        {
+          "url": "https://sites.google.com/view/qitkist/home",
+          "label": ""
+        },
+        {
+          "url": "https://sites.google.com/view/qitkist/home",
+          "label": "QIT@KIST"
+        },
+        {
+          "url": "https://sites.google.com/view/qitkist/home",
+          "label": "Home"
+        },
+        {
+          "url": "https://sites.google.com/view/qitkist/group-members",
+          "label": "Group members"
+        },
+        {
+          "url": "https://sites.google.com/view/qitkist/researches",
+          "label": "Researches"
+        },
+        {
+          "url": "https://sites.google.com/view/qitkist/publications",
+          "label": "Publications"
+        },
+        {
+          "url": "https://sites.google.com/view/qitkist/contact",
+          "label": "Contact"
+        },
+        {
+          "url": "https://sites.google.com/view/qitkist/home",
+          "label": "QIT@KIST"
+        }
+      ],
+      "images": [
+        {
+          "index": 1,
+          "kind": "site-logo",
+          "url": "https://sites.google.com/sitesv-images-rt/AMxu72s-bXQDok3sPJYt4pA-ZrWT2mLO1JB0sE-20VTxznntoZgH8vSZQ6CA0oUk1N3ehKUtlXkRZN7ix-HfWT_Duy7f_vyLxupAwi21GDPQP5r2oTUEuURgHvNAoAqFHK4q7pdFbfFhSJW1kKFcVkZ0nG5c79-3N2dlcQ4La5L-JYXKoiXqqxdRlirMrJKqdOw=w16383",
+          "alt": null,
+          "ariaLabel": "Site home",
+          "rightsStatus": "unverified",
+          "downloaded": false,
+          "migrationDecision": "Do not republish until rights and identity verified"
+        },
+        {
+          "index": 2,
+          "kind": "site-logo",
+          "url": "https://sites.google.com/sitesv-images-rt/AMxu72s-bXQDok3sPJYt4pA-ZrWT2mLO1JB0sE-20VTxznntoZgH8vSZQ6CA0oUk1N3ehKUtlXkRZN7ix-HfWT_Duy7f_vyLxupAwi21GDPQP5r2oTUEuURgHvNAoAqFHK4q7pdFbfFhSJW1kKFcVkZ0nG5c79-3N2dlcQ4La5L-JYXKoiXqqxdRlirMrJKqdOw=w16383",
+          "alt": null,
+          "ariaLabel": "Site home",
+          "rightsStatus": "unverified",
+          "downloaded": false,
+          "migrationDecision": "Do not republish until rights and identity verified"
+        },
+        {
+          "index": 3,
+          "kind": "content-image",
+          "url": "https://sites.google.com/sitesv-images-rt/AMxu72vu99kdOxpmY-gie8A5mCf-R7oI6lAmK-hIE5Q5EjNsHJ9ISt8MBfNbb4eW8AQwKS83ot2uXpvZNqrQfbYGvEZ_wdgX8_i4LSulpMflw18WW4Z_81hosn0xGm38AFqWfHUYrK104CFxMfhvfrE5Zz2ZSEPpzb2Ur5bZ58q81ioB-n5MXFZcEO95fhgptpP4j8pyNTDefSs_p7Pv5pAJ02f7rVX-0QDo-6F43Vbds2I=w1280",
+          "alt": null,
+          "ariaLabel": null,
+          "rightsStatus": "unverified",
+          "downloaded": false,
+          "migrationDecision": "Do not republish until rights and identity verified"
+        },
+        {
+          "index": 4,
+          "kind": "content-image",
+          "url": "https://sites.google.com/sitesv-images-rt/AMxu72vfFkC6vo54c1JQRfPqj9UxjmYHRXkumwCVAFe3AY_HfDrx1zYZu12RSKCM1A9GJL236vFtsYdf8-kd7_vaT7a0gfrCwauUkLS8J3g9rrt7VmljSrbXB-UpxIvMg0JdXhOX2-6tGGl2FQiA0HOYDrxQS9wDJ4t98TpzZb52_a6XffNPnlC8WiA4-94SqdlLkwnDKnYfk9_er3AmYMVB--qNDscIdQRp5Qp1iVBO=w1280",
+          "alt": null,
+          "ariaLabel": null,
+          "rightsStatus": "unverified",
+          "downloaded": false,
+          "migrationDecision": "Do not republish until rights and identity verified"
+        },
+        {
+          "index": 5,
+          "kind": "content-image",
+          "url": "https://sites.google.com/sitesv-images-rt/AMxu72t_jsiDX8PLw3GE0KUcHEnkouMaGx3MplRxAFRbdHQV9uBS4Wf5qJUdN4QAIl5XA7GQQiVxg5qAzxk6eLh0V0qr6YgS85YF50ckRFOrD8iph_Q3_D0yr5Cs6g8WoFahQVSYGpBZ5RLniXiOM_zlcPIjvqL4MaQ6lhKWLTOZbFQbcfZVK4GQNQetDerE-Wa6bySkTHi8oQ7BXMUs4Cg-V2A0YeKTBevhs744-1uWJuM=w1280",
+          "alt": null,
+          "ariaLabel": null,
+          "rightsStatus": "unverified",
+          "downloaded": false,
+          "migrationDecision": "Do not republish until rights and identity verified"
+        },
+        {
+          "index": 6,
+          "kind": "content-image",
+          "url": "https://sites.google.com/sitesv-images-rt/AMxu72s0DSxT9eqqHYGpEYYXD13fIRNJPC8pLhOSwNzPd1xA7eMThWY3toOVECNgve1UTiyci5MwZMczB5KMZTchqls_woOgfFYXAvzyulbx2qOdG18d1eJmypKv63980_5J_YL6RYKnIgMeCfCyoc-oZskjIOj9Ru2ISm_sUmn8qqO30whxniB8_NS3ZsHycSWqdX-waGsMQlmlAv3EK-ubaeoMGrN-w7GjvmDW-VyAslo=w1280",
+          "alt": null,
+          "ariaLabel": null,
+          "rightsStatus": "unverified",
+          "downloaded": false,
+          "migrationDecision": "Do not republish until rights and identity verified"
+        },
+        {
+          "index": 7,
+          "kind": "content-image",
+          "url": "https://sites.google.com/sitesv-images-rt/AMxu72scaq6GB9NOjdx6ln6FT9NCue7ymQFlnjgiEksh9o3zK75WzY-LW44YyuIY4vy6ppAL1p1u1R9YwmPbZGyr285ow2soilbdV4cHb0cS_iY9Jb7c65oZanyghauLppsYrhb2aYSu9vJnCphTd_H3vudEiBnAavi-LRIn4hTjbB94NUn-At9911jjF1n1UvWJcfg6yARLVYTCpmk7WU7zexfwm3w6KmAvAP3E6F7yy68=w1280",
+          "alt": null,
+          "ariaLabel": null,
+          "rightsStatus": "unverified",
+          "downloaded": false,
+          "migrationDecision": "Do not republish until rights and identity verified"
+        },
+        {
+          "index": 8,
+          "kind": "content-image",
+          "url": "https://sites.google.com/sitesv-images-rt/AMxu72vGh6b7QhkKrLgpoSLBmmmia5-rMEwnkKwMujOmzT5rJ6SXfPBEbenMLY3UyB-S4HJP9g1ByjgLtXzBTJmQetuygM-MoWJKAKk0ZK3TUec7w0EmptjMcdqnFiW8QD2qGPd2kopiSGHXOpsn8wFN9UtX53taceCwOTUMoyDQE0ymurLMcKNCTTlaPN6GSou2klHWECtkZRx7SalKvKXcuGAUuZLgRaZm-p8MS7zss-E=w1280",
+          "alt": null,
+          "ariaLabel": null,
+          "rightsStatus": "unverified",
+          "downloaded": false,
+          "migrationDecision": "Do not republish until rights and identity verified"
+        },
+        {
+          "index": 9,
+          "kind": "content-image",
+          "url": "https://sites.google.com/sitesv-images-rt/AMxu72ubjAH8PJYSA15RxtrgYSqhUeWbSk0qJ03bS7ahJGMFyvz_X2WEOQ3C_27ebO-CdjWk7nmtnofieAWJIS2TTHbMbg2p4TBpTz7vOYUJcwARWlQkcZcaa00HlSb_M00oDnk1cJWzi-_-WJkBWdZGroXA1YMA-c_eH_Hgnm8irzUCI0S2dDUa5DogEHdggBLblK6CycgEi1ORWinyDq-_BU3A4-86LpDDffHjyZUEAYs=w1280",
+          "alt": null,
+          "ariaLabel": null,
+          "rightsStatus": "unverified",
+          "downloaded": false,
+          "migrationDecision": "Do not republish until rights and identity verified"
+        },
+        {
+          "index": 10,
+          "kind": "content-image",
+          "url": "https://sites.google.com/sitesv-images-rt/AMxu72vWvJzmV_CyJEbDQLHtJEcmC0un23eCrSzgq0RoNTjtfmFDaRv9l1_CKF06GL5GUNjG58zVUR4B5sifHAAJFMr5PUbdPUYGZ2TwvSQIuKaom6i542AHcRvy3bp2ZjUMoYxvXtLrZB_FUDxinoVpUD0XtbLehycp3iG1B7nZLAedHMljQilsW5Uob3K5Fo4q26H4Ryu8iWUrgJo9AgOUmt4OkW0EhahaGhslMEpX=w1280",
+          "alt": null,
+          "ariaLabel": null,
+          "rightsStatus": "unverified",
+          "downloaded": false,
+          "migrationDecision": "Do not republish until rights and identity verified"
+        }
+      ],
+      "imageElementCount": 10,
+      "contentImageCount": 8,
+      "migrationDecision": "Archive as KIST legacy roster only; current POSTECH roster needs independent confirmation",
+      "assetInterpretation": "Eight content images accompany the PI and seven listed members; likely portraits based on placement; no identity inferred from image pixels."
+    },
+    {
+      "url": "https://sites.google.com/view/qitkist/researches",
+      "title": "QIT@KIST - Researches",
+      "sourceStatus": "legacy",
+      "sourceChecked": "2026-10-13",
+      "lastUpdated": null,
+      "lastUpdatedNote": "Page updated label is present but no date exposed in visible text",
+      "links": [
+        {
+          "url": "https://sites.google.com/view/qitkist/home",
+          "label": ""
+        },
+        {
+          "url": "https://sites.google.com/view/qitkist/home",
+          "label": "QIT@KIST"
+        },
+        {
+          "url": "https://sites.google.com/view/qitkist/home",
+          "label": "Home"
+        },
+        {
+          "url": "https://sites.google.com/view/qitkist/group-members",
+          "label": "Group members"
+        },
+        {
+          "url": "https://sites.google.com/view/qitkist/researches",
+          "label": "Researches"
+        },
+        {
+          "url": "https://sites.google.com/view/qitkist/publications",
+          "label": "Publications"
+        },
+        {
+          "url": "https://sites.google.com/view/qitkist/contact",
+          "label": "Contact"
+        },
+        {
+          "url": "https://sites.google.com/view/qitkist/home",
+          "label": "QIT@KIST"
+        },
+        {
+          "url": "https://sites.google.com/view/qitkist/#h.vj0pjwaa76rz",
+          "label": ""
+        },
+        {
+          "url": "https://sites.google.com/view/qitkist/#h.hvywdv6mzwfi",
+          "label": ""
+        },
+        {
+          "url": "https://sites.google.com/view/qitkist/#h.qr2rtjwyvdf0",
+          "label": ""
+        },
+        {
+          "url": "https://sites.google.com/view/qitkist/#h.s53ez7naukkp",
+          "label": ""
+        }
+      ],
+      "images": [
+        {
+          "index": 1,
+          "kind": "site-logo",
+          "url": "https://sites.google.com/sitesv-images-rt/AMxu72s-bXQDok3sPJYt4pA-ZrWT2mLO1JB0sE-20VTxznntoZgH8vSZQ6CA0oUk1N3ehKUtlXkRZN7ix-HfWT_Duy7f_vyLxupAwi21GDPQP5r2oTUEuURgHvNAoAqFHK4q7pdFbfFhSJW1kKFcVkZ0nG5c79-3N2dlcQ4La5L-JYXKoiXqqxdRlirMrJKqdOw=w16383",
+          "alt": null,
+          "ariaLabel": "Site home",
+          "rightsStatus": "unverified",
+          "downloaded": false,
+          "migrationDecision": "Do not republish until rights and identity verified"
+        },
+        {
+          "index": 2,
+          "kind": "site-logo",
+          "url": "https://sites.google.com/sitesv-images-rt/AMxu72s-bXQDok3sPJYt4pA-ZrWT2mLO1JB0sE-20VTxznntoZgH8vSZQ6CA0oUk1N3ehKUtlXkRZN7ix-HfWT_Duy7f_vyLxupAwi21GDPQP5r2oTUEuURgHvNAoAqFHK4q7pdFbfFhSJW1kKFcVkZ0nG5c79-3N2dlcQ4La5L-JYXKoiXqqxdRlirMrJKqdOw=w16383",
+          "alt": null,
+          "ariaLabel": "Site home",
+          "rightsStatus": "unverified",
+          "downloaded": false,
+          "migrationDecision": "Do not republish until rights and identity verified"
+        },
+        {
+          "index": 3,
+          "kind": "content-image",
+          "url": "https://sites.google.com/sitesv-images-rt/AMxu72tIsFcX8nH4Ss5o6LM0ZO9Ik-3avsIeumcXPMBT425iLZTd6IZ3BaN4FXqlr9snbiNIOADmL7-HfGoynYwnxuSVfsyCxzni4_qruyrcPR7V-Fq87CiR2yKLJEfhSsc-YyTm8T127SBXvQ4xpeTE4pY8v5ncAmuUZcxAw2Q6T954YksOeqN-gx-wrz_MIvlkvo-bZ0hkjXLSQY4O_OUkA19FPG61eH45fyT9pT6H=w1280",
+          "alt": null,
+          "ariaLabel": null,
+          "rightsStatus": "unverified",
+          "downloaded": false,
+          "migrationDecision": "Do not republish until rights and identity verified"
+        },
+        {
+          "index": 4,
+          "kind": "content-image",
+          "url": "https://sites.google.com/sitesv-images-rt/AMxu72tR5y5VaXai2uq2rURhAm8LmQEhmfOAtZ0OiXCN-TdCXyga6nnB0uf-ldXTQNEtcI35NsaAWICMfN5RrCQI5hHG2kgJNOnoRn16x935dxf6FOgtZ64cLgQxBugxZFNSeuuRRm2TGO_OWE7z17xTQKDHBffzH2ZlapAVpfWQxNq5uq3FIv9eVgVv0RCEBPATFSaIkaMATST7RC98kTIyuwjslFmmei8DSNlCQYm0=w1280",
+          "alt": null,
+          "ariaLabel": null,
+          "rightsStatus": "unverified",
+          "downloaded": false,
+          "migrationDecision": "Do not republish until rights and identity verified"
+        },
+        {
+          "index": 5,
+          "kind": "content-image",
+          "url": "https://sites.google.com/sitesv-images-rt/AMxu72uhGkbzPkxpDRt9Q6YuC0B5K5h_2mnLgCLyR3kLI1inBh7s8ax1O-heYv60y-X5U0xveTUEsDHxZ6b9dIB6Bo-QIbNtzThHKEPtrBGfJ4lGMfayexWJ8DT8PCc86uMqG9SZiRJ61BYgNnsBZ8o14v4rUf9i7loiG60kDAfET0UIY-90URMp5YA3XF81Z-NF4W8sFhBB8_s9Qq0QEDU5Y_cWLPdszvseNWiZXUQwmdU=w1280",
+          "alt": null,
+          "ariaLabel": null,
+          "rightsStatus": "unverified",
+          "downloaded": false,
+          "migrationDecision": "Do not republish until rights and identity verified"
+        },
+        {
+          "index": 6,
+          "kind": "content-image",
+          "url": "https://sites.google.com/sitesv-images-rt/AMxu72vS2gRcklSl1BA4bU03lZffKykoVF7iUDwnkBjmwqzJPyk6KGyzov6Vc1PbylUgRsJ-6e_adlVzveDrBJhggR1M8QZ-ByAtnPSSkKUMIYkqe4RgXYAzJ2eriNbdAVGima3opn597JTMAhkSZ_4ic0KnOJ6xMsZSDhrenqDcaFysAqBMpqyGYxLBFiPmCn1-wEqo0TjGA7GKYOMHR2GiyoHAyyMklZAyuoA-IZpA=w1280",
+          "alt": null,
+          "ariaLabel": null,
+          "rightsStatus": "unverified",
+          "downloaded": false,
+          "migrationDecision": "Do not republish until rights and identity verified"
+        },
+        {
+          "index": 7,
+          "kind": "content-image",
+          "url": "https://sites.google.com/sitesv-images-rt/AMxu72sJDgxwTXldz-uVaAiycK8HLqlv2qLIHFXG0DHlt3gnPm4BdDQNv05IJou-hyYEqn-aH9Ory3acH5NtLXATUXCK6q0NYxHbqqt4HbgVBOLkDcp3Uf4eSguCqPaXKK2alseMFz6rm3F3cw67bHW7v48OUOPGnDeRKERuXuq74ZJ6qZFTKIrsR4Q5OlECM6vJPjN9XltznoH998HzlwbNOegUazZeqVOkHRkSQx57pRg=w1280",
+          "alt": null,
+          "ariaLabel": null,
+          "rightsStatus": "unverified",
+          "downloaded": false,
+          "migrationDecision": "Do not republish until rights and identity verified"
+        },
+        {
+          "index": 8,
+          "kind": "content-image",
+          "url": "https://sites.google.com/sitesv-images-rt/AMxu72tqCobK8QhmKcF_R0ZmcTVuI1BVLNoEC5hGJlXjhb7-IMoigLHWGaI7TA1V1lZJQzPZlwl0WlyysUeRHOGyaIHYoMtWRYr5eg6MyS_9hTJ4yAx_n4FItF5edFg0emq7Ya-BMGMEQTmhbgGyLmv3jjFVp3gJvh9PebgNA4Fi4XfVuFv1PI4Hb3Dxdoj3rKBGknI2pVcGuCpaArwu2aGKeIYGhYQ1pM_b-RkeYn4H=w1280",
+          "alt": null,
+          "ariaLabel": null,
+          "rightsStatus": "unverified",
+          "downloaded": false,
+          "migrationDecision": "Do not republish until rights and identity verified"
+        },
+        {
+          "index": 9,
+          "kind": "content-image",
+          "url": "https://sites.google.com/sitesv-images-rt/AMxu72tmt3s4CsKocCT0894lFHiMBjq_epiEEu0tqmE2qORoUMmFQFjAq5-D1aAX-2xerxZf5cDWNlM_0wHtDz-Qf9P9KrSRTwMMWFiWGmpDYf30Pff_MYoKR7rnFx_acZzlzicg1ni5utwuQPI93NBi3eesiUM2IRCCMmwJ9i-SvTmVUB52EXt9C12WQoBBLzZN3oJlgVjKQZdKNwOa2LWPFNiykhtBv02gGz4hbt4a=w1280",
+          "alt": null,
+          "ariaLabel": null,
+          "rightsStatus": "unverified",
+          "downloaded": false,
+          "migrationDecision": "Do not republish until rights and identity verified"
+        },
+        {
+          "index": 10,
+          "kind": "content-image",
+          "url": "https://sites.google.com/sitesv-images-rt/AMxu72uFEYxml7ySwbFzu4he-CcTZ_rb1aNlI8h9xRj2IHJIc3ZOrEbYewGlhZZkqFZ2AkDeKFtrvF_7xpmyoMlXMDMT-BGkD4dqXX8ZG75x9qyZlGecKsS6dBzjOY1rF4CNl3q8D2nY5z5ISmZgyZ-FhEK6FkwT6J0h6zyccsuEeAQZj1GyAJWtDtK09GpW361iNZ-XWNObEZKLMTcaIXIlicLeHQuiiRKCTKoeWzNV=w1280",
+          "alt": null,
+          "ariaLabel": null,
+          "rightsStatus": "unverified",
+          "downloaded": false,
+          "migrationDecision": "Do not republish until rights and identity verified"
+        },
+        {
+          "index": 11,
+          "kind": "content-image",
+          "url": "https://sites.google.com/sitesv-images-rt/AMxu72vHtUFeUS1aYc7zNFA1_bm05VRF83ZoaNVH2EJ8B38oQM4YFroMDEZqwCSBiBTrOvuE03CK6qKH38m1qeScXEfj0L38zQbY2btyfGMdA-49Zr10TEbbEheqEPR1OkRhGQrZoys76lt601MgG7gjcYTFPJGAUnn34Vw-JihY6XTKje-PYeV1o2Rl7ltl0el6p4yOw8QUcEqMPQ6_u2rX6Xy3kkyk8u88Hc0ZcdUnU50=w1280",
+          "alt": null,
+          "ariaLabel": null,
+          "rightsStatus": "unverified",
+          "downloaded": false,
+          "migrationDecision": "Do not republish until rights and identity verified"
+        },
+        {
+          "index": 12,
+          "kind": "content-image",
+          "url": "https://sites.google.com/sitesv-images-rt/AMxu72uUQyViDe7MuqYFKZ69gK8Ars8J8IZmsdt3cs8l1A9ssD570Uak2vyaqlnjVtZl82tDIEfEAuA-Y40slXWzLDA9aJ7la6bT9kTtxGIeyUVNd2yEyjk-AodNAJMozXs3EfKI3GsgJ7ht3O5RUe7m1RNIEZ_PZhxgPbbGhdUmaX0xumEsGieRX5gbXrH27NEALxVM9YhafecmEJq_j03rusHEsyTVsGI7F38F5rkL=w1280",
+          "alt": null,
+          "ariaLabel": null,
+          "rightsStatus": "unverified",
+          "downloaded": false,
+          "migrationDecision": "Do not republish until rights and identity verified"
+        },
+        {
+          "index": 13,
+          "kind": "content-image",
+          "url": "https://sites.google.com/sitesv-images-rt/AMxu72semOuPYnSfYq8Vv2DoBXYttx0KXAxlwocFW_-KfY-HnFimL7q7beP_0JWAhOgZ-2ZlQLKLJt5EPGXSMwdMrbJTDuhPx2AmnN-MxSHKjlWyNg7JY9w4VxBsLULEm7JcI-ffTPh-WJSnoswAoH0SGw2qb9ueJD_fsMpTma0bclAfjqJcVrOQ-8dzI0eH3z-PaCK04chgXHiLS-f1f4iXdSUQgt2g_JYizTzOBA=w1280",
+          "alt": null,
+          "ariaLabel": null,
+          "rightsStatus": "unverified",
+          "downloaded": false,
+          "migrationDecision": "Do not republish until rights and identity verified"
+        }
+      ],
+      "imageElementCount": 13,
+      "contentImageCount": 11,
+      "migrationDecision": "Research-topic facts may be adapted; do not reuse illustrations without permission",
+      "assetInterpretation": "Eleven content images accompany research topic sections; likely diagrams/illustrations based on placement; individual ownership unknown."
+    },
+    {
+      "url": "https://sites.google.com/view/qitkist/publications",
+      "title": "QIT@KIST - Publications",
+      "sourceStatus": "legacy",
+      "sourceChecked": "2026-10-13",
+      "lastUpdated": null,
+      "lastUpdatedNote": "Page updated label is present but no date exposed in visible text",
+      "links": [
+        {
+          "url": "https://sites.google.com/view/qitkist/home",
+          "label": ""
+        },
+        {
+          "url": "https://sites.google.com/view/qitkist/home",
+          "label": "QIT@KIST"
+        },
+        {
+          "url": "https://sites.google.com/view/qitkist/home",
+          "label": "Home"
+        },
+        {
+          "url": "https://sites.google.com/view/qitkist/group-members",
+          "label": "Group members"
+        },
+        {
+          "url": "https://sites.google.com/view/qitkist/researches",
+          "label": "Researches"
+        },
+        {
+          "url": "https://sites.google.com/view/qitkist/publications",
+          "label": "Publications"
+        },
+        {
+          "url": "https://sites.google.com/view/qitkist/contact",
+          "label": "Contact"
+        },
+        {
+          "url": "https://sites.google.com/view/qitkist/home",
+          "label": "QIT@KIST"
+        }
+      ],
+      "images": [
+        {
+          "index": 1,
+          "kind": "site-logo",
+          "url": "https://sites.google.com/sitesv-images-rt/AMxu72s-bXQDok3sPJYt4pA-ZrWT2mLO1JB0sE-20VTxznntoZgH8vSZQ6CA0oUk1N3ehKUtlXkRZN7ix-HfWT_Duy7f_vyLxupAwi21GDPQP5r2oTUEuURgHvNAoAqFHK4q7pdFbfFhSJW1kKFcVkZ0nG5c79-3N2dlcQ4La5L-JYXKoiXqqxdRlirMrJKqdOw=w16383",
+          "alt": null,
+          "ariaLabel": "Site home",
+          "rightsStatus": "unverified",
+          "downloaded": false,
+          "migrationDecision": "Do not republish until rights and identity verified"
+        },
+        {
+          "index": 2,
+          "kind": "site-logo",
+          "url": "https://sites.google.com/sitesv-images-rt/AMxu72s-bXQDok3sPJYt4pA-ZrWT2mLO1JB0sE-20VTxznntoZgH8vSZQ6CA0oUk1N3ehKUtlXkRZN7ix-HfWT_Duy7f_vyLxupAwi21GDPQP5r2oTUEuURgHvNAoAqFHK4q7pdFbfFhSJW1kKFcVkZ0nG5c79-3N2dlcQ4La5L-JYXKoiXqqxdRlirMrJKqdOw=w16383",
+          "alt": null,
+          "ariaLabel": "Site home",
+          "rightsStatus": "unverified",
+          "downloaded": false,
+          "migrationDecision": "Do not republish until rights and identity verified"
+        },
+        {
+          "index": 3,
+          "kind": "content-image",
+          "url": "https://sites.google.com/sitesv-images-rt/AMxu72ucGaMGnAD-wFtoD8SwO-gr1BVzH61yHSTKfuPrcgzUOooUPgX9xqcq5u6H4xwfiTYU2WHWDwq3BzZjhK7_AlnhxZaiR_Hn3go6kleZ0wExzZJ4KQ-LHAN_I1yZnvysWHe1_hK6pfZ-lcQRdEa-KagkD_Q7gPlA1Do-b9Qd9fqj2rYE0PxOaJuYqexu1F_Mkygr074aQmoLzJzFw100HN7j_P6KsHHWED8YJKlH=w1280",
+          "alt": null,
+          "ariaLabel": null,
+          "rightsStatus": "unverified",
+          "downloaded": false,
+          "migrationDecision": "Do not republish until rights and identity verified"
+        }
+      ],
+      "imageElementCount": 3,
+      "contentImageCount": 1,
+      "migrationDecision": "Preserve bibliographic records with explicit legacy provenance; deduplicate and verify publication metadata",
+      "assetInterpretation": "One content image accompanies a PRL cover caption; publisher artwork permission unknown."
+    },
+    {
+      "url": "https://sites.google.com/view/qitkist/contact",
+      "title": "QIT@KIST - Contact",
+      "sourceStatus": "legacy",
+      "sourceChecked": "2026-10-13",
+      "lastUpdated": null,
+      "lastUpdatedNote": "Page updated label is present but no date exposed in visible text",
+      "links": [
+        {
+          "url": "https://sites.google.com/view/qitkist/home",
+          "label": ""
+        },
+        {
+          "url": "https://sites.google.com/view/qitkist/home",
+          "label": "QIT@KIST"
+        },
+        {
+          "url": "https://sites.google.com/view/qitkist/home",
+          "label": "Home"
+        },
+        {
+          "url": "https://sites.google.com/view/qitkist/group-members",
+          "label": "Group members"
+        },
+        {
+          "url": "https://sites.google.com/view/qitkist/researches",
+          "label": "Researches"
+        },
+        {
+          "url": "https://sites.google.com/view/qitkist/publications",
+          "label": "Publications"
+        },
+        {
+          "url": "https://sites.google.com/view/qitkist/contact",
+          "label": "Contact"
+        },
+        {
+          "url": "https://sites.google.com/view/qitkist/home",
+          "label": "QIT@KIST"
+        }
+      ],
+      "images": [
+        {
+          "index": 1,
+          "kind": "site-logo",
+          "url": "https://sites.google.com/sitesv-images-rt/AMxu72s-bXQDok3sPJYt4pA-ZrWT2mLO1JB0sE-20VTxznntoZgH8vSZQ6CA0oUk1N3ehKUtlXkRZN7ix-HfWT_Duy7f_vyLxupAwi21GDPQP5r2oTUEuURgHvNAoAqFHK4q7pdFbfFhSJW1kKFcVkZ0nG5c79-3N2dlcQ4La5L-JYXKoiXqqxdRlirMrJKqdOw=w16383",
+          "alt": null,
+          "ariaLabel": "Site home",
+          "rightsStatus": "unverified",
+          "downloaded": false,
+          "migrationDecision": "Do not republish until rights and identity verified"
+        },
+        {
+          "index": 2,
+          "kind": "site-logo",
+          "url": "https://sites.google.com/sitesv-images-rt/AMxu72s-bXQDok3sPJYt4pA-ZrWT2mLO1JB0sE-20VTxznntoZgH8vSZQ6CA0oUk1N3ehKUtlXkRZN7ix-HfWT_Duy7f_vyLxupAwi21GDPQP5r2oTUEuURgHvNAoAqFHK4q7pdFbfFhSJW1kKFcVkZ0nG5c79-3N2dlcQ4La5L-JYXKoiXqqxdRlirMrJKqdOw=w16383",
+          "alt": null,
+          "ariaLabel": "Site home",
+          "rightsStatus": "unverified",
+          "downloaded": false,
+          "migrationDecision": "Do not republish until rights and identity verified"
+        }
+      ],
+      "imageElementCount": 2,
+      "contentImageCount": 0,
+      "migrationDecision": "Do not migrate old KIST address, personal contact details, fax or recruitment notice to current contact page",
+      "assetInterpretation": "No content image; two responsive site-logo image elements."
+    }
+  ],
+  "totals": {
+    "publications": 54,
+    "paperOccurrences": 73,
+    "legacyCurrentPeople": 8,
+    "legacyAlumni": 4,
+    "imgElements": 33,
+    "contentImgElements": 23
+  },
+  "rightsPolicy": "No original image fetched, downloaded or republished. URLs and source labels inventoried only. Image and prose reuse permission not established."
+}

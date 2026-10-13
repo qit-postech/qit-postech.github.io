@@ -1,0 +1,654 @@
+{
+  "status": "PASS",
+  "screens": 24,
+  "results": [
+    {
+      "width": 320,
+      "lang": "en",
+      "route": "",
+      "overflow": false,
+      "figures": [
+        {
+          "width": 280,
+          "height": 168,
+          "ratio": 1.6666666666666667,
+          "alt": "A Hadamard gate and two controlled-NOT gates beside a schematic grid for quantum error correction."
+        },
+        {
+          "width": 280,
+          "height": 168,
+          "ratio": 1.6666666666666667,
+          "alt": "Two quantum nodes connected through a repeater by entanglement links, with a separate classical communication channel."
+        },
+        {
+          "width": 280,
+          "height": 168,
+          "ratio": 1.6666666666666667,
+          "alt": "A quantum state on a Bloch sphere and two phase-shifted interference curves illustrating a measurement readout."
+        }
+      ],
+      "violations": []
+    },
+    {
+      "width": 320,
+      "lang": "en",
+      "route": "research/",
+      "overflow": false,
+      "figures": [
+        {
+          "width": 280,
+          "height": 168,
+          "ratio": 1.6666666666666667,
+          "alt": "A Hadamard gate and two controlled-NOT gates beside a schematic grid for quantum error correction."
+        },
+        {
+          "width": 280,
+          "height": 168,
+          "ratio": 1.6666666666666667,
+          "alt": "Two quantum nodes connected through a repeater by entanglement links, with a separate classical communication channel."
+        },
+        {
+          "width": 280,
+          "height": 168,
+          "ratio": 1.6666666666666667,
+          "alt": "A quantum state on a Bloch sphere and two phase-shifted interference curves illustrating a measurement readout."
+        }
+      ],
+      "violations": []
+    },
+    {
+      "width": 320,
+      "lang": "ko",
+      "route": "",
+      "overflow": false,
+      "figures": [
+        {
+          "width": 280,
+          "height": 168,
+          "ratio": 1.6666666666666667,
+          "alt": "하다마드 게이트와 두 CNOT 게이트로 구성된 회로, 양자 오류 정정을 나타내는 개념 격자."
+        },
+        {
+          "width": 280,
+          "height": 168,
+          "ratio": 1.6666666666666667,
+          "alt": "얽힘 연결과 중계기로 이어진 두 양자 노드, 별도로 표시한 고전 통신 채널."
+        },
+        {
+          "width": 280,
+          "height": 168,
+          "ratio": 1.6666666666666667,
+          "alt": "블로흐 구 위의 양자 상태와 위상 변화에 따른 두 간섭 곡선으로 나타낸 측정 신호."
+        }
+      ],
+      "violations": []
+    },
+    {
+      "width": 320,
+      "lang": "ko",
+      "route": "research/",
+      "overflow": false,
+      "figures": [
+        {
+          "width": 280,
+          "height": 168,
+          "ratio": 1.6666666666666667,
+          "alt": "하다마드 게이트와 두 CNOT 게이트로 구성된 회로, 양자 오류 정정을 나타내는 개념 격자."
+        },
+        {
+          "width": 280,
+          "height": 168,
+          "ratio": 1.6666666666666667,
+          "alt": "얽힘 연결과 중계기로 이어진 두 양자 노드, 별도로 표시한 고전 통신 채널."
+        },
+        {
+          "width": 280,
+          "height": 168,
+          "ratio": 1.6666666666666667,
+          "alt": "블로흐 구 위의 양자 상태와 위상 변화에 따른 두 간섭 곡선으로 나타낸 측정 신호."
+        }
+      ],
+      "violations": []
+    },
+    {
+      "width": 390,
+      "lang": "en",
+      "route": "",
+      "overflow": false,
+      "figures": [
+        {
+          "width": 350,
+          "height": 210,
+          "ratio": 1.6666666666666667,
+          "alt": "A Hadamard gate and two controlled-NOT gates beside a schematic grid for quantum error correction."
+        },
+        {
+          "width": 350,
+          "height": 210,
+          "ratio": 1.6666666666666667,
+          "alt": "Two quantum nodes connected through a repeater by entanglement links, with a separate classical communication channel."
+        },
+        {
+          "width": 350,
+          "height": 210,
+          "ratio": 1.6666666666666667,
+          "alt": "A quantum state on a Bloch sphere and two phase-shifted interference curves illustrating a measurement readout."
+        }
+      ],
+      "violations": []
+    },
+    {
+      "width": 390,
+      "lang": "en",
+      "route": "research/",
+      "overflow": false,
+      "figures": [
+        {
+          "width": 350,
+          "height": 210,
+          "ratio": 1.6666666666666667,
+          "alt": "A Hadamard gate and two controlled-NOT gates beside a schematic grid for quantum error correction."
+        },
+        {
+          "width": 350,
+          "height": 210,
+          "ratio": 1.6666666666666667,
+          "alt": "Two quantum nodes connected through a repeater by entanglement links, with a separate classical communication channel."
+        },
+        {
+          "width": 350,
+          "height": 210,
+          "ratio": 1.6666666666666667,
+          "alt": "A quantum state on a Bloch sphere and two phase-shifted interference curves illustrating a measurement readout."
+        }
+      ],
+      "violations": []
+    },
+    {
+      "width": 390,
+      "lang": "ko",
+      "route": "",
+      "overflow": false,
+      "figures": [
+        {
+          "width": 350,
+          "height": 210,
+          "ratio": 1.6666666666666667,
+          "alt": "하다마드 게이트와 두 CNOT 게이트로 구성된 회로, 양자 오류 정정을 나타내는 개념 격자."
+        },
+        {
+          "width": 350,
+          "height": 210,
+          "ratio": 1.6666666666666667,
+          "alt": "얽힘 연결과 중계기로 이어진 두 양자 노드, 별도로 표시한 고전 통신 채널."
+        },
+        {
+          "width": 350,
+          "height": 210,
+          "ratio": 1.6666666666666667,
+          "alt": "블로흐 구 위의 양자 상태와 위상 변화에 따른 두 간섭 곡선으로 나타낸 측정 신호."
+        }
+      ],
+      "violations": []
+    },
+    {
+      "width": 390,
+      "lang": "ko",
+      "route": "research/",
+      "overflow": false,
+      "figures": [
+        {
+          "width": 350,
+          "height": 210,
+          "ratio": 1.6666666666666667,
+          "alt": "하다마드 게이트와 두 CNOT 게이트로 구성된 회로, 양자 오류 정정을 나타내는 개념 격자."
+        },
+        {
+          "width": 350,
+          "height": 210,
+          "ratio": 1.6666666666666667,
+          "alt": "얽힘 연결과 중계기로 이어진 두 양자 노드, 별도로 표시한 고전 통신 채널."
+        },
+        {
+          "width": 350,
+          "height": 210,
+          "ratio": 1.6666666666666667,
+          "alt": "블로흐 구 위의 양자 상태와 위상 변화에 따른 두 간섭 곡선으로 나타낸 측정 신호."
+        }
+      ],
+      "violations": []
+    },
+    {
+      "width": 768,
+      "lang": "en",
+      "route": "",
+      "overflow": false,
+      "figures": [
+        {
+          "width": 340,
+          "height": 204,
+          "ratio": 1.6666666666666667,
+          "alt": "A Hadamard gate and two controlled-NOT gates beside a schematic grid for quantum error correction."
+        },
+        {
+          "width": 340,
+          "height": 204,
+          "ratio": 1.6666666666666667,
+          "alt": "Two quantum nodes connected through a repeater by entanglement links, with a separate classical communication channel."
+        },
+        {
+          "width": 340,
+          "height": 204,
+          "ratio": 1.6666666666666667,
+          "alt": "A quantum state on a Bloch sphere and two phase-shifted interference curves illustrating a measurement readout."
+        }
+      ],
+      "violations": []
+    },
+    {
+      "width": 768,
+      "lang": "en",
+      "route": "research/",
+      "overflow": false,
+      "figures": [
+        {
+          "width": 600,
+          "height": 360,
+          "ratio": 1.6666666666666667,
+          "alt": "A Hadamard gate and two controlled-NOT gates beside a schematic grid for quantum error correction."
+        },
+        {
+          "width": 600,
+          "height": 360,
+          "ratio": 1.6666666666666667,
+          "alt": "Two quantum nodes connected through a repeater by entanglement links, with a separate classical communication channel."
+        },
+        {
+          "width": 600,
+          "height": 360,
+          "ratio": 1.6666666666666667,
+          "alt": "A quantum state on a Bloch sphere and two phase-shifted interference curves illustrating a measurement readout."
+        }
+      ],
+      "violations": []
+    },
+    {
+      "width": 768,
+      "lang": "ko",
+      "route": "",
+      "overflow": false,
+      "figures": [
+        {
+          "width": 340,
+          "height": 204,
+          "ratio": 1.6666666666666667,
+          "alt": "하다마드 게이트와 두 CNOT 게이트로 구성된 회로, 양자 오류 정정을 나타내는 개념 격자."
+        },
+        {
+          "width": 340,
+          "height": 204,
+          "ratio": 1.6666666666666667,
+          "alt": "얽힘 연결과 중계기로 이어진 두 양자 노드, 별도로 표시한 고전 통신 채널."
+        },
+        {
+          "width": 340,
+          "height": 204,
+          "ratio": 1.6666666666666667,
+          "alt": "블로흐 구 위의 양자 상태와 위상 변화에 따른 두 간섭 곡선으로 나타낸 측정 신호."
+        }
+      ],
+      "violations": []
+    },
+    {
+      "width": 768,
+      "lang": "ko",
+      "route": "research/",
+      "overflow": false,
+      "figures": [
+        {
+          "width": 600,
+          "height": 360,
+          "ratio": 1.6666666666666667,
+          "alt": "하다마드 게이트와 두 CNOT 게이트로 구성된 회로, 양자 오류 정정을 나타내는 개념 격자."
+        },
+        {
+          "width": 600,
+          "height": 360,
+          "ratio": 1.6666666666666667,
+          "alt": "얽힘 연결과 중계기로 이어진 두 양자 노드, 별도로 표시한 고전 통신 채널."
+        },
+        {
+          "width": 600,
+          "height": 360,
+          "ratio": 1.6666666666666667,
+          "alt": "블로흐 구 위의 양자 상태와 위상 변화에 따른 두 간섭 곡선으로 나타낸 측정 신호."
+        }
+      ],
+      "violations": []
+    },
+    {
+      "width": 900,
+      "lang": "en",
+      "route": "",
+      "overflow": false,
+      "figures": [
+        {
+          "width": 260,
+          "height": 156,
+          "ratio": 1.6666666666666667,
+          "alt": "A Hadamard gate and two controlled-NOT gates beside a schematic grid for quantum error correction."
+        },
+        {
+          "width": 260,
+          "height": 156,
+          "ratio": 1.6666666666666667,
+          "alt": "Two quantum nodes connected through a repeater by entanglement links, with a separate classical communication channel."
+        },
+        {
+          "width": 260,
+          "height": 156,
+          "ratio": 1.6666666666666667,
+          "alt": "A quantum state on a Bloch sphere and two phase-shifted interference curves illustrating a measurement readout."
+        }
+      ],
+      "violations": []
+    },
+    {
+      "width": 900,
+      "lang": "en",
+      "route": "research/",
+      "overflow": false,
+      "figures": [
+        {
+          "width": 353,
+          "height": 212,
+          "ratio": 1.6650943396226414,
+          "alt": "A Hadamard gate and two controlled-NOT gates beside a schematic grid for quantum error correction."
+        },
+        {
+          "width": 353,
+          "height": 212,
+          "ratio": 1.6650943396226414,
+          "alt": "Two quantum nodes connected through a repeater by entanglement links, with a separate classical communication channel."
+        },
+        {
+          "width": 353,
+          "height": 212,
+          "ratio": 1.6650943396226414,
+          "alt": "A quantum state on a Bloch sphere and two phase-shifted interference curves illustrating a measurement readout."
+        }
+      ],
+      "violations": []
+    },
+    {
+      "width": 900,
+      "lang": "ko",
+      "route": "",
+      "overflow": false,
+      "figures": [
+        {
+          "width": 260,
+          "height": 156,
+          "ratio": 1.6666666666666667,
+          "alt": "하다마드 게이트와 두 CNOT 게이트로 구성된 회로, 양자 오류 정정을 나타내는 개념 격자."
+        },
+        {
+          "width": 260,
+          "height": 156,
+          "ratio": 1.6666666666666667,
+          "alt": "얽힘 연결과 중계기로 이어진 두 양자 노드, 별도로 표시한 고전 통신 채널."
+        },
+        {
+          "width": 260,
+          "height": 156,
+          "ratio": 1.6666666666666667,
+          "alt": "블로흐 구 위의 양자 상태와 위상 변화에 따른 두 간섭 곡선으로 나타낸 측정 신호."
+        }
+      ],
+      "violations": []
+    },
+    {
+      "width": 900,
+      "lang": "ko",
+      "route": "research/",
+      "overflow": false,
+      "figures": [
+        {
+          "width": 353,
+          "height": 212,
+          "ratio": 1.6650943396226414,
+          "alt": "하다마드 게이트와 두 CNOT 게이트로 구성된 회로, 양자 오류 정정을 나타내는 개념 격자."
+        },
+        {
+          "width": 353,
+          "height": 212,
+          "ratio": 1.6650943396226414,
+          "alt": "얽힘 연결과 중계기로 이어진 두 양자 노드, 별도로 표시한 고전 통신 채널."
+        },
+        {
+          "width": 353,
+          "height": 212,
+          "ratio": 1.6650943396226414,
+          "alt": "블로흐 구 위의 양자 상태와 위상 변화에 따른 두 간섭 곡선으로 나타낸 측정 신호."
+        }
+      ],
+      "violations": []
+    },
+    {
+      "width": 1024,
+      "lang": "en",
+      "route": "",
+      "overflow": false,
+      "figures": [
+        {
+          "width": 301,
+          "height": 181,
+          "ratio": 1.6629834254143647,
+          "alt": "A Hadamard gate and two controlled-NOT gates beside a schematic grid for quantum error correction."
+        },
+        {
+          "width": 301,
+          "height": 181,
+          "ratio": 1.6629834254143647,
+          "alt": "Two quantum nodes connected through a repeater by entanglement links, with a separate classical communication channel."
+        },
+        {
+          "width": 301,
+          "height": 181,
+          "ratio": 1.6629834254143647,
+          "alt": "A quantum state on a Bloch sphere and two phase-shifted interference curves illustrating a measurement readout."
+        }
+      ],
+      "violations": []
+    },
+    {
+      "width": 1024,
+      "lang": "en",
+      "route": "research/",
+      "overflow": false,
+      "figures": [
+        {
+          "width": 412,
+          "height": 247,
+          "ratio": 1.6680161943319838,
+          "alt": "A Hadamard gate and two controlled-NOT gates beside a schematic grid for quantum error correction."
+        },
+        {
+          "width": 412,
+          "height": 247,
+          "ratio": 1.6680161943319838,
+          "alt": "Two quantum nodes connected through a repeater by entanglement links, with a separate classical communication channel."
+        },
+        {
+          "width": 412,
+          "height": 247,
+          "ratio": 1.6680161943319838,
+          "alt": "A quantum state on a Bloch sphere and two phase-shifted interference curves illustrating a measurement readout."
+        }
+      ],
+      "violations": []
+    },
+    {
+      "width": 1024,
+      "lang": "ko",
+      "route": "",
+      "overflow": false,
+      "figures": [
+        {
+          "width": 301,
+          "height": 181,
+          "ratio": 1.6629834254143647,
+          "alt": "하다마드 게이트와 두 CNOT 게이트로 구성된 회로, 양자 오류 정정을 나타내는 개념 격자."
+        },
+        {
+          "width": 301,
+          "height": 181,
+          "ratio": 1.6629834254143647,
+          "alt": "얽힘 연결과 중계기로 이어진 두 양자 노드, 별도로 표시한 고전 통신 채널."
+        },
+        {
+          "width": 301,
+          "height": 181,
+          "ratio": 1.6629834254143647,
+          "alt": "블로흐 구 위의 양자 상태와 위상 변화에 따른 두 간섭 곡선으로 나타낸 측정 신호."
+        }
+      ],
+      "violations": []
+    },
+    {
+      "width": 1024,
+      "lang": "ko",
+      "route": "research/",
+      "overflow": false,
+      "figures": [
+        {
+          "width": 412,
+          "height": 247,
+          "ratio": 1.6680161943319838,
+          "alt": "하다마드 게이트와 두 CNOT 게이트로 구성된 회로, 양자 오류 정정을 나타내는 개념 격자."
+        },
+        {
+          "width": 412,
+          "height": 247,
+          "ratio": 1.6680161943319838,
+          "alt": "얽힘 연결과 중계기로 이어진 두 양자 노드, 별도로 표시한 고전 통신 채널."
+        },
+        {
+          "width": 412,
+          "height": 247,
+          "ratio": 1.6680161943319838,
+          "alt": "블로흐 구 위의 양자 상태와 위상 변화에 따른 두 간섭 곡선으로 나타낸 측정 신호."
+        }
+      ],
+      "violations": []
+    },
+    {
+      "width": 1440,
+      "lang": "en",
+      "route": "",
+      "overflow": false,
+      "figures": [
+        {
+          "width": 375,
+          "height": 225,
+          "ratio": 1.6666666666666667,
+          "alt": "A Hadamard gate and two controlled-NOT gates beside a schematic grid for quantum error correction."
+        },
+        {
+          "width": 375,
+          "height": 225,
+          "ratio": 1.6666666666666667,
+          "alt": "Two quantum nodes connected through a repeater by entanglement links, with a separate classical communication channel."
+        },
+        {
+          "width": 375,
+          "height": 225,
+          "ratio": 1.6666666666666667,
+          "alt": "A quantum state on a Bloch sphere and two phase-shifted interference curves illustrating a measurement readout."
+        }
+      ],
+      "violations": []
+    },
+    {
+      "width": 1440,
+      "lang": "en",
+      "route": "research/",
+      "overflow": false,
+      "figures": [
+        {
+          "width": 502,
+          "height": 301,
+          "ratio": 1.6677740863787376,
+          "alt": "A Hadamard gate and two controlled-NOT gates beside a schematic grid for quantum error correction."
+        },
+        {
+          "width": 502,
+          "height": 301,
+          "ratio": 1.6677740863787376,
+          "alt": "Two quantum nodes connected through a repeater by entanglement links, with a separate classical communication channel."
+        },
+        {
+          "width": 502,
+          "height": 301,
+          "ratio": 1.6677740863787376,
+          "alt": "A quantum state on a Bloch sphere and two phase-shifted interference curves illustrating a measurement readout."
+        }
+      ],
+      "violations": []
+    },
+    {
+      "width": 1440,
+      "lang": "ko",
+      "route": "",
+      "overflow": false,
+      "figures": [
+        {
+          "width": 375,
+          "height": 225,
+          "ratio": 1.6666666666666667,
+          "alt": "하다마드 게이트와 두 CNOT 게이트로 구성된 회로, 양자 오류 정정을 나타내는 개념 격자."
+        },
+        {
+          "width": 375,
+          "height": 225,
+          "ratio": 1.6666666666666667,
+          "alt": "얽힘 연결과 중계기로 이어진 두 양자 노드, 별도로 표시한 고전 통신 채널."
+        },
+        {
+          "width": 375,
+          "height": 225,
+          "ratio": 1.6666666666666667,
+          "alt": "블로흐 구 위의 양자 상태와 위상 변화에 따른 두 간섭 곡선으로 나타낸 측정 신호."
+        }
+      ],
+      "violations": []
+    },
+    {
+      "width": 1440,
+      "lang": "ko",
+      "route": "research/",
+      "overflow": false,
+      "figures": [
+        {
+          "width": 502,
+          "height": 301,
+          "ratio": 1.6677740863787376,
+          "alt": "하다마드 게이트와 두 CNOT 게이트로 구성된 회로, 양자 오류 정정을 나타내는 개념 격자."
+        },
+        {
+          "width": 502,
+          "height": 301,
+          "ratio": 1.6677740863787376,
+          "alt": "얽힘 연결과 중계기로 이어진 두 양자 노드, 별도로 표시한 고전 통신 채널."
+        },
+        {
+          "width": 502,
+          "height": 301,
+          "ratio": 1.6677740863787376,
+          "alt": "블로흐 구 위의 양자 상태와 위상 변화에 따른 두 간섭 곡선으로 나타낸 측정 신호."
+        }
+      ],
+      "violations": []
+    }
+  ]
+}

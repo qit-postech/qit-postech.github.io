@@ -1,0 +1,20 @@
+{
+  "checked": "2026-10-13",
+  "url": "https://purigroup.research.yale.edu/current-members",
+  "title": "Current Members | Puri Group, Yale University",
+  "person": "Nuri Kang",
+  "verified": {
+    "institution": "Yale University",
+    "department": "Applied Physics",
+    "role": "Ph.D. student",
+    "group": "Shruti Puri Group"
+  },
+  "identityBasis": "Official Yale group page also describes prior undergraduate/master’s research at KIST Center for Quantum Technology, consistent with the user and legacy lab roster.",
+  "alumniStatusBasis": "User instruction on 2026-10-13; prior role comes from the legacy site.",
+  "notInferred": [
+    "Lab departure date",
+    "Yale start date",
+    "Korean name spelling"
+  ],
+  "privacy": "No photographs, contact details or unrelated biographical details added."
+}

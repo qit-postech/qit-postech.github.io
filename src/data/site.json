@@ -1,0 +1,40 @@
+{
+  "name": "Quantum Information Theory Group",
+  "shortName": "QIT",
+  "institution": "POSTECH",
+  "department": {
+    "en": "Department of Physics",
+    "ko": "물리학과"
+  },
+  "checked": "2026-10-13",
+  "profileUrl": "https://ph.postech.ac.kr/physics/member/professor.do?articleNo=36802&mode=view",
+  "legacyUrl": "https://sites.google.com/view/qitkist/",
+  "email": "swleego@postech.ac.kr",
+  "office": "3-417",
+  "address": {
+    "en": "77 Cheongam-ro, Nam-gu, Pohang, Gyeongbuk 37673, Republic of Korea",
+    "ko": "경상북도 포항시 남구 청암로 77, 포항공과대학교 (37673)"
+  },
+  "admissionsUrl": "https://adm-g.postech.ac.kr/",
+  "rights": {
+    "legacyPhotos": "pending",
+    "legacyLongText": "pending",
+    "newIllustration": "original"
+  },
+  "pending": {
+    "en": [
+      "Faculty review of the POSTECH/KIST student lists",
+      "Unverified current affiliations of some alumni",
+      "Photo and text reuse permission",
+      "Open positions and recruitment dates",
+      "GitHub organization and domain administration"
+    ],
+    "ko": [
+      "POSTECH·KIST 학생 명단의 교수님 검토",
+      "일부 이전 구성원의 현재 소속",
+      "사진·원문 재사용 권한",
+      "채용·모집 여부와 일정",
+      "GitHub 소유 조직 및 도메인 관리 권한"
+    ]
+  }
+}

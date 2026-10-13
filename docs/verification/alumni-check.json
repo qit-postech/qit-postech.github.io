@@ -1,0 +1,517 @@
+{
+  "status": "PASS",
+  "results": [
+    {
+      "width": 320,
+      "lang": "en",
+      "overflow": false,
+      "alumni": [
+        {
+          "id": "alumni-sangjin-lee",
+          "name": "Sangjin Lee",
+          "status": "CURRENT AFFILIATION",
+          "links": [
+            "https://www.kias.re.kr/kias/cp/centrsPgmsMng/people.do?centrspgmsCd=QUC&menuNo=403016"
+          ]
+        },
+        {
+          "id": "alumni-hyukgun-kwon",
+          "name": "Hyukgun Kwon",
+          "status": "CURRENT AFFILIATION",
+          "links": [
+            "https://sejong.elsevierpure.com/en/persons/hyukgun-kwon/",
+            "https://squis.snu.ac.kr/alumni/%EA%B6%8C%ED%98%81%EA%B1%B4/"
+          ]
+        },
+        {
+          "id": "alumni-nuri-kang",
+          "name": "Nuri Kang",
+          "status": "CURRENT AFFILIATION",
+          "links": [
+            "https://purigroup.research.yale.edu/current-members"
+          ]
+        },
+        {
+          "id": "alumni-hatice-mesakkat",
+          "name": "Hatice Mesakkat",
+          "status": "CURRENT AFFILIATION",
+          "links": []
+        },
+        {
+          "id": "alumni-wooyeong-song",
+          "name": "Wooyeong Song",
+          "status": "FROM THE KIST ARCHIVE",
+          "links": [
+            "https://sites.google.com/view/qitkist/group-members"
+          ]
+        },
+        {
+          "id": "alumni-jaehak-lee",
+          "name": "Jaehak Lee",
+          "status": "FROM THE KIST ARCHIVE",
+          "links": [
+            "https://sites.google.com/view/qitkist/group-members"
+          ]
+        },
+        {
+          "id": "alumni-shrobona-bagchi",
+          "name": "Shrobona Bagchi",
+          "status": "CURRENT AFFILIATION",
+          "links": [
+            "https://www.kias.re.kr/kias/cp/centrsPgmsMng/people.do?centrspgmsCd=QUC&menuNo=403016"
+          ]
+        }
+      ],
+      "currentStudents": 6,
+      "accessibilityViolations": 0
+    },
+    {
+      "width": 320,
+      "lang": "ko",
+      "overflow": false,
+      "alumni": [
+        {
+          "id": "alumni-sangjin-lee",
+          "name": "Sangjin Lee",
+          "status": "현재 소속",
+          "links": [
+            "https://www.kias.re.kr/kias/cp/centrsPgmsMng/people.do?centrspgmsCd=QUC&menuNo=403016"
+          ]
+        },
+        {
+          "id": "alumni-hyukgun-kwon",
+          "name": "권혁건",
+          "status": "현재 소속",
+          "links": [
+            "https://sejong.elsevierpure.com/en/persons/hyukgun-kwon/",
+            "https://squis.snu.ac.kr/alumni/%EA%B6%8C%ED%98%81%EA%B1%B4/"
+          ]
+        },
+        {
+          "id": "alumni-nuri-kang",
+          "name": "Nuri Kang",
+          "status": "현재 소속",
+          "links": [
+            "https://purigroup.research.yale.edu/current-members"
+          ]
+        },
+        {
+          "id": "alumni-hatice-mesakkat",
+          "name": "Hatice Mesakkat",
+          "status": "현재 소속",
+          "links": []
+        },
+        {
+          "id": "alumni-wooyeong-song",
+          "name": "Wooyeong Song",
+          "status": "KIST 사이트 당시 기록",
+          "links": [
+            "https://sites.google.com/view/qitkist/group-members"
+          ]
+        },
+        {
+          "id": "alumni-jaehak-lee",
+          "name": "Jaehak Lee",
+          "status": "KIST 사이트 당시 기록",
+          "links": [
+            "https://sites.google.com/view/qitkist/group-members"
+          ]
+        },
+        {
+          "id": "alumni-shrobona-bagchi",
+          "name": "Shrobona Bagchi",
+          "status": "현재 소속",
+          "links": [
+            "https://www.kias.re.kr/kias/cp/centrsPgmsMng/people.do?centrspgmsCd=QUC&menuNo=403016"
+          ]
+        }
+      ],
+      "currentStudents": 6,
+      "accessibilityViolations": 0
+    },
+    {
+      "width": 390,
+      "lang": "en",
+      "overflow": false,
+      "alumni": [
+        {
+          "id": "alumni-sangjin-lee",
+          "name": "Sangjin Lee",
+          "status": "CURRENT AFFILIATION",
+          "links": [
+            "https://www.kias.re.kr/kias/cp/centrsPgmsMng/people.do?centrspgmsCd=QUC&menuNo=403016"
+          ]
+        },
+        {
+          "id": "alumni-hyukgun-kwon",
+          "name": "Hyukgun Kwon",
+          "status": "CURRENT AFFILIATION",
+          "links": [
+            "https://sejong.elsevierpure.com/en/persons/hyukgun-kwon/",
+            "https://squis.snu.ac.kr/alumni/%EA%B6%8C%ED%98%81%EA%B1%B4/"
+          ]
+        },
+        {
+          "id": "alumni-nuri-kang",
+          "name": "Nuri Kang",
+          "status": "CURRENT AFFILIATION",
+          "links": [
+            "https://purigroup.research.yale.edu/current-members"
+          ]
+        },
+        {
+          "id": "alumni-hatice-mesakkat",
+          "name": "Hatice Mesakkat",
+          "status": "CURRENT AFFILIATION",
+          "links": []
+        },
+        {
+          "id": "alumni-wooyeong-song",
+          "name": "Wooyeong Song",
+          "status": "FROM THE KIST ARCHIVE",
+          "links": [
+            "https://sites.google.com/view/qitkist/group-members"
+          ]
+        },
+        {
+          "id": "alumni-jaehak-lee",
+          "name": "Jaehak Lee",
+          "status": "FROM THE KIST ARCHIVE",
+          "links": [
+            "https://sites.google.com/view/qitkist/group-members"
+          ]
+        },
+        {
+          "id": "alumni-shrobona-bagchi",
+          "name": "Shrobona Bagchi",
+          "status": "CURRENT AFFILIATION",
+          "links": [
+            "https://www.kias.re.kr/kias/cp/centrsPgmsMng/people.do?centrspgmsCd=QUC&menuNo=403016"
+          ]
+        }
+      ],
+      "currentStudents": 6,
+      "accessibilityViolations": 0
+    },
+    {
+      "width": 390,
+      "lang": "ko",
+      "overflow": false,
+      "alumni": [
+        {
+          "id": "alumni-sangjin-lee",
+          "name": "Sangjin Lee",
+          "status": "현재 소속",
+          "links": [
+            "https://www.kias.re.kr/kias/cp/centrsPgmsMng/people.do?centrspgmsCd=QUC&menuNo=403016"
+          ]
+        },
+        {
+          "id": "alumni-hyukgun-kwon",
+          "name": "권혁건",
+          "status": "현재 소속",
+          "links": [
+            "https://sejong.elsevierpure.com/en/persons/hyukgun-kwon/",
+            "https://squis.snu.ac.kr/alumni/%EA%B6%8C%ED%98%81%EA%B1%B4/"
+          ]
+        },
+        {
+          "id": "alumni-nuri-kang",
+          "name": "Nuri Kang",
+          "status": "현재 소속",
+          "links": [
+            "https://purigroup.research.yale.edu/current-members"
+          ]
+        },
+        {
+          "id": "alumni-hatice-mesakkat",
+          "name": "Hatice Mesakkat",
+          "status": "현재 소속",
+          "links": []
+        },
+        {
+          "id": "alumni-wooyeong-song",
+          "name": "Wooyeong Song",
+          "status": "KIST 사이트 당시 기록",
+          "links": [
+            "https://sites.google.com/view/qitkist/group-members"
+          ]
+        },
+        {
+          "id": "alumni-jaehak-lee",
+          "name": "Jaehak Lee",
+          "status": "KIST 사이트 당시 기록",
+          "links": [
+            "https://sites.google.com/view/qitkist/group-members"
+          ]
+        },
+        {
+          "id": "alumni-shrobona-bagchi",
+          "name": "Shrobona Bagchi",
+          "status": "현재 소속",
+          "links": [
+            "https://www.kias.re.kr/kias/cp/centrsPgmsMng/people.do?centrspgmsCd=QUC&menuNo=403016"
+          ]
+        }
+      ],
+      "currentStudents": 6,
+      "accessibilityViolations": 0
+    },
+    {
+      "width": 768,
+      "lang": "en",
+      "overflow": false,
+      "alumni": [
+        {
+          "id": "alumni-sangjin-lee",
+          "name": "Sangjin Lee",
+          "status": "CURRENT AFFILIATION",
+          "links": [
+            "https://www.kias.re.kr/kias/cp/centrsPgmsMng/people.do?centrspgmsCd=QUC&menuNo=403016"
+          ]
+        },
+        {
+          "id": "alumni-hyukgun-kwon",
+          "name": "Hyukgun Kwon",
+          "status": "CURRENT AFFILIATION",
+          "links": [
+            "https://sejong.elsevierpure.com/en/persons/hyukgun-kwon/",
+            "https://squis.snu.ac.kr/alumni/%EA%B6%8C%ED%98%81%EA%B1%B4/"
+          ]
+        },
+        {
+          "id": "alumni-nuri-kang",
+          "name": "Nuri Kang",
+          "status": "CURRENT AFFILIATION",
+          "links": [
+            "https://purigroup.research.yale.edu/current-members"
+          ]
+        },
+        {
+          "id": "alumni-hatice-mesakkat",
+          "name": "Hatice Mesakkat",
+          "status": "CURRENT AFFILIATION",
+          "links": []
+        },
+        {
+          "id": "alumni-wooyeong-song",
+          "name": "Wooyeong Song",
+          "status": "FROM THE KIST ARCHIVE",
+          "links": [
+            "https://sites.google.com/view/qitkist/group-members"
+          ]
+        },
+        {
+          "id": "alumni-jaehak-lee",
+          "name": "Jaehak Lee",
+          "status": "FROM THE KIST ARCHIVE",
+          "links": [
+            "https://sites.google.com/view/qitkist/group-members"
+          ]
+        },
+        {
+          "id": "alumni-shrobona-bagchi",
+          "name": "Shrobona Bagchi",
+          "status": "CURRENT AFFILIATION",
+          "links": [
+            "https://www.kias.re.kr/kias/cp/centrsPgmsMng/people.do?centrspgmsCd=QUC&menuNo=403016"
+          ]
+        }
+      ],
+      "currentStudents": 6,
+      "accessibilityViolations": 0
+    },
+    {
+      "width": 768,
+      "lang": "ko",
+      "overflow": false,
+      "alumni": [
+        {
+          "id": "alumni-sangjin-lee",
+          "name": "Sangjin Lee",
+          "status": "현재 소속",
+          "links": [
+            "https://www.kias.re.kr/kias/cp/centrsPgmsMng/people.do?centrspgmsCd=QUC&menuNo=403016"
+          ]
+        },
+        {
+          "id": "alumni-hyukgun-kwon",
+          "name": "권혁건",
+          "status": "현재 소속",
+          "links": [
+            "https://sejong.elsevierpure.com/en/persons/hyukgun-kwon/",
+            "https://squis.snu.ac.kr/alumni/%EA%B6%8C%ED%98%81%EA%B1%B4/"
+          ]
+        },
+        {
+          "id": "alumni-nuri-kang",
+          "name": "Nuri Kang",
+          "status": "현재 소속",
+          "links": [
+            "https://purigroup.research.yale.edu/current-members"
+          ]
+        },
+        {
+          "id": "alumni-hatice-mesakkat",
+          "name": "Hatice Mesakkat",
+          "status": "현재 소속",
+          "links": []
+        },
+        {
+          "id": "alumni-wooyeong-song",
+          "name": "Wooyeong Song",
+          "status": "KIST 사이트 당시 기록",
+          "links": [
+            "https://sites.google.com/view/qitkist/group-members"
+          ]
+        },
+        {
+          "id": "alumni-jaehak-lee",
+          "name": "Jaehak Lee",
+          "status": "KIST 사이트 당시 기록",
+          "links": [
+            "https://sites.google.com/view/qitkist/group-members"
+          ]
+        },
+        {
+          "id": "alumni-shrobona-bagchi",
+          "name": "Shrobona Bagchi",
+          "status": "현재 소속",
+          "links": [
+            "https://www.kias.re.kr/kias/cp/centrsPgmsMng/people.do?centrspgmsCd=QUC&menuNo=403016"
+          ]
+        }
+      ],
+      "currentStudents": 6,
+      "accessibilityViolations": 0
+    },
+    {
+      "width": 1440,
+      "lang": "en",
+      "overflow": false,
+      "alumni": [
+        {
+          "id": "alumni-sangjin-lee",
+          "name": "Sangjin Lee",
+          "status": "CURRENT AFFILIATION",
+          "links": [
+            "https://www.kias.re.kr/kias/cp/centrsPgmsMng/people.do?centrspgmsCd=QUC&menuNo=403016"
+          ]
+        },
+        {
+          "id": "alumni-hyukgun-kwon",
+          "name": "Hyukgun Kwon",
+          "status": "CURRENT AFFILIATION",
+          "links": [
+            "https://sejong.elsevierpure.com/en/persons/hyukgun-kwon/",
+            "https://squis.snu.ac.kr/alumni/%EA%B6%8C%ED%98%81%EA%B1%B4/"
+          ]
+        },
+        {
+          "id": "alumni-nuri-kang",
+          "name": "Nuri Kang",
+          "status": "CURRENT AFFILIATION",
+          "links": [
+            "https://purigroup.research.yale.edu/current-members"
+          ]
+        },
+        {
+          "id": "alumni-hatice-mesakkat",
+          "name": "Hatice Mesakkat",
+          "status": "CURRENT AFFILIATION",
+          "links": []
+        },
+        {
+          "id": "alumni-wooyeong-song",
+          "name": "Wooyeong Song",
+          "status": "FROM THE KIST ARCHIVE",
+          "links": [
+            "https://sites.google.com/view/qitkist/group-members"
+          ]
+        },
+        {
+          "id": "alumni-jaehak-lee",
+          "name": "Jaehak Lee",
+          "status": "FROM THE KIST ARCHIVE",
+          "links": [
+            "https://sites.google.com/view/qitkist/group-members"
+          ]
+        },
+        {
+          "id": "alumni-shrobona-bagchi",
+          "name": "Shrobona Bagchi",
+          "status": "CURRENT AFFILIATION",
+          "links": [
+            "https://www.kias.re.kr/kias/cp/centrsPgmsMng/people.do?centrspgmsCd=QUC&menuNo=403016"
+          ]
+        }
+      ],
+      "currentStudents": 6,
+      "accessibilityViolations": 0
+    },
+    {
+      "width": 1440,
+      "lang": "ko",
+      "overflow": false,
+      "alumni": [
+        {
+          "id": "alumni-sangjin-lee",
+          "name": "Sangjin Lee",
+          "status": "현재 소속",
+          "links": [
+            "https://www.kias.re.kr/kias/cp/centrsPgmsMng/people.do?centrspgmsCd=QUC&menuNo=403016"
+          ]
+        },
+        {
+          "id": "alumni-hyukgun-kwon",
+          "name": "권혁건",
+          "status": "현재 소속",
+          "links": [
+            "https://sejong.elsevierpure.com/en/persons/hyukgun-kwon/",
+            "https://squis.snu.ac.kr/alumni/%EA%B6%8C%ED%98%81%EA%B1%B4/"
+          ]
+        },
+        {
+          "id": "alumni-nuri-kang",
+          "name": "Nuri Kang",
+          "status": "현재 소속",
+          "links": [
+            "https://purigroup.research.yale.edu/current-members"
+          ]
+        },
+        {
+          "id": "alumni-hatice-mesakkat",
+          "name": "Hatice Mesakkat",
+          "status": "현재 소속",
+          "links": []
+        },
+        {
+          "id": "alumni-wooyeong-song",
+          "name": "Wooyeong Song",
+          "status": "KIST 사이트 당시 기록",
+          "links": [
+            "https://sites.google.com/view/qitkist/group-members"
+          ]
+        },
+        {
+          "id": "alumni-jaehak-lee",
+          "name": "Jaehak Lee",
+          "status": "KIST 사이트 당시 기록",
+          "links": [
+            "https://sites.google.com/view/qitkist/group-members"
+          ]
+        },
+        {
+          "id": "alumni-shrobona-bagchi",
+          "name": "Shrobona Bagchi",
+          "status": "현재 소속",
+          "links": [
+            "https://www.kias.re.kr/kias/cp/centrsPgmsMng/people.do?centrspgmsCd=QUC&menuNo=403016"
+          ]
+        }
+      ],
+      "currentStudents": 6,
+      "accessibilityViolations": 0
+    }
+  ]
+}

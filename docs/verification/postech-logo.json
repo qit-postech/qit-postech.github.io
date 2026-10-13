@@ -1,0 +1,80 @@
+{
+  "accessed": "2026-10-13",
+  "downloadedAt": "2026-10-13T14:33:52.337970+09:00",
+  "purpose": "사용자의 명시적 요청에 따라 POSTECH 연구실 사이트 검토본에 정식 마크 적용",
+  "officialGuide": {
+    "title": "로고 | 가치창출대학 POSTECH",
+    "url": "https://www.postech.ac.kr/kor/university-introduction/logo.do",
+    "lastModifiedAsShown": "2026-03-12",
+    "paraphrase": "POSTECH UI는 등록 상표이며 무단 상업 이용을 금지한다. 용역업체·기관의 UI 파일 요청은 발주 부서 담당자 경유이고, 제공 파일은 승인 용도에 한해 사용한다. 고해상도·인쇄용 자료는 대학 구성원에 제공한다. 이 기록은 법률판단이나 대학의 별도 승인 획득을 뜻하지 않는다.",
+    "incorrectUsage": [
+      "원형 임의 변형",
+      "가로세로 비례 왜곡",
+      "다른 서체로 대체",
+      "기울기 변경",
+      "복잡한 패턴 위 적용"
+    ],
+    "colorGuideReference": "공식 페이지 POSTECH RED Pantone 215 C / RGB166,25,85 안내; 다운로드 이미지의 픽셀색을 강제로 이 값으로 바꾸지 않음"
+  },
+  "webGuide": {
+    "title": "로고 타입 | POSTECH SITES",
+    "url": "https://sites.postech.ac.kr/guide/gui/GUI0301.do",
+    "minimumSizeSource": "https://sites.postech.ac.kr/_res/postech/guide/img/page/ui_rule.png",
+    "minimumSizeVisualReading": "공식 최소사용 그림에 기본 워드마크 폭 8mm 표시. 웹 CSS px로 동치 강제 환산하지 않음.",
+    "clearSpace": "수치로 지정된 clear-space는 확인한 페이지/최소사용 이미지에서 찾지 못함. 임의 수치를 공식 규정으로 쓰지 않는다. 충분한 주변 여백은 디자인 권장으로 적용.",
+    "background": "원본 컬러 PNG를 크림/밝은 단색 배경에 사용 권장. 유사한 색이나 복잡한 배경을 피하라는 가이드에 따라 plum503458 위 직접 적용은 피하고 밝은 별도 영역 사용. CSS filter/opacity로 색을 바꾸지 않음."
+  },
+  "assets": [
+    {
+      "file": "public/brand/postech-wordmark.png",
+      "sourceUrl": "https://sites.postech.ac.kr/_res/postech/guide/img/page/postech_default_logo.png",
+      "kind": "공식 기본형 워드마크",
+      "mime": "image/png",
+      "bytes": 6806,
+      "width": 733,
+      "height": 62,
+      "sha256": "f449fa29b4a481dc531230f29739741fcc304cc4b2550cca7320d1bd298b9d06",
+      "alterations": "none; original downloaded bytes preserved; no cropping, recoloring, redrawing, filtering or stretching",
+      "visualInspection": "Viewed actual local image: clean POSTECH wordmark; full-name variant includes gray English university name at right",
+      "recommendation": "권장: 150–200 CSS px 폭의 헤더, 자동 높이; 권장치이지 대학 공식 수치 아님"
+    },
+    {
+      "file": "public/brand/postech-logo.png",
+      "sourceUrl": "https://sites.postech.ac.kr/_res/postech/guide/img/page/postech_fullname_logo2.png",
+      "kind": "영문 Full Name 좌우 조합",
+      "mime": "image/png",
+      "bytes": 7136,
+      "width": 435,
+      "height": 22,
+      "sha256": "951c4ebef5373e0ed503f92e75758bdc600468dbda36ab8574021893da00561f",
+      "alterations": "none; original downloaded bytes preserved; no cropping, recoloring, redrawing, filtering or stretching",
+      "visualInspection": "Viewed actual local image: clean POSTECH wordmark; full-name variant includes gray English university name at right",
+      "recommendation": "작은 설명 문자가 있어 작은 헤더에서는 피하고 넓은 footer 등에서 사용"
+    },
+    {
+      "file": "public/brand/postech-official-header.png",
+      "sourceUrl": "https://www.postech.ac.kr/_res/postech/eng/img/common/logo_header.png",
+      "kind": "공식 영어 홈페이지 헤더 워드마크",
+      "mime": "image/png",
+      "bytes": 2826,
+      "width": 324,
+      "height": 29,
+      "sha256": "0e9ecb73ec2650a69ba49d034010427a5e4868a053ac5f766ffaf5ca597c1368",
+      "alterations": "none; original downloaded bytes preserved; no cropping, recoloring, redrawing, filtering or stretching",
+      "visualInspection": "Viewed actual local image: clean POSTECH wordmark; full-name variant includes gray English university name at right",
+      "recommendation": "공식 홈페이지 사용례 보조 근거"
+    }
+  ],
+  "selectedForHeader": "public/brand/postech-wordmark.png",
+  "downloadScope": "공식 공개 페이지 표시용 PNG만 확보; 회원전용/고해상도/인쇄용 파일 요청·접근 없음",
+  "publicationStatus": "사용자가 요청한 로컬 검토본용. 공개 배포와 기관 최종 검토는 별도 진행.",
+  "selectedForFooter": "public/brand/postech-wordmark.png",
+  "auditInfo": {
+    "scope": "Official logo provenance and original design asset documentation; does not assert a completed rendering QA",
+    "localReviewAuthorization": "User explicitly requested official POSTECH mark on this local review site",
+    "universityApprovalObtained": false,
+    "publicDeploymentPerformed": false,
+    "originalFileIntegrity": "Selected PNG original bytes, original colors and aspect ratio preserved",
+    "originalResearchFigures": "Three new Figma vector figures; not copied from KIST site or publications"
+  }
+}
